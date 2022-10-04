@@ -27,40 +27,82 @@
             attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
         }).addTo(map);
 
-        let gyms = window.fetch('gyms/lingen.json').then((res) => res.json()).then((json) => {
-            for (gym of json) {
+        window.fetch('gyms/lingen.json').then((res) => res.json()).then((json) => {
+            var raidsLevel1 = [];
+            var raidsLevel3 = [];
+            var raidsLevel5 = [];
+            var raidsLevelMega = [];
+            var gyms = [];
 
+            for (gym of json) {
                 let icon = null;
                 let raid = '';
                 if (gym.raid) {
                     let hatchTime = new Date(gym.raid.hatchTime.slice(0,-1) + '+00:00');
                     let endTime = new Date(gym.raid.endTime.slice(0,-1) + '+00:00');
 
-
                     raid = `
-                        <strong>Raid: ${gym.raid.boss ?? raid.boss.level}</strong><br>
+                        <strong>Raid: ${gym.raid.boss ?? gym.raid.level}</strong><br>
                         <span>${hatchTime.toLocaleTimeString()} bis ${endTime.toLocaleTimeString()}</span><br>
-                        <img src="${gym.raid.image}" width="64" />
+                        <img src="${gym.raid.image}" width="128" />
                     `;
+
+                    let size = [32, 32];
+                    if (gym.raid.boss) {
+                        size = [64, 64];
+                    }
 
                     icon = L.icon({
                         iconUrl: gym.raid.image,
-                        iconSize: [32, 32],
+                        iconSize: size,
                     });
                 } else {
                     raid = `<img src="${gym.image}" width="128" />`
                 }
                 if (icon) {
-                    marker = L.marker([gym.location.lat, gym.location.lng], {icon: icon}).addTo(map);
+                    marker = L.marker([gym.location.lat, gym.location.lng], {icon: icon});
                 } else {
-                    marker = L.marker([gym.location.lat, gym.location.lng]).addTo(map);
+                    marker = L.marker([gym.location.lat, gym.location.lng]);
                 }
 
                 marker.bindPopup(`
                     <h3>${gym.name}</h3>
                     ${raid}
                 `);
+
+                if (gym.raid) {
+                    if (gym.raid.level === '1') {
+                        raidsLevel1.push(marker)
+                    }
+                    if (gym.raid.level === '3') {
+                        raidsLevel3.push(marker)
+                    }
+                    if (gym.raid.level === '5') {
+                        raidsLevel5.push(marker)
+                    }
+                    if (gym.raid.level === '6') {
+                        raidsLevelMega.push(marker)
+                    }
+                } else {
+                    gyms.push(marker);
+                }
             }
+
+            baseLayers = {};
+            baseLayers[`Arenen (${gyms.length})`] = L.layerGroup(gyms);
+            baseLayers[`Level 1 (${raidsLevel1.length})`] = L.layerGroup(raidsLevel1);
+            baseLayers[`Level 3 (${raidsLevel3.length})`] = L.layerGroup(raidsLevel3);
+            baseLayers[`Level 5 (${raidsLevel5.length})`] = L.layerGroup(raidsLevel5);
+            baseLayers[`Mega (${raidsLevelMega.length})`] = L.layerGroup(raidsLevelMega);
+
+            for (layer of Object.values(baseLayers)) {
+                layer.addTo(map)
+            }
+
+            layerControl = L.control.layers({},baseLayers,{
+                collapsed: false
+            }).addTo(map)
+
         })
 
     </script>
