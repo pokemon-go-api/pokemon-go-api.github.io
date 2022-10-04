@@ -1,5 +1,21 @@
 [
     {
+        "id": "0f58d224-af4a-545d-9cff-67cfa7233296",
+        "name": "Insekten Hotel",
+        "location": {
+            "lat": 52.511659,
+            "lng": 7.316173
+        },
+        "image": "https://lh3.googleusercontent.com/sMGpwPw_vIL52lKsY-lJHHCkvGIk3iCy80Fk5CjZ5GaZtF5fbXtub_rI6d3aKvhH1HR81iLbmWcB4PM42LnWtdDVdo8",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_3_icon.png",
+            "level": "6",
+            "boss": "",
+            "hatchTime": "2022-10-04T08:16:10Z",
+            "endTime": "2022-10-04T09:01:10Z"
+        }
+    },
+    {
         "id": "1ddb3ef2-81e3-500f-a343-32ce23bece49",
         "name": "Balancierstrecke",
         "location": {
@@ -8,9 +24,9 @@
         },
         "image": "https://lh3.googleusercontent.com/0nC1rK5s4DW_FrDnKIsesX0JrmZPLbn0CquiRwoz32kTPbYqIEBoZ0SkM6cn-8sIhBImMFGd7ccUTRBWi9Lr1DpHp53k",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm52.fALOLA_d0539b1d1394942f6e7185aa1ca81ae0b7893ff65028564c0a12604008b460dc.png",
             "level": "1",
-            "boss": "",
+            "boss": "Meowth",
             "hatchTime": "2022-10-04T07:18:02Z",
             "endTime": "2022-10-04T08:03:02Z"
         }
@@ -24,9 +40,9 @@
         },
         "image": "https://lh3.googleusercontent.com/jecjivdXv9hjDSbHFR6Pp6Jd_en8s3M-hvMofjaJSSoGqolGEMhyxn9A_lHZgPduP6m6Gb0G3edyJvhJTOGlx4GIaw",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm248_58dc15a8bc2d0a1797e675c34f13400abf553471a249b1a885f80ab60a53976a.png",
             "level": "3",
-            "boss": "",
+            "boss": "Tyranitar",
             "hatchTime": "2022-10-04T07:02:49Z",
             "endTime": "2022-10-04T07:47:49Z"
         }
@@ -39,13 +55,7 @@
             "lng": 7.317548
         },
         "image": "https://lh3.googleusercontent.com/6goUFeFQX9QvmIaAdaBBC-Zhw9jxXJvD4a-UudtmZGubVQ05wkrna78mYRImH8JdfVHIvzxjMNK2xXvTGLYPv0UaX0s",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm318_e4ea30354db3424485c0c30f0eaedf975848ba5a3d39356ba2ce5fa5285047d2.png",
-            "level": "1",
-            "boss": "Carvanha",
-            "hatchTime": "2022-10-04T06:33:14Z",
-            "endTime": "2022-10-04T07:18:14Z"
-        }
+        "raid": null
     },
     {
         "id": "a508db6c-6fca-5466-bd5c-e68b6055860e",
@@ -65,13 +75,7 @@
             "lng": 7.317681
         },
         "image": "https://lh3.googleusercontent.com/CnMdUAxYn3LtoJhk_dvBMFsr-jt-cwKrd6oGsefR6jT7W8XQ343ilwR5QQyHezh5gmlf2b6Gb111i1rH69JMi95a0po",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm717_faba851a5f92facf208c685591e15610c5e0a08108fca6c957cd1fdf14558976.png",
-            "level": "5",
-            "boss": "Yveltal",
-            "hatchTime": "2022-10-04T06:21:59Z",
-            "endTime": "2022-10-04T07:06:59Z"
-        }
+        "raid": null
     },
     {
         "id": "28955d5b-1e55-5489-a59c-43547a3cefdf",
@@ -81,13 +85,7 @@
             "lng": 7.310086
         },
         "image": "https://lh3.googleusercontent.com/kXkJa3OBqD6gWgdbp4zCelHrQaaVA6sx3mhokn3PEj09UXueRtViu418qB0_nBWlvy-_Wx_NkuYVcCXPi_hJYa5csVVP",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm318_e4ea30354db3424485c0c30f0eaedf975848ba5a3d39356ba2ce5fa5285047d2.png",
-            "level": "1",
-            "boss": "Carvanha",
-            "hatchTime": "2022-10-04T06:20:13Z",
-            "endTime": "2022-10-04T07:05:13Z"
-        }
+        "raid": null
     },
     {
         "id": "4382455e-c20d-5472-a375-a324de2a1e91",
@@ -280,16 +278,6 @@
         "raid": null
     },
     {
-        "id": "0f58d224-af4a-545d-9cff-67cfa7233296",
-        "name": "Insekten Hotel",
-        "location": {
-            "lat": 52.511659,
-            "lng": 7.316173
-        },
-        "image": "https://lh3.googleusercontent.com/sMGpwPw_vIL52lKsY-lJHHCkvGIk3iCy80Fk5CjZ5GaZtF5fbXtub_rI6d3aKvhH1HR81iLbmWcB4PM42LnWtdDVdo8",
-        "raid": null
-    },
-    {
         "id": "fac4917e-6cd2-57f8-917d-9c46b9164903",
         "name": "Marienschrein",
         "location": {
@@ -370,6 +358,70 @@
         "raid": null
     },
     {
+        "id": "bb2e5445-b379-540b-b8e1-e5c7d4a95e6f",
+        "name": "Jesus am Kreuz",
+        "location": {
+            "lat": 52.502201,
+            "lng": 7.326079
+        },
+        "image": "https://lh3.googleusercontent.com/z9cIHck3ndd9aDL6pgd0EM_3rruKN3Vlf01eVXNWMujKEg1S_qmZb3yAlxoRffAZfP8PWPXllR_xwAEwPYYTeN8_mvc",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_3_icon.png",
+            "level": "6",
+            "boss": "",
+            "hatchTime": "2022-10-04T08:16:33Z",
+            "endTime": "2022-10-04T09:01:33Z"
+        }
+    },
+    {
+        "id": "344ace98-33bb-5631-9591-c92f2632922d",
+        "name": "Skulptur",
+        "location": {
+            "lat": 52.520293,
+            "lng": 7.324153
+        },
+        "image": "https://lh3.googleusercontent.com/twL1mtI7Nt1dWOAtLa4ofQvK9ReJNfAiLGlnoxMG7unS0Pqt1IOFDIGoNKlb3VBOtrAdT2GzSp_KjlOutYXZT_ax308",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "level": "3",
+            "boss": "",
+            "hatchTime": "2022-10-04T08:13:49Z",
+            "endTime": "2022-10-04T08:58:49Z"
+        }
+    },
+    {
+        "id": "142d6a00-251f-5360-9d1d-61f668e5033d",
+        "name": "Spielplatz am Strootbach",
+        "location": {
+            "lat": 52.518063,
+            "lng": 7.334862
+        },
+        "image": "https://lh3.googleusercontent.com/9L0AZ1GlodfIS7cqyMknv3I_Rk-nQYOeukWyovcYtVldFTFONFLeYvJjL7nD0XFgT3_N2eR4RRcu4m9Gb5O-Nwt4Xw",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "level": "5",
+            "boss": "",
+            "hatchTime": "2022-10-04T08:06:41Z",
+            "endTime": "2022-10-04T08:51:41Z"
+        }
+    },
+    {
+        "id": "da913aaf-16f2-598f-85a5-78f741d5d282",
+        "name": "Bolzplatz im Strootpark",
+        "location": {
+            "lat": 52.515764,
+            "lng": 7.328617
+        },
+        "image": "https://lh3.googleusercontent.com/LRgGqX-pib7sZo7C7JSyJTnFE_pXnbo-caxotgWoWE6JBmbTdYH3_rUDy6PZfaOxPQH0xjpC7AbQqNb9N8b41nNguw",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm359_b1816793a3b3312d32e6dc79b15b873b6a4ee3b0cfc5fb610264ae2a518044b2.png",
+            "level": "3",
+            "boss": "Absol",
+            "hatchTime": "2022-10-04T07:22:31Z",
+            "endTime": "2022-10-04T08:07:31Z"
+        }
+    },
+    {
         "id": "5fd98777-349f-5145-9828-d36dd15ac9d5",
         "name": "Hedon Klinik",
         "location": {
@@ -378,9 +430,9 @@
         },
         "image": "https://lh3.googleusercontent.com/yey21lzN7Z1fMNsk7t9CT8L8AfHiTZE5OlifiTAo730ErINjqTYU-5Z7MPazM_lYif2WsjPbK4IOfWmM3EIl9Ds5eRQ",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm110.fGALARIAN_7b12159bdd42a6f6265f2b0ee311850663b8174265ce9e417e8fc4f929fc0678.png",
             "level": "3",
-            "boss": "",
+            "boss": "Weezing",
             "hatchTime": "2022-10-04T07:18:37Z",
             "endTime": "2022-10-04T08:03:37Z"
         }
@@ -394,9 +446,9 @@
         },
         "image": "https://lh3.googleusercontent.com/aKYwVxLgj7uB6Z6LGPcX8ET80N14mk6ebqncaNKgA6c8BmbdtLA7qSSeiuLBjwhesVypVwY4CJvrXq7DC7-EwSsp6EBs",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm110.fGALARIAN_7b12159bdd42a6f6265f2b0ee311850663b8174265ce9e417e8fc4f929fc0678.png",
             "level": "3",
-            "boss": "",
+            "boss": "Weezing",
             "hatchTime": "2022-10-04T07:19:12Z",
             "endTime": "2022-10-04T08:04:12Z"
         }
@@ -492,26 +544,6 @@
         "raid": null
     },
     {
-        "id": "da913aaf-16f2-598f-85a5-78f741d5d282",
-        "name": "Bolzplatz im Strootpark",
-        "location": {
-            "lat": 52.515764,
-            "lng": 7.328617
-        },
-        "image": "https://lh3.googleusercontent.com/LRgGqX-pib7sZo7C7JSyJTnFE_pXnbo-caxotgWoWE6JBmbTdYH3_rUDy6PZfaOxPQH0xjpC7AbQqNb9N8b41nNguw",
-        "raid": null
-    },
-    {
-        "id": "bb2e5445-b379-540b-b8e1-e5c7d4a95e6f",
-        "name": "Jesus am Kreuz",
-        "location": {
-            "lat": 52.502201,
-            "lng": 7.326079
-        },
-        "image": "https://lh3.googleusercontent.com/z9cIHck3ndd9aDL6pgd0EM_3rruKN3Vlf01eVXNWMujKEg1S_qmZb3yAlxoRffAZfP8PWPXllR_xwAEwPYYTeN8_mvc",
-        "raid": null
-    },
-    {
         "id": "3302aa65-7fa4-5e91-ab02-15356d9f2ffe",
         "name": "Franziskus Kapelle",
         "location": {
@@ -519,16 +551,6 @@
             "lng": 7.339038
         },
         "image": "https://lh3.googleusercontent.com/ne9iMApWWYNV5f_AW1egzeNP9IdwUe130QttJv3B_x6jKswMgCmmcL2dZYkY4i8zip7IRX6paTr12gXNKTFE3LfawWy7",
-        "raid": null
-    },
-    {
-        "id": "142d6a00-251f-5360-9d1d-61f668e5033d",
-        "name": "Spielplatz am Strootbach",
-        "location": {
-            "lat": 52.518063,
-            "lng": 7.334862
-        },
-        "image": "https://lh3.googleusercontent.com/9L0AZ1GlodfIS7cqyMknv3I_Rk-nQYOeukWyovcYtVldFTFONFLeYvJjL7nD0XFgT3_N2eR4RRcu4m9Gb5O-Nwt4Xw",
         "raid": null
     },
     {
@@ -589,16 +611,6 @@
             "lng": 7.33817
         },
         "image": "https://lh3.googleusercontent.com/j5iIwnmkP2R1dPwdRBrF1lmXseWwDDCszWdxbw1eA5lUk8QSDOS3zu2VtRDvNmCZ_MAe3nOuioA81YX5iO_ZbZutGyFjbV0oRUPKLCw",
-        "raid": null
-    },
-    {
-        "id": "344ace98-33bb-5631-9591-c92f2632922d",
-        "name": "Skulptur",
-        "location": {
-            "lat": 52.520293,
-            "lng": 7.324153
-        },
-        "image": "https://lh3.googleusercontent.com/twL1mtI7Nt1dWOAtLa4ofQvK9ReJNfAiLGlnoxMG7unS0Pqt1IOFDIGoNKlb3VBOtrAdT2GzSp_KjlOutYXZT_ax308",
         "raid": null
     },
     {
@@ -672,6 +684,22 @@
         "raid": null
     },
     {
+        "id": "e4ed2ca7-0e10-58c6-92da-df21b8103e42",
+        "name": "Ortseingang Reuschberge",
+        "location": {
+            "lat": 52.525976,
+            "lng": 7.306538
+        },
+        "image": "https://lh3.googleusercontent.com/Ga2_jSFU8shTWWBXqBY4ollBYyEyjnzsMVRYHjnm-FWR7u1nI5RvBkNg4teZ7_xpwAZmDN3GGzKRKQT694Lf_PeJfg",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_3_icon.png",
+            "level": "6",
+            "boss": "",
+            "hatchTime": "2022-10-04T08:08:34Z",
+            "endTime": "2022-10-04T08:53:34Z"
+        }
+    },
+    {
         "id": "8f425943-2fa6-5ac8-b910-358057d1272e",
         "name": "Seefahrt Tut Not",
         "location": {
@@ -680,9 +708,9 @@
         },
         "image": "https://lh3.googleusercontent.com/m8qsw7N81nK68HCWGzmMf-6k8kslY_RzYD8z0fl7cp7Iq83JHdIj4R6bxiefqjL8t6XGTGXp8_lhCQbZQkxyizYiuA",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm198.g2_d589fe9ab1f9e60421163de992cb00408c0f5d2cdb682f24ec3c61103c40f18a.png",
             "level": "1",
-            "boss": "",
+            "boss": "Murkrow",
             "hatchTime": "2022-10-04T07:00:06Z",
             "endTime": "2022-10-04T07:45:06Z"
         }
@@ -727,13 +755,7 @@
             "lng": 7.30846
         },
         "image": "https://lh3.googleusercontent.com/_dSZGmd35A0OeGEoLcI7zaovIgcO1x4Pt6zx4iKdc9nOVCg95b-OLmnbsfsGWRtjhM16MgQQBl2OUDsolqf2MHAcyC8",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm717_faba851a5f92facf208c685591e15610c5e0a08108fca6c957cd1fdf14558976.png",
-            "level": "5",
-            "boss": "Yveltal",
-            "hatchTime": "2022-10-04T06:35:37Z",
-            "endTime": "2022-10-04T07:20:37Z"
-        }
+        "raid": null
     },
     {
         "id": "0b696dd3-cbe8-5fdd-88a8-c7da17c72e0a",
@@ -743,13 +765,7 @@
             "lng": 7.30492
         },
         "image": "https://lh3.googleusercontent.com/GImUyYsb3fdOuKWdC_zb_MBumQrmJFz16zGaO9UomyAlcMWQNGzDtZKH_GCYN5jVyn48kfJI5fy3HnOvG-0RYLEpvJA",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm428.fMEGA_cd8e6648e4067e291d0fcd2bfb2dd7762ba9a57b95fe5cedba37bdff5c4334ae.png",
-            "level": "6",
-            "boss": "Mega Lopunny",
-            "hatchTime": "2022-10-04T06:41:13Z",
-            "endTime": "2022-10-04T07:26:13Z"
-        }
+        "raid": null
     },
     {
         "id": "092aa103-afc8-5fb2-a3e7-0147607f5f2c",
@@ -759,13 +775,7 @@
             "lng": 7.314636
         },
         "image": "https://lh3.googleusercontent.com/S4Q_JhCZ03P5uxt5N9sDBgk4pZ4ijCHephC3RzE64JD0vBpB4Nc-wUjvStE3CkcVdZxnKWrS-655oBY9dw9jzJNAlg",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm198_911d23c9db9d551ce88c254eb3e19ff5b039e4e3419dfdc5da1e00488095f066.png",
-            "level": "1",
-            "boss": "Murkrow",
-            "hatchTime": "2022-10-04T06:33:28Z",
-            "endTime": "2022-10-04T07:18:28Z"
-        }
+        "raid": null
     },
     {
         "id": "3dc8c4a5-d4cb-5b34-ab95-931da5d7ac8d",
@@ -845,16 +855,6 @@
             "lng": 7.316128
         },
         "image": "https://lh3.googleusercontent.com/lOrjqAWGYNBqV6TB7WSYN6bGzgq69P8dtGZjBbFPzBguzEAPz9C-lFi5AvA5UNYYNEXjH7_7DHkfapBzrX8CeoUvViQ",
-        "raid": null
-    },
-    {
-        "id": "e4ed2ca7-0e10-58c6-92da-df21b8103e42",
-        "name": "Ortseingang Reuschberge",
-        "location": {
-            "lat": 52.525976,
-            "lng": 7.306538
-        },
-        "image": "https://lh3.googleusercontent.com/Ga2_jSFU8shTWWBXqBY4ollBYyEyjnzsMVRYHjnm-FWR7u1nI5RvBkNg4teZ7_xpwAZmDN3GGzKRKQT694Lf_PeJfg",
         "raid": null
     },
     {
@@ -988,6 +988,54 @@
         "raid": null
     },
     {
+        "id": "317a8325-a6c4-5eec-9364-03bf2d1df67b",
+        "name": "Christuskirche",
+        "location": {
+            "lat": 52.524608,
+            "lng": 7.333417
+        },
+        "image": "https://lh3.googleusercontent.com/VsYC9Eqm7-GDRUEgi9O_PyxsQPKsoi734h3OiNY3FSKe7sRizD_zKriD3jRgvynmSuTginJ4wtgrUmvf01l8jKSVBpY",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "level": "3",
+            "boss": "",
+            "hatchTime": "2022-10-04T08:24:00Z",
+            "endTime": "2022-10-04T09:09:00Z"
+        }
+    },
+    {
+        "id": "9c33ec47-ff40-55a5-a43e-de7ace988515",
+        "name": "Haus des Handwerks",
+        "location": {
+            "lat": 52.53507,
+            "lng": 7.339425
+        },
+        "image": "https://lh3.googleusercontent.com/GhAAwKVHcJPXF3h9W0b4BOSARYUJlx4qgSNObziE2RKdByR2Du-N_PU8vrEsuUN5BGf68dJTPyAy5TOqDhY-6qimzdSp",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_3_icon.png",
+            "level": "6",
+            "boss": "",
+            "hatchTime": "2022-10-04T08:18:52Z",
+            "endTime": "2022-10-04T09:03:52Z"
+        }
+    },
+    {
+        "id": "8488521a-52d7-5a64-9e67-8c38cac19535",
+        "name": "Spielplatz an der Heidekampstraße",
+        "location": {
+            "lat": 52.52979,
+            "lng": 7.335471
+        },
+        "image": "https://lh3.googleusercontent.com/eP1HHhGL07PRk-b19r_imEnCv_Raz4MI14EDpT4CDX8VDQetEiAG-TpisxT3EpfVGqT4oaeLVz61biTp7DQ_Zaf5A2Y",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "level": "5",
+            "boss": "",
+            "hatchTime": "2022-10-04T08:06:27Z",
+            "endTime": "2022-10-04T08:51:27Z"
+        }
+    },
+    {
         "id": "5ffe887d-d798-5bf1-b25d-15f7fe997797",
         "name": "Kruzifix im Vogelbeerenweg",
         "location": {
@@ -996,9 +1044,9 @@
         },
         "image": "https://lh3.googleusercontent.com/hUw-YTia0P677SbFaIbB0V25jrN5rec1WOXEgRQbi24vCKWTqVonAROn91dbjRxDAb9hzXNlMv7ur9UH9cc47J8Itw8",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm110.fGALARIAN_7b12159bdd42a6f6265f2b0ee311850663b8174265ce9e417e8fc4f929fc0678.png",
             "level": "3",
-            "boss": "",
+            "boss": "Weezing",
             "hatchTime": "2022-10-04T07:25:37Z",
             "endTime": "2022-10-04T08:10:37Z"
         }
@@ -1012,9 +1060,9 @@
         },
         "image": "https://lh3.googleusercontent.com/M3rpMI86YJDoGHb3n1ob1rOe9g2MkOfHrCEb95SKrVHRLMEEfI51Vu7sP41ZbhdpWA_waAOhR5IsN5sZ9WUFWUvBOqk",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm248_58dc15a8bc2d0a1797e675c34f13400abf553471a249b1a885f80ab60a53976a.png",
             "level": "3",
-            "boss": "",
+            "boss": "Tyranitar",
             "hatchTime": "2022-10-04T07:07:20Z",
             "endTime": "2022-10-04T07:52:20Z"
         }
@@ -1076,9 +1124,9 @@
         },
         "image": "https://lh3.googleusercontent.com/gPwudrEFSr78ofiA84n8y48c7BkKxezzVzaIK79ovcnNNZ2uryUEVsXxy0k-El5jIvJoP5ol_OdNSJikQvETTey8rb9mnmwmWiroRFDx",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm717_faba851a5f92facf208c685591e15610c5e0a08108fca6c957cd1fdf14558976.png",
             "level": "5",
-            "boss": "",
+            "boss": "Yveltal",
             "hatchTime": "2022-10-04T07:14:43Z",
             "endTime": "2022-10-04T07:59:43Z"
         }
@@ -1092,9 +1140,9 @@
         },
         "image": "https://lh3.googleusercontent.com/o-cxjFOsfzjkEH5ejfmBhKmwHATZ35c-tXpEnN012WgvSHe6sPLlfwk5nmuzMWQtEWynqELJLxAELI3fI0xwlj1qt7Hn",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_3_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm428.fMEGA_cd8e6648e4067e291d0fcd2bfb2dd7762ba9a57b95fe5cedba37bdff5c4334ae.png",
             "level": "6",
-            "boss": "",
+            "boss": "Mega Lopunny",
             "hatchTime": "2022-10-04T07:00:40Z",
             "endTime": "2022-10-04T07:45:40Z"
         }
@@ -1107,13 +1155,7 @@
             "lng": 7.329268
         },
         "image": "https://lh3.googleusercontent.com/aYe7aPfIadjz1z_e10HVaFTyD9j61D--hn5gE65-qt_SD_devf8yyahdaIM6yeYZQ1kTA-JBu4Bv4KnzCKSyzQLpwaA",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm428.fMEGA_cd8e6648e4067e291d0fcd2bfb2dd7762ba9a57b95fe5cedba37bdff5c4334ae.png",
-            "level": "6",
-            "boss": "Mega Lopunny",
-            "hatchTime": "2022-10-04T06:29:07Z",
-            "endTime": "2022-10-04T07:14:07Z"
-        }
+        "raid": null
     },
     {
         "id": "dcf8665b-2b44-511f-aec9-6de588a96952",
@@ -1123,13 +1165,7 @@
             "lng": 7.350747
         },
         "image": "https://lh3.googleusercontent.com/qasCC8hkLwcJ2JPKT18_Fuj7BFnkoVgBnLVhQm3KRmy8uRdykcsEVAG4-3U_xWDESYXIQr991i95PJBsxSt6yCmBlg",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm428.fMEGA_cd8e6648e4067e291d0fcd2bfb2dd7762ba9a57b95fe5cedba37bdff5c4334ae.png",
-            "level": "6",
-            "boss": "Mega Lopunny",
-            "hatchTime": "2022-10-04T06:22:53Z",
-            "endTime": "2022-10-04T07:07:53Z"
-        }
+        "raid": null
     },
     {
         "id": "6827fdcf-9e11-5d45-965f-0ceb111f6b49",
@@ -1262,16 +1298,6 @@
         "raid": null
     },
     {
-        "id": "317a8325-a6c4-5eec-9364-03bf2d1df67b",
-        "name": "Christuskirche",
-        "location": {
-            "lat": 52.524608,
-            "lng": 7.333417
-        },
-        "image": "https://lh3.googleusercontent.com/VsYC9Eqm7-GDRUEgi9O_PyxsQPKsoi734h3OiNY3FSKe7sRizD_zKriD3jRgvynmSuTginJ4wtgrUmvf01l8jKSVBpY",
-        "raid": null
-    },
-    {
         "id": "77181596-23f0-5df4-9821-0e680a8348db",
         "name": "Schützenhaus Laxten",
         "location": {
@@ -1329,26 +1355,6 @@
             "lng": 7.332854
         },
         "image": "https://lh3.googleusercontent.com/X-YtUn0sshiSQ1VIkyadajQ7csiZEjI2psV05UziHWG-q7tuEeMNhs1LAkRiZCJFht2fOWT4EZkOXS1VcLqDIoyRZg",
-        "raid": null
-    },
-    {
-        "id": "9c33ec47-ff40-55a5-a43e-de7ace988515",
-        "name": "Haus des Handwerks",
-        "location": {
-            "lat": 52.53507,
-            "lng": 7.339425
-        },
-        "image": "https://lh3.googleusercontent.com/GhAAwKVHcJPXF3h9W0b4BOSARYUJlx4qgSNObziE2RKdByR2Du-N_PU8vrEsuUN5BGf68dJTPyAy5TOqDhY-6qimzdSp",
-        "raid": null
-    },
-    {
-        "id": "8488521a-52d7-5a64-9e67-8c38cac19535",
-        "name": "Spielplatz an der Heidekampstraße",
-        "location": {
-            "lat": 52.52979,
-            "lng": 7.335471
-        },
-        "image": "https://lh3.googleusercontent.com/eP1HHhGL07PRk-b19r_imEnCv_Raz4MI14EDpT4CDX8VDQetEiAG-TpisxT3EpfVGqT4oaeLVz61biTp7DQ_Zaf5A2Y",
         "raid": null
     },
     {
