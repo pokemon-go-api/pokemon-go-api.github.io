@@ -29,19 +29,31 @@
 
         let gyms = window.fetch('gyms/lingen.json').then((res) => res.json()).then((json) => {
             for (gym of json) {
-                var marker = L.marker([gym.location.lat, gym.location.lng]).addTo(map);
 
+                let icon = null;
                 let raid = '';
                 if (gym.raid) {
-
                     let hatchTime = new Date(gym.raid.hatchTime.slice(0,-1) + '+00:00');
                     let endTime = new Date(gym.raid.endTime.slice(0,-1) + '+00:00');
+
 
                     raid = `
                         <strong>Raid: ${gym.raid.boss ?? raid.boss.level}</strong><br>
                         <span>${hatchTime.toLocaleTimeString()} bis ${endTime.toLocaleTimeString()}</span><br>
-                        <img src="${gym.raid.image}" width="128" />
-                    `
+                        <img src="${gym.raid.image}" width="64" />
+                    `;
+
+                    icon = L.icon({
+                        iconUrl: gym.raid.image,
+                        iconSize: [32, 32],
+                    });
+                } else {
+                    raid = `<img src="${gym.image}" width="128" />`
+                }
+                if (icon) {
+                    marker = L.marker([gym.location.lat, gym.location.lng], {icon: icon}).addTo(map);
+                } else {
+                    marker = L.marker([gym.location.lat, gym.location.lng]).addTo(map);
                 }
 
                 marker.bindPopup(`
