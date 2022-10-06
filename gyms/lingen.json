@@ -1,5 +1,69 @@
 [
     {
+        "id": "bd4619c4-aaae-54f7-88a5-a9eccedc1f3d",
+        "name": "Brunnen in Darme",
+        "location": {
+            "lat": 52.501669,
+            "lng": 7.31644
+        },
+        "image": "https://lh3.googleusercontent.com/gIfk7VAPupwkzl6L4aezXkuWFe-UZtnGmy9-PG9lg0NaHxDxwD4pi0TuMaPMY-yxAmkBYM3EZUOQ-cM87wE6le9cRVc",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "level": "5",
+            "boss": "",
+            "hatchTime": "2022-10-06T14:31:51Z",
+            "endTime": "2022-10-06T15:16:51Z"
+        }
+    },
+    {
+        "id": "8f6016dc-0514-5f61-aaf1-0ad0619daff7",
+        "name": "Gedenkstein",
+        "location": {
+            "lat": 52.510622,
+            "lng": 7.28965
+        },
+        "image": "https://lh3.googleusercontent.com/PlUpj7VZPjMWnSdQjB_1M_Z5zAVUZRbHaBPh6zf-FIccRCuu0p0xl-dDt7MXzvLmBhgW4abvErFchxkhEdsSc3QcfF0",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_3_icon.png",
+            "level": "6",
+            "boss": "",
+            "hatchTime": "2022-10-06T14:12:10Z",
+            "endTime": "2022-10-06T14:57:10Z"
+        }
+    },
+    {
+        "id": "8057b210-2cdb-55c2-b502-98734ef6f9d3",
+        "name": "Evangelische Freikirche",
+        "location": {
+            "lat": 52.50867,
+            "lng": 7.288067
+        },
+        "image": "https://lh3.googleusercontent.com/FkdM5XnF0dpiU5wL80xOeaXhBqpOFQAUp44m7S6GEpfhtLFLL5IF0HWxdKOCv163c70fNyQ6QzPo7x0hw-ny-FIudbY",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "level": "3",
+            "boss": "",
+            "hatchTime": "2022-10-06T14:14:12Z",
+            "endTime": "2022-10-06T14:59:12Z"
+        }
+    },
+    {
+        "id": "c656f52e-ab5f-5907-a401-be5950d74857",
+        "name": "Kulturforum St. Michael Turm",
+        "location": {
+            "lat": 52.51806,
+            "lng": 7.304778
+        },
+        "image": "https://lh3.googleusercontent.com/awCdjbjkDTOBwmoBJWBXLxYUhYmsD23bAH1BGneh2tZML5gUthyJyc8y3vBKe6QWhTgWjdn2HM9E_n7-5tYxinCisQ",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "level": "3",
+            "boss": "",
+            "hatchTime": "2022-10-06T14:24:52Z",
+            "endTime": "2022-10-06T15:09:52Z"
+        }
+    },
+    {
         "id": "3ccae8e6-e821-57f2-b774-a265260b5752",
         "name": "Neues Rathaus",
         "location": {
@@ -56,9 +120,9 @@
         },
         "image": "https://lh3.googleusercontent.com/OGQpJArEviVBLN-Ig2ZLbl4q0bn6QB8vIwsA4NHWGBgYobNQwhgZE9RPvw622qCPJOf67ruxlspSE-VKZwUuUHwr2V0",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm717_faba851a5f92facf208c685591e15610c5e0a08108fca6c957cd1fdf14558976.png",
             "level": "5",
-            "boss": "",
+            "boss": "Yveltal",
             "hatchTime": "2022-10-06T13:26:41Z",
             "endTime": "2022-10-06T14:11:41Z"
         }
@@ -72,9 +136,9 @@
         },
         "image": "https://lh3.googleusercontent.com/NsgSX-zLAW-W2EE-HdHNT2HqDgPDtwMYqBKblIjvbK91AC4H2gIeFvfcErogI1w0oU3Ip1X2PbTLF5u-Ejce-s6JZ4E",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm221_2498e9e2f3bf655b5a1c5b4444ecff7cb1be1cdcbd3666a479e44909db5c399f.png",
             "level": "3",
-            "boss": "",
+            "boss": "Piloswine",
             "hatchTime": "2022-10-06T13:25:02Z",
             "endTime": "2022-10-06T14:10:02Z"
         }
@@ -216,16 +280,6 @@
         "raid": null
     },
     {
-        "id": "8f6016dc-0514-5f61-aaf1-0ad0619daff7",
-        "name": "Gedenkstein",
-        "location": {
-            "lat": 52.510622,
-            "lng": 7.28965
-        },
-        "image": "https://lh3.googleusercontent.com/PlUpj7VZPjMWnSdQjB_1M_Z5zAVUZRbHaBPh6zf-FIccRCuu0p0xl-dDt7MXzvLmBhgW4abvErFchxkhEdsSc3QcfF0",
-        "raid": null
-    },
-    {
         "id": "da94de32-9a15-5515-a7a9-b7895c0a2013",
         "name": "Beintrainer",
         "location": {
@@ -246,16 +300,6 @@
         "raid": null
     },
     {
-        "id": "bd4619c4-aaae-54f7-88a5-a9eccedc1f3d",
-        "name": "Brunnen in Darme",
-        "location": {
-            "lat": 52.501669,
-            "lng": 7.31644
-        },
-        "image": "https://lh3.googleusercontent.com/gIfk7VAPupwkzl6L4aezXkuWFe-UZtnGmy9-PG9lg0NaHxDxwD4pi0TuMaPMY-yxAmkBYM3EZUOQ-cM87wE6le9cRVc",
-        "raid": null
-    },
-    {
         "id": "2fb135a5-5a60-5647-935a-f0258687e62f",
         "name": "Emsland Arena",
         "location": {
@@ -273,16 +317,6 @@
             "lng": 7.283818
         },
         "image": "https://lh3.googleusercontent.com/7Jp30daWdFQvSUtbS_1584qlfDSG7ZP2V5kodAaC_Ix5MWM-gWn70nJHdAIU8y5w5IUs0PU3z_8eEY_POEYBmN94DQ",
-        "raid": null
-    },
-    {
-        "id": "c656f52e-ab5f-5907-a401-be5950d74857",
-        "name": "Kulturforum St. Michael Turm",
-        "location": {
-            "lat": 52.51806,
-            "lng": 7.304778
-        },
-        "image": "https://lh3.googleusercontent.com/awCdjbjkDTOBwmoBJWBXLxYUhYmsD23bAH1BGneh2tZML5gUthyJyc8y3vBKe6QWhTgWjdn2HM9E_n7-5tYxinCisQ",
         "raid": null
     },
     {
@@ -336,16 +370,6 @@
         "raid": null
     },
     {
-        "id": "8057b210-2cdb-55c2-b502-98734ef6f9d3",
-        "name": "Evangelische Freikirche",
-        "location": {
-            "lat": 52.50867,
-            "lng": 7.288067
-        },
-        "image": "https://lh3.googleusercontent.com/FkdM5XnF0dpiU5wL80xOeaXhBqpOFQAUp44m7S6GEpfhtLFLL5IF0HWxdKOCv163c70fNyQ6QzPo7x0hw-ny-FIudbY",
-        "raid": null
-    },
-    {
         "id": "be00d791-7730-5168-bdfa-988e57923b6e",
         "name": "Infotafel Nordlohner Heide",
         "location": {
@@ -376,6 +400,54 @@
         "raid": null
     },
     {
+        "id": "779b9415-9197-5c03-a53e-e333ba6c8496",
+        "name": "Der Zahn",
+        "location": {
+            "lat": 52.516362,
+            "lng": 7.33817
+        },
+        "image": "https://lh3.googleusercontent.com/j5iIwnmkP2R1dPwdRBrF1lmXseWwDDCszWdxbw1eA5lUk8QSDOS3zu2VtRDvNmCZ_MAe3nOuioA81YX5iO_ZbZutGyFjbV0oRUPKLCw",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "level": "3",
+            "boss": "",
+            "hatchTime": "2022-10-06T14:34:11Z",
+            "endTime": "2022-10-06T15:19:11Z"
+        }
+    },
+    {
+        "id": "ece7d34c-58e0-5628-a51a-bbd6af9a5974",
+        "name": "Wasserturm",
+        "location": {
+            "lat": 52.517121,
+            "lng": 7.320821
+        },
+        "image": "https://lh3.googleusercontent.com/-gKAkPFB2Ew1k4KvYfSFeQJkmB49MNx7tp3miI6-slJfb3gQXVai4Bp99MH7YajprfmiOF9NcQAHHTQnmIyni38zAA",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "level": "1",
+            "boss": "",
+            "hatchTime": "2022-10-06T14:31:43Z",
+            "endTime": "2022-10-06T15:16:43Z"
+        }
+    },
+    {
+        "id": "5fd98777-349f-5145-9828-d36dd15ac9d5",
+        "name": "Hedon Klinik",
+        "location": {
+            "lat": 52.512302,
+            "lng": 7.35862
+        },
+        "image": "https://lh3.googleusercontent.com/yey21lzN7Z1fMNsk7t9CT8L8AfHiTZE5OlifiTAo730ErINjqTYU-5Z7MPazM_lYif2WsjPbK4IOfWmM3EIl9Ds5eRQ",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "level": "1",
+            "boss": "",
+            "hatchTime": "2022-10-06T14:31:35Z",
+            "endTime": "2022-10-06T15:16:35Z"
+        }
+    },
+    {
         "id": "45652a79-b138-5e51-8a76-5e665143eacb",
         "name": "Zum Märchenwald",
         "location": {
@@ -384,9 +456,9 @@
         },
         "image": "https://lh3.googleusercontent.com/5HFmns_mIXLGFbccgUB1J1UrkJ_gxJ4bMLXbaI_1FQpPchqZTwmreWXckYWNt12GtDHt-cKKVPfWgVzlgMRTQv2ZsZWs",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm191_d0ce60ad0b509ebb8195ec210698189e126e3ceecbc7f7cd00afcefc90336f40.png",
             "level": "1",
-            "boss": "",
+            "boss": "Sunkern",
             "hatchTime": "2022-10-06T13:33:42Z",
             "endTime": "2022-10-06T14:18:42Z"
         }
@@ -480,9 +552,9 @@
         },
         "image": "https://lh3.googleusercontent.com/1-T0e3LF2jXBvPQHH3J5S70qi9Go_Ew081nB7I_pNIeCnjf00umQsI1jOXGqMvBpBkhLGF0ONoQz-8KGrU0EYWP3iX8",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm176_0cd8a5ec1d3d0f8f05bfd7e9c657d74b1ad22463a45cdd36f413f4a7d072d94c.png",
             "level": "3",
-            "boss": "",
+            "boss": "Togetic",
             "hatchTime": "2022-10-06T13:37:16Z",
             "endTime": "2022-10-06T14:22:16Z"
         }
@@ -496,9 +568,9 @@
         },
         "image": "https://lh3.googleusercontent.com/BVyc8wmPxu_nqak8AitpSlK0RNj5Qmc-9ou1SbGZNbZ7FW5Fh4v8c5VegWRnYhiVTzhzRC276FTJmx2L9n_xzPmd2Q",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm79_e397472047c977354f380f4b12a63f0eda2ecb1f726faa6ab34975e57a2efed2.png",
             "level": "1",
-            "boss": "",
+            "boss": "Slowpoke",
             "hatchTime": "2022-10-06T13:32:38Z",
             "endTime": "2022-10-06T14:17:38Z"
         }
@@ -537,13 +609,7 @@
             "lng": 7.334862
         },
         "image": "https://lh3.googleusercontent.com/9L0AZ1GlodfIS7cqyMknv3I_Rk-nQYOeukWyovcYtVldFTFONFLeYvJjL7nD0XFgT3_N2eR4RRcu4m9Gb5O-Nwt4Xw",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm221.g2_6faf84bfb05c995f5bfdf22ac79ac2dc1bf9a0705074a8a909af39dbfb1db247.png",
-            "level": "3",
-            "boss": "Piloswine",
-            "hatchTime": "2022-10-06T12:41:58Z",
-            "endTime": "2022-10-06T13:26:58Z"
-        }
+        "raid": null
     },
     {
         "id": "07881ea7-cd17-561e-90e3-c5d58ea8e007",
@@ -646,26 +712,6 @@
         "raid": null
     },
     {
-        "id": "5fd98777-349f-5145-9828-d36dd15ac9d5",
-        "name": "Hedon Klinik",
-        "location": {
-            "lat": 52.512302,
-            "lng": 7.35862
-        },
-        "image": "https://lh3.googleusercontent.com/yey21lzN7Z1fMNsk7t9CT8L8AfHiTZE5OlifiTAo730ErINjqTYU-5Z7MPazM_lYif2WsjPbK4IOfWmM3EIl9Ds5eRQ",
-        "raid": null
-    },
-    {
-        "id": "ece7d34c-58e0-5628-a51a-bbd6af9a5974",
-        "name": "Wasserturm",
-        "location": {
-            "lat": 52.517121,
-            "lng": 7.320821
-        },
-        "image": "https://lh3.googleusercontent.com/-gKAkPFB2Ew1k4KvYfSFeQJkmB49MNx7tp3miI6-slJfb3gQXVai4Bp99MH7YajprfmiOF9NcQAHHTQnmIyni38zAA",
-        "raid": null
-    },
-    {
         "id": "7055f757-2b53-5c09-9084-81b589135f4e",
         "name": "Hoogenhook Stein",
         "location": {
@@ -696,16 +742,6 @@
         "raid": null
     },
     {
-        "id": "779b9415-9197-5c03-a53e-e333ba6c8496",
-        "name": "Der Zahn",
-        "location": {
-            "lat": 52.516362,
-            "lng": 7.33817
-        },
-        "image": "https://lh3.googleusercontent.com/j5iIwnmkP2R1dPwdRBrF1lmXseWwDDCszWdxbw1eA5lUk8QSDOS3zu2VtRDvNmCZ_MAe3nOuioA81YX5iO_ZbZutGyFjbV0oRUPKLCw",
-        "raid": null
-    },
-    {
         "id": "c4b33d86-8658-5d53-8aa7-cc5278bd1990",
         "name": "Wegkreuz",
         "location": {
@@ -724,6 +760,54 @@
         },
         "image": "https://lh3.googleusercontent.com/Xv5Z7vVCEsL4SlJZbPlRpzGztihx0jBqMq8HokWiIShLGGy3cxsxVQAO1orhRRgCqj2YOm5ULcTu0cIcd9ZDLNdLMcS_",
         "raid": null
+    },
+    {
+        "id": "763b523e-4ee1-5d2c-ab23-c2632cba34b4",
+        "name": "Zwangsarbeiterlager. 1942-1945",
+        "location": {
+            "lat": 52.533919,
+            "lng": 7.312399
+        },
+        "image": "https://lh3.googleusercontent.com/MVAhgqo4As2VavmxKpZm_bwh56Fk6ICTC-Lq13MAknRf-YiYvLM68iM8idCy_sw5nUabvgDUNLrKLvN1dONvyrgwJ_qB",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "level": "3",
+            "boss": "",
+            "hatchTime": "2022-10-06T14:33:27Z",
+            "endTime": "2022-10-06T15:18:27Z"
+        }
+    },
+    {
+        "id": "9bff7555-2648-5ef2-84f7-dd8f4eb5934f",
+        "name": "St. Bonifatius Kirche",
+        "location": {
+            "lat": 52.522655,
+            "lng": 7.319504
+        },
+        "image": "https://lh3.googleusercontent.com/NBGz_H9oAuIBDANMA0niDxtt1Wo1xwmJoSZXMB02Nk1vMJer5Xf3ukcZrRkjoPTJacOblhNtglgADeXa2KGgaztfo8c",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "level": "3",
+            "boss": "",
+            "hatchTime": "2022-10-06T14:31:07Z",
+            "endTime": "2022-10-06T15:16:07Z"
+        }
+    },
+    {
+        "id": "3dc8c4a5-d4cb-5b34-ab95-931da5d7ac8d",
+        "name": "Spielplatz Am Hainbuchenweg",
+        "location": {
+            "lat": 52.534169,
+            "lng": 7.312063
+        },
+        "image": "https://lh3.googleusercontent.com/L-vBrCK9xoLbqErl9lhw1Nr2kY-BSNasSAkZJO8PEGY4FJlQm_kKByafphj8XzCvY6VqfHArI4WWaaOkWMcquzutJw",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "level": "1",
+            "boss": "",
+            "hatchTime": "2022-10-06T14:24:39Z",
+            "endTime": "2022-10-06T15:09:39Z"
+        }
     },
     {
         "id": "4996ed79-475d-5cc0-b6c9-45bca4cfaf03",
@@ -782,9 +866,9 @@
         },
         "image": "https://lh3.googleusercontent.com/4LH_8oMu9rq4MoBPH9SbsylJymSPnzD-iT96XaWqG3r0MsGCNLyASeIj1VV7U0u-eWJuCvNDeNeawhsIdxo5ejiYkvw",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm221_2498e9e2f3bf655b5a1c5b4444ecff7cb1be1cdcbd3666a479e44909db5c399f.png",
             "level": "3",
-            "boss": "",
+            "boss": "Piloswine",
             "hatchTime": "2022-10-06T13:31:55Z",
             "endTime": "2022-10-06T14:16:55Z"
         }
@@ -798,9 +882,9 @@
         },
         "image": "https://lh3.googleusercontent.com/W_igtABJjZYi_TLGQ0y24u1Db37usXzb0jAznN6ctXIF02T0RbitxD7PUArcUTGT73jemyTibHsbxtuNCNcLnNaVNwo",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm95_4e0faaca2e8997cc2476fb5508e72798ad9341ddd7d5875a160ed637f14609a9.png",
             "level": "1",
-            "boss": "",
+            "boss": "Onix",
             "hatchTime": "2022-10-06T13:35:47Z",
             "endTime": "2022-10-06T14:20:47Z"
         }
@@ -871,13 +955,7 @@
             "lng": 7.295316
         },
         "image": "https://lh3.googleusercontent.com/sReX1vG_FrOD3MFc3com45Ir-OXJnBCKrJzJx3KBnmXjpDGuo59l38rcfy5PydHC8AKuA75ucu1n1zod1p0MPWKZ5i15",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm95_4e0faaca2e8997cc2476fb5508e72798ad9341ddd7d5875a160ed637f14609a9.png",
-            "level": "1",
-            "boss": "Onix",
-            "hatchTime": "2022-10-06T12:42:26Z",
-            "endTime": "2022-10-06T13:27:26Z"
-        }
+        "raid": null
     },
     {
         "id": "6d8b358b-78e5-5ad4-8136-0536043f43a8",
@@ -980,16 +1058,6 @@
         "raid": null
     },
     {
-        "id": "3dc8c4a5-d4cb-5b34-ab95-931da5d7ac8d",
-        "name": "Spielplatz Am Hainbuchenweg",
-        "location": {
-            "lat": 52.534169,
-            "lng": 7.312063
-        },
-        "image": "https://lh3.googleusercontent.com/L-vBrCK9xoLbqErl9lhw1Nr2kY-BSNasSAkZJO8PEGY4FJlQm_kKByafphj8XzCvY6VqfHArI4WWaaOkWMcquzutJw",
-        "raid": null
-    },
-    {
         "id": "51d0a6a1-c18a-58d2-9291-db2b957a4983",
         "name": "Kirchturm Maria Königin",
         "location": {
@@ -1007,26 +1075,6 @@
             "lng": 7.317159
         },
         "image": "https://lh3.googleusercontent.com/IMrS0GFlCP7wQbaazdEB9dv5Oa7aCyT80gtMM3iXoB9ldpXCIonpRQokISZKHZTgmsRr4_tsBzaoDNMxC-shM2M6wpk",
-        "raid": null
-    },
-    {
-        "id": "763b523e-4ee1-5d2c-ab23-c2632cba34b4",
-        "name": "Zwangsarbeiterlager. 1942-1945",
-        "location": {
-            "lat": 52.533919,
-            "lng": 7.312399
-        },
-        "image": "https://lh3.googleusercontent.com/MVAhgqo4As2VavmxKpZm_bwh56Fk6ICTC-Lq13MAknRf-YiYvLM68iM8idCy_sw5nUabvgDUNLrKLvN1dONvyrgwJ_qB",
-        "raid": null
-    },
-    {
-        "id": "9bff7555-2648-5ef2-84f7-dd8f4eb5934f",
-        "name": "St. Bonifatius Kirche",
-        "location": {
-            "lat": 52.522655,
-            "lng": 7.319504
-        },
-        "image": "https://lh3.googleusercontent.com/NBGz_H9oAuIBDANMA0niDxtt1Wo1xwmJoSZXMB02Nk1vMJer5Xf3ukcZrRkjoPTJacOblhNtglgADeXa2KGgaztfo8c",
         "raid": null
     },
     {
@@ -1116,9 +1164,9 @@
         },
         "image": "https://lh3.googleusercontent.com/mYRo7MO7IXWiCLPp2Rj-rTjb6BqWagUdbv97EiKnp2c5648pj2AcUEDPLvpTQ7tDEBV-O4eeqhY3FldlW_ugwolJQ4oq",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm112_730e433b06dd73d9f2b0de8e7340a49bcc085b8eb6c82a4440721e343fc76d42.png",
             "level": "3",
-            "boss": "",
+            "boss": "Rhydon",
             "hatchTime": "2022-10-06T13:34:54Z",
             "endTime": "2022-10-06T14:19:54Z"
         }
@@ -1132,9 +1180,9 @@
         },
         "image": "https://lh3.googleusercontent.com/ntaqfzd4G6Mx8-VMU8NWWorE8QRcyaAM8r3l30_zcNfIAIDbebMv9gydfeKZiqXQtaCwW0qEi9CNxVLI4b_1sCdj-g",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_3_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm428.fMEGA_cd8e6648e4067e291d0fcd2bfb2dd7762ba9a57b95fe5cedba37bdff5c4334ae.png",
             "level": "6",
-            "boss": "",
+            "boss": "Mega Lopunny",
             "hatchTime": "2022-10-06T13:32:49Z",
             "endTime": "2022-10-06T14:17:49Z"
         }
@@ -1148,9 +1196,9 @@
         },
         "image": "https://lh3.googleusercontent.com/XD4V0NWTjtHZJnxVvxP7NgKaqhUnD4i1BaqvrLr8XZE6WWNzcnKfE6l3nFh8cGsEe2V_pKdNsbvScCt2fquHSdMQND8F",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm717_faba851a5f92facf208c685591e15610c5e0a08108fca6c957cd1fdf14558976.png",
             "level": "5",
-            "boss": "",
+            "boss": "Yveltal",
             "hatchTime": "2022-10-06T13:23:22Z",
             "endTime": "2022-10-06T14:08:22Z"
         }
@@ -1205,13 +1253,7 @@
             "lng": 7.333189
         },
         "image": "https://lh3.googleusercontent.com/RI2TIMCIgB_5e-XD8N33htEKZwXwG25DRHjG9Z6GI34GsgKqPmGsB9pRphaf0labrlep3ZjgKbMW2QZAmUrAqstW3Nw",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm123_3edd2d8eea4912d42897b81ab08bf1ab0503b0aa4e581b13b6935f49497330ca.png",
-            "level": "1",
-            "boss": "Scyther",
-            "hatchTime": "2022-10-06T12:43:11Z",
-            "endTime": "2022-10-06T13:28:11Z"
-        }
+        "raid": null
     },
     {
         "id": "9c33ec47-ff40-55a5-a43e-de7ace988515",
@@ -1221,13 +1263,7 @@
             "lng": 7.339425
         },
         "image": "https://lh3.googleusercontent.com/GhAAwKVHcJPXF3h9W0b4BOSARYUJlx4qgSNObziE2RKdByR2Du-N_PU8vrEsuUN5BGf68dJTPyAy5TOqDhY-6qimzdSp",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm717_faba851a5f92facf208c685591e15610c5e0a08108fca6c957cd1fdf14558976.png",
-            "level": "5",
-            "boss": "Yveltal",
-            "hatchTime": "2022-10-06T12:42:13Z",
-            "endTime": "2022-10-06T13:27:13Z"
-        }
+        "raid": null
     },
     {
         "id": "e5b8f52d-eb53-5544-84ee-f71f542bff08",
@@ -2097,13 +2133,7 @@
             "lng": 7.286396
         },
         "image": "https://lh3.googleusercontent.com/L44Xqv2jx44aOGpB1QcKl8QAEzwQaZagYdJQViSPfFDh4sEMsmXWjGDkDos6CRLMdXLWBvy-Ze55_FnNySAyCfX_OHk",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm221.g2_6faf84bfb05c995f5bfdf22ac79ac2dc1bf9a0705074a8a909af39dbfb1db247.png",
-            "level": "3",
-            "boss": "Piloswine",
-            "hatchTime": "2022-10-06T12:43:38Z",
-            "endTime": "2022-10-06T13:28:38Z"
-        }
+        "raid": null
     },
     {
         "id": "e212a16d-8afd-5c06-ba06-af02ac0b6f86",
@@ -2253,7 +2283,29 @@
             "lng": 7.369524
         },
         "image": "https://lh3.googleusercontent.com/EekH933bzO14A8fvhhQM-4EN1e5K9byXgXJ4_Xoa9E9EkqSaz_uTyhJDToLSJVZW-wzAN0tkuVftvFArmg7UH5wgsF6e",
-        "raid": null
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "level": "3",
+            "boss": "",
+            "hatchTime": "2022-10-06T14:26:02Z",
+            "endTime": "2022-10-06T15:11:02Z"
+        }
+    },
+    {
+        "id": "9e47a572-1a9f-5d95-84b6-75a683bf343f",
+        "name": "St.Marien Kirche",
+        "location": {
+            "lat": 52.559662,
+            "lng": 7.366017
+        },
+        "image": "https://lh3.googleusercontent.com/1pXJyv-D8VyFos6mZy20RQtgnkVSwKqnMuSGFRI1WxJAazc94d67XBdJuy1h-tMjf5JeSnaQJDN4Dz7mJqR9DzwJz3s",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "level": "5",
+            "boss": "",
+            "hatchTime": "2022-10-06T14:13:52Z",
+            "endTime": "2022-10-06T14:58:52Z"
+        }
     },
     {
         "id": "aa7e1a8d-4707-51b7-8f03-03363ecf09af",
@@ -2283,16 +2335,6 @@
             "lng": 7.359918
         },
         "image": "https://lh3.googleusercontent.com/oRqqhD9oSspNIBbeLCDoH-GODW0s2rR5t2SDom1nXpj9tlo9Dj56ICKEupse3poPmraQuHj98u_LNhWMyBKDpErMXw",
-        "raid": null
-    },
-    {
-        "id": "9e47a572-1a9f-5d95-84b6-75a683bf343f",
-        "name": "St.Marien Kirche",
-        "location": {
-            "lat": 52.559662,
-            "lng": 7.366017
-        },
-        "image": "https://lh3.googleusercontent.com/1pXJyv-D8VyFos6mZy20RQtgnkVSwKqnMuSGFRI1WxJAazc94d67XBdJuy1h-tMjf5JeSnaQJDN4Dz7mJqR9DzwJz3s",
         "raid": null
     },
     {
@@ -2530,6 +2572,22 @@
         "raid": null
     },
     {
+        "id": "91bfbcfb-5218-5bc8-9653-fd42e46dd3e9",
+        "name": "Wasserspiel Andervenne West",
+        "location": {
+            "lat": 52.486559,
+            "lng": 7.545903
+        },
+        "image": "https://lh3.googleusercontent.com/DJXLrFZuCcuy8Xk_wlZ0DCtPJgBGP0mN-h8FX0032Z2ROsC7qStThcdZl-tI6gC6zu23Dd2MvVq4KTpfhwx3pCBbMDE",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "level": "1",
+            "boss": "",
+            "hatchTime": "2022-10-06T14:03:24Z",
+            "endTime": "2022-10-06T14:48:24Z"
+        }
+    },
+    {
         "id": "29cb0341-4829-52b8-8913-9b662ff780c6",
         "name": "St. Georg Kirche Thuine",
         "location": {
@@ -2725,16 +2783,6 @@
             "lng": 7.566354
         },
         "image": "https://lh3.googleusercontent.com/D4BT541kLK078bD54vhQJDp6m8f7U-zvSBGqDaSA0RZuZUJMxiIXko9cvvweJ5uy_Y13hi-Viu4FfmmQ6v9TcjkGDw",
-        "raid": null
-    },
-    {
-        "id": "91bfbcfb-5218-5bc8-9653-fd42e46dd3e9",
-        "name": "Wasserspiel Andervenne West",
-        "location": {
-            "lat": 52.486559,
-            "lng": 7.545903
-        },
-        "image": "https://lh3.googleusercontent.com/DJXLrFZuCcuy8Xk_wlZ0DCtPJgBGP0mN-h8FX0032Z2ROsC7qStThcdZl-tI6gC6zu23Dd2MvVq4KTpfhwx3pCBbMDE",
         "raid": null
     },
     {
