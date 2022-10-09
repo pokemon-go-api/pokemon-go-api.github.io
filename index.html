@@ -70,19 +70,15 @@
                     ${raid}
                 `);
 
+                const gymRaidLevels = {
+                    1: () => raidsLevel1.push(marker),
+                    3: () => raidsLevel3.push(marker),
+                    5: () => raidsLevel5.push(marker),
+                    6: () => raidsLevelMega.push(marker),
+                };
+
                 if (gym.raid) {
-                    if (gym.raid.level === '1') {
-                        raidsLevel1.push(marker)
-                    }
-                    if (gym.raid.level === '3') {
-                        raidsLevel3.push(marker)
-                    }
-                    if (gym.raid.level === '5') {
-                        raidsLevel5.push(marker)
-                    }
-                    if (gym.raid.level === '6') {
-                        raidsLevelMega.push(marker)
-                    }
+                    gymRaidLevels[gym.raid.level]();
                 } else {
                     gyms.push(marker);
                 }
