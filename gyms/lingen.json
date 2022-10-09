@@ -1,5 +1,69 @@
 [
     {
+        "id": "8f6016dc-0514-5f61-aaf1-0ad0619daff7",
+        "name": "Gedenkstein",
+        "location": {
+            "lat": 52.510622,
+            "lng": 7.28965
+        },
+        "image": "https://lh3.googleusercontent.com/PlUpj7VZPjMWnSdQjB_1M_Z5zAVUZRbHaBPh6zf-FIccRCuu0p0xl-dDt7MXzvLmBhgW4abvErFchxkhEdsSc3QcfF0",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "level": "1",
+            "boss": "",
+            "hatchTime": "2022-10-09T06:32:12Z",
+            "endTime": "2022-10-09T07:17:12Z"
+        }
+    },
+    {
+        "id": "64c5f7eb-7803-5d4b-88dc-48e758803e06",
+        "name": "Spielplatz Pfarrtannen",
+        "location": {
+            "lat": 52.509094,
+            "lng": 7.283818
+        },
+        "image": "https://lh3.googleusercontent.com/7Jp30daWdFQvSUtbS_1584qlfDSG7ZP2V5kodAaC_Ix5MWM-gWn70nJHdAIU8y5w5IUs0PU3z_8eEY_POEYBmN94DQ",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "level": "3",
+            "boss": "",
+            "hatchTime": "2022-10-09T06:44:11Z",
+            "endTime": "2022-10-09T07:29:11Z"
+        }
+    },
+    {
+        "id": "4382455e-c20d-5472-a375-a324de2a1e91",
+        "name": "Dorfbrunnen Schepsdorf",
+        "location": {
+            "lat": 52.510545,
+            "lng": 7.294977
+        },
+        "image": "https://lh3.googleusercontent.com/pdNH30i-IKyxirIqFfWCpdOVURiDQQzwkA0_yDj9qmhNKp1PeB27uR8_BKVPy447exhCWtWP9YeEeVnSwoT-II1j1ug",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "level": "3",
+            "boss": "",
+            "hatchTime": "2022-10-09T06:36:08Z",
+            "endTime": "2022-10-09T07:21:08Z"
+        }
+    },
+    {
+        "id": "915aada7-9c0b-5904-95c4-9bfe29b4c11d",
+        "name": "Smiling Pikachu",
+        "location": {
+            "lat": 52.500814,
+            "lng": 7.303595
+        },
+        "image": "https://lh3.googleusercontent.com/N3GOSpadW1H4AOSKV58GnLkH49jQGXL2MCtqZW4_3xwmp88AmylJHeG1fV941ISeHwIyqvlIrHXiMM2147IJo1GGnDr2",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "level": "1",
+            "boss": "",
+            "hatchTime": "2022-10-09T06:25:08Z",
+            "endTime": "2022-10-09T07:10:08Z"
+        }
+    },
+    {
         "id": "8057b210-2cdb-55c2-b502-98734ef6f9d3",
         "name": "Evangelische Freikirche",
         "location": {
@@ -71,13 +135,7 @@
             "lng": 7.298321
         },
         "image": "https://lh3.googleusercontent.com/SBi6y3Xml5_7hM1GbmYWCyPKfBQOkWZdt9kqDCILtjxFDBE3WAb--PxOHsBqbqwASBeRiTm2PLDjmnqrATE5ogzrf-Y",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm112_730e433b06dd73d9f2b0de8e7340a49bcc085b8eb6c82a4440721e343fc76d42.png",
-            "level": "3",
-            "boss": "Rhydon",
-            "hatchTime": "2022-10-09T05:00:56Z",
-            "endTime": "2022-10-09T05:45:56Z"
-        }
+        "raid": null
     },
     {
         "id": "c656f52e-ab5f-5907-a401-be5950d74857",
@@ -200,16 +258,6 @@
         "raid": null
     },
     {
-        "id": "64c5f7eb-7803-5d4b-88dc-48e758803e06",
-        "name": "Spielplatz Pfarrtannen",
-        "location": {
-            "lat": 52.509094,
-            "lng": 7.283818
-        },
-        "image": "https://lh3.googleusercontent.com/7Jp30daWdFQvSUtbS_1584qlfDSG7ZP2V5kodAaC_Ix5MWM-gWn70nJHdAIU8y5w5IUs0PU3z_8eEY_POEYBmN94DQ",
-        "raid": null
-    },
-    {
         "id": "0103817a-a495-5ac4-a104-4a8788a36d00",
         "name": "Marien-Schrein",
         "location": {
@@ -270,16 +318,6 @@
         "raid": null
     },
     {
-        "id": "8f6016dc-0514-5f61-aaf1-0ad0619daff7",
-        "name": "Gedenkstein",
-        "location": {
-            "lat": 52.510622,
-            "lng": 7.28965
-        },
-        "image": "https://lh3.googleusercontent.com/PlUpj7VZPjMWnSdQjB_1M_Z5zAVUZRbHaBPh6zf-FIccRCuu0p0xl-dDt7MXzvLmBhgW4abvErFchxkhEdsSc3QcfF0",
-        "raid": null
-    },
-    {
         "id": "974c49f3-caf3-5a1b-b781-4b49a5aeacf0",
         "name": "Infotafeln Lingen",
         "location": {
@@ -287,16 +325,6 @@
             "lng": 7.28486
         },
         "image": "https://lh3.googleusercontent.com/Fe73dEKieu2lVCEk7Yd_1IYkhKKHDvjyPCjN7PXUbpd61zv5S2Kw_bQ_B1wHgzw4TnhcWK_gVORivwzqhg4wr8tQlT8",
-        "raid": null
-    },
-    {
-        "id": "4382455e-c20d-5472-a375-a324de2a1e91",
-        "name": "Dorfbrunnen Schepsdorf",
-        "location": {
-            "lat": 52.510545,
-            "lng": 7.294977
-        },
-        "image": "https://lh3.googleusercontent.com/pdNH30i-IKyxirIqFfWCpdOVURiDQQzwkA0_yDj9qmhNKp1PeB27uR8_BKVPy447exhCWtWP9YeEeVnSwoT-II1j1ug",
         "raid": null
     },
     {
@@ -377,16 +405,6 @@
             "lng": 7.309952
         },
         "image": "https://lh3.googleusercontent.com/Oh7H0Nsjpk6p-Dgm8ewEIcmO3ZmhcHL5VLjJXicTxCh099thHttQpE3PxjXGVBsnQYjse4Bk4si82RrwEaPKhvgD6w",
-        "raid": null
-    },
-    {
-        "id": "915aada7-9c0b-5904-95c4-9bfe29b4c11d",
-        "name": "Smiling Pikachu",
-        "location": {
-            "lat": 52.500814,
-            "lng": 7.303595
-        },
-        "image": "https://lh3.googleusercontent.com/N3GOSpadW1H4AOSKV58GnLkH49jQGXL2MCtqZW4_3xwmp88AmylJHeG1fV941ISeHwIyqvlIrHXiMM2147IJo1GGnDr2",
         "raid": null
     },
     {
@@ -780,6 +798,70 @@
         "raid": null
     },
     {
+        "id": "17995c1a-bd04-5527-9007-be92ca0e667e",
+        "name": "Pylone Ortseingang Altenlingen",
+        "location": {
+            "lat": 52.540678,
+            "lng": 7.294371
+        },
+        "image": "https://lh3.googleusercontent.com/4BHR4_zNzv2P8cxa2ICyOhnUxxuoNOXeST2J9D56GY7X2wWkSLPGs_nltM8Mto2N_eciTlbyO2n4o2jwqHmZy_Bke_c",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "level": "3",
+            "boss": "",
+            "hatchTime": "2022-10-09T06:38:38Z",
+            "endTime": "2022-10-09T07:23:38Z"
+        }
+    },
+    {
+        "id": "da6bdc66-24a6-5bce-abf2-fbf1fc259abc",
+        "name": "Theater An Der Wilhelmshöhe",
+        "location": {
+            "lat": 52.528435,
+            "lng": 7.317159
+        },
+        "image": "https://lh3.googleusercontent.com/IMrS0GFlCP7wQbaazdEB9dv5Oa7aCyT80gtMM3iXoB9ldpXCIonpRQokISZKHZTgmsRr4_tsBzaoDNMxC-shM2M6wpk",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "level": "5",
+            "boss": "",
+            "hatchTime": "2022-10-09T06:14:10Z",
+            "endTime": "2022-10-09T06:59:10Z"
+        }
+    },
+    {
+        "id": "1cce546e-59d4-5ba2-b410-d1200f2096e3",
+        "name": "Infotafel Wasservögel",
+        "location": {
+            "lat": 52.523118,
+            "lng": 7.309031
+        },
+        "image": "https://lh3.googleusercontent.com/VI_NpsAfZkfalxc0090drrCnsSSJ7lG05gukxucxPjZPcvylrwTUfsPprUEo8kZKea70XoxenMMfmMFQqgjttZjQMci-",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_3_icon.png",
+            "level": "6",
+            "boss": "",
+            "hatchTime": "2022-10-09T06:42:26Z",
+            "endTime": "2022-10-09T07:27:26Z"
+        }
+    },
+    {
+        "id": "0ab5d611-4e9d-5502-811c-7397a73c7ca4",
+        "name": "Altenlingen Obelisk",
+        "location": {
+            "lat": 52.544143,
+            "lng": 7.30846
+        },
+        "image": "https://lh3.googleusercontent.com/_dSZGmd35A0OeGEoLcI7zaovIgcO1x4Pt6zx4iKdc9nOVCg95b-OLmnbsfsGWRtjhM16MgQQBl2OUDsolqf2MHAcyC8",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "level": "3",
+            "boss": "",
+            "hatchTime": "2022-10-09T06:38:47Z",
+            "endTime": "2022-10-09T07:23:47Z"
+        }
+    },
+    {
         "id": "6b62d22b-fb3f-5d79-9cab-83b5753f4a91",
         "name": "Glockenturm Altenlingen",
         "location": {
@@ -820,9 +902,9 @@
         },
         "image": "https://lh3.googleusercontent.com/Lau5fLMvy5PkMYSAFpxPViOB2nVV4Ao3FnfoArL7tl0GqdLsTEi-6WjHuLm95nUoaOXXREm2qKq_Yja1t8Px-7heYoA",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm716_52f527cba5273a4ef9773b85b41eb2124c61ce6cb35b609e5597c39870c27cef.png",
             "level": "5",
-            "boss": "",
+            "boss": "Xerneas",
             "hatchTime": "2022-10-09T05:39:34Z",
             "endTime": "2022-10-09T06:24:34Z"
         }
@@ -836,9 +918,9 @@
         },
         "image": "https://lh3.googleusercontent.com/4AaOEqDkU9ilu_rYxc8T_sW3na5m1aOhjoMAIUmyjCcAndhHyJ6-995t44QGNHNjEaM8fsIsAfwChIbNyD5zt4NtWA",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm716_52f527cba5273a4ef9773b85b41eb2124c61ce6cb35b609e5597c39870c27cef.png",
             "level": "5",
-            "boss": "",
+            "boss": "Xerneas",
             "hatchTime": "2022-10-09T05:43:56Z",
             "endTime": "2022-10-09T06:28:56Z"
         }
@@ -867,13 +949,7 @@
             "lng": 7.312399
         },
         "image": "https://lh3.googleusercontent.com/MVAhgqo4As2VavmxKpZm_bwh56Fk6ICTC-Lq13MAknRf-YiYvLM68iM8idCy_sw5nUabvgDUNLrKLvN1dONvyrgwJ_qB",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm112.g2_ec00cd9d56785d641713ddbb4e997c09ef566e4cc9759e3e6d47284ea68b3a08.png",
-            "level": "3",
-            "boss": "Rhydon",
-            "hatchTime": "2022-10-09T05:05:16Z",
-            "endTime": "2022-10-09T05:50:16Z"
-        }
+        "raid": null
     },
     {
         "id": "ddf152c9-b92f-5ad0-bb04-dcc1d65aaff8",
@@ -1000,16 +1076,6 @@
         "raid": null
     },
     {
-        "id": "17995c1a-bd04-5527-9007-be92ca0e667e",
-        "name": "Pylone Ortseingang Altenlingen",
-        "location": {
-            "lat": 52.540678,
-            "lng": 7.294371
-        },
-        "image": "https://lh3.googleusercontent.com/4BHR4_zNzv2P8cxa2ICyOhnUxxuoNOXeST2J9D56GY7X2wWkSLPGs_nltM8Mto2N_eciTlbyO2n4o2jwqHmZy_Bke_c",
-        "raid": null
-    },
-    {
         "id": "b480b5f5-f355-514f-97f5-62287944fe7d",
         "name": "Golf-Club Emstal",
         "location": {
@@ -1047,36 +1113,6 @@
             "lng": 7.314636
         },
         "image": "https://lh3.googleusercontent.com/S4Q_JhCZ03P5uxt5N9sDBgk4pZ4ijCHephC3RzE64JD0vBpB4Nc-wUjvStE3CkcVdZxnKWrS-655oBY9dw9jzJNAlg",
-        "raid": null
-    },
-    {
-        "id": "1cce546e-59d4-5ba2-b410-d1200f2096e3",
-        "name": "Infotafel Wasservögel",
-        "location": {
-            "lat": 52.523118,
-            "lng": 7.309031
-        },
-        "image": "https://lh3.googleusercontent.com/VI_NpsAfZkfalxc0090drrCnsSSJ7lG05gukxucxPjZPcvylrwTUfsPprUEo8kZKea70XoxenMMfmMFQqgjttZjQMci-",
-        "raid": null
-    },
-    {
-        "id": "0ab5d611-4e9d-5502-811c-7397a73c7ca4",
-        "name": "Altenlingen Obelisk",
-        "location": {
-            "lat": 52.544143,
-            "lng": 7.30846
-        },
-        "image": "https://lh3.googleusercontent.com/_dSZGmd35A0OeGEoLcI7zaovIgcO1x4Pt6zx4iKdc9nOVCg95b-OLmnbsfsGWRtjhM16MgQQBl2OUDsolqf2MHAcyC8",
-        "raid": null
-    },
-    {
-        "id": "da6bdc66-24a6-5bce-abf2-fbf1fc259abc",
-        "name": "Theater An Der Wilhelmshöhe",
-        "location": {
-            "lat": 52.528435,
-            "lng": 7.317159
-        },
-        "image": "https://lh3.googleusercontent.com/IMrS0GFlCP7wQbaazdEB9dv5Oa7aCyT80gtMM3iXoB9ldpXCIonpRQokISZKHZTgmsRr4_tsBzaoDNMxC-shM2M6wpk",
         "raid": null
     },
     {
@@ -1118,6 +1154,86 @@
         },
         "image": "https://lh3.googleusercontent.com/7YAiMg7hVl9_EmGKk9b-Htlmtoku7PDMIOGcnPxhAMSTAwOE3rRbnT5iltNiJIZMdWonipeyxxFKdde7VK5JPePppuTr",
         "raid": null
+    },
+    {
+        "id": "92adf686-ccb9-5561-a403-ba796de8729a",
+        "name": "Haus der Vereine Damaschke",
+        "location": {
+            "lat": 52.544584,
+            "lng": 7.348504
+        },
+        "image": "https://lh3.googleusercontent.com/eu6pnEg5B-TaNpvZAcvfjhMcfBH9bGSjyqCnSze36wObgzTIcr0Vob1pUarcKaIJ7JkPi25f17nWqE0PpZZ-T_FzabkTg3AaGETbqwc1IA",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "level": "1",
+            "boss": "",
+            "hatchTime": "2022-10-09T06:40:44Z",
+            "endTime": "2022-10-09T07:25:44Z"
+        }
+    },
+    {
+        "id": "aea50f90-b13d-5542-bfd0-4744b5944a0a",
+        "name": "Kreuz in Damaschke",
+        "location": {
+            "lat": 52.545499,
+            "lng": 7.349158
+        },
+        "image": "https://lh3.googleusercontent.com/d7DoYFQUm7Gz12HNRYs9hKP4_FT7jvJ-qYKE0lDyahH3X3TKOnXJ9FkirSmSovZfEaTkvqmNd04QmOqxIWf9k1Zj06Q",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_3_icon.png",
+            "level": "6",
+            "boss": "",
+            "hatchTime": "2022-10-09T06:37:59Z",
+            "endTime": "2022-10-09T07:22:59Z"
+        }
+    },
+    {
+        "id": "6827fdcf-9e11-5d45-965f-0ceb111f6b49",
+        "name": "Schrein der Mutter Maria",
+        "location": {
+            "lat": 52.528276,
+            "lng": 7.324449
+        },
+        "image": "https://lh3.googleusercontent.com/VEF0K-wyTRUDzU7g2sIhiYCEXYrlWu-OudcjysMemqlixs3qmxlU-LTjp1Q80DWyk4KWprcOThH_uBD_p0tEzrcrLFp1",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_3_icon.png",
+            "level": "6",
+            "boss": "",
+            "hatchTime": "2022-10-09T06:19:39Z",
+            "endTime": "2022-10-09T07:04:39Z"
+        }
+    },
+    {
+        "id": "6c2d562f-9bed-547a-8096-f083eaf8d919",
+        "name": "Eingang zum Trimmpfad Damaschke",
+        "location": {
+            "lat": 52.545101,
+            "lng": 7.355295
+        },
+        "image": "https://lh3.googleusercontent.com/6kezS2P82XvE9lIAAnuFVIojN1LkYfxE1bRc5IaMvNpWU5nWChzvFth5LKUeTV-HqCTo2H5uIT_qbmUclBXraEWVWwU",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_3_icon.png",
+            "level": "6",
+            "boss": "",
+            "hatchTime": "2022-10-09T06:03:27Z",
+            "endTime": "2022-10-09T06:48:27Z"
+        }
+    },
+    {
+        "id": "586cb039-6457-5605-b0cc-17a1440c1fb8",
+        "name": "Super Mario unter Strom",
+        "location": {
+            "lat": 52.543021,
+            "lng": 7.354369
+        },
+        "image": "https://lh3.googleusercontent.com/mAxcX_Nf5lMnyn1A3yKMOOgIVLBsUSqoLYdYvCcFD3SdePts70hpp4Nz9BmNGMUcgvxstGB6XTFL7-fWU4xaVodO4B0",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "level": "3",
+            "boss": "",
+            "hatchTime": "2022-10-09T06:32:06Z",
+            "endTime": "2022-10-09T07:17:06Z"
+        }
     },
     {
         "id": "b68d5b56-b692-5c88-b0b3-79a4a2b92503",
@@ -1224,9 +1340,9 @@
         },
         "image": "https://lh3.googleusercontent.com/4HYwfVflIhNyo9EdQ5GR3NVAuS1zt1ukc708EEhQzImC1QgRrKhK0Aiy-SJGW_EHmG1j3D_1QT9KInzZ0wPQwLA3gJg",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm123.g2_1f46f65acdea9e9d980ab3983fbe5f7dd2f95781bd2734385aec230515ecc0e8.png",
             "level": "1",
-            "boss": "",
+            "boss": "Scyther",
             "hatchTime": "2022-10-09T05:39:05Z",
             "endTime": "2022-10-09T06:24:05Z"
         }
@@ -1272,9 +1388,9 @@
         },
         "image": "https://lh3.googleusercontent.com/qasCC8hkLwcJ2JPKT18_Fuj7BFnkoVgBnLVhQm3KRmy8uRdykcsEVAG4-3U_xWDESYXIQr991i95PJBsxSt6yCmBlg",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm95_4e0faaca2e8997cc2476fb5508e72798ad9341ddd7d5875a160ed637f14609a9.png",
             "level": "1",
-            "boss": "",
+            "boss": "Onix",
             "hatchTime": "2022-10-09T05:37:41Z",
             "endTime": "2022-10-09T06:22:41Z"
         }
@@ -1446,16 +1562,6 @@
         "raid": null
     },
     {
-        "id": "586cb039-6457-5605-b0cc-17a1440c1fb8",
-        "name": "Super Mario unter Strom",
-        "location": {
-            "lat": 52.543021,
-            "lng": 7.354369
-        },
-        "image": "https://lh3.googleusercontent.com/mAxcX_Nf5lMnyn1A3yKMOOgIVLBsUSqoLYdYvCcFD3SdePts70hpp4Nz9BmNGMUcgvxstGB6XTFL7-fWU4xaVodO4B0",
-        "raid": null
-    },
-    {
         "id": "d4b0d938-3d85-5c06-bcf8-87645f02bf80",
         "name": "Bolzplatz am Dieksee",
         "location": {
@@ -1463,16 +1569,6 @@
             "lng": 7.371047
         },
         "image": "https://lh3.googleusercontent.com/dg5d8nvijcsoO2o9ilE14D-bQkIKaIo0hUlwMp9Y-86-RueLFR_nUNf9TEk0PEefooWDqakzpLiGcwXpTYsj7eFFdHcJN0cRNi4-Pikh",
-        "raid": null
-    },
-    {
-        "id": "6c2d562f-9bed-547a-8096-f083eaf8d919",
-        "name": "Eingang zum Trimmpfad Damaschke",
-        "location": {
-            "lat": 52.545101,
-            "lng": 7.355295
-        },
-        "image": "https://lh3.googleusercontent.com/6kezS2P82XvE9lIAAnuFVIojN1LkYfxE1bRc5IaMvNpWU5nWChzvFth5LKUeTV-HqCTo2H5uIT_qbmUclBXraEWVWwU",
         "raid": null
     },
     {
@@ -1503,26 +1599,6 @@
             "lng": 7.366214
         },
         "image": "https://lh3.googleusercontent.com/hUw-YTia0P677SbFaIbB0V25jrN5rec1WOXEgRQbi24vCKWTqVonAROn91dbjRxDAb9hzXNlMv7ur9UH9cc47J8Itw8",
-        "raid": null
-    },
-    {
-        "id": "aea50f90-b13d-5542-bfd0-4744b5944a0a",
-        "name": "Kreuz in Damaschke",
-        "location": {
-            "lat": 52.545499,
-            "lng": 7.349158
-        },
-        "image": "https://lh3.googleusercontent.com/d7DoYFQUm7Gz12HNRYs9hKP4_FT7jvJ-qYKE0lDyahH3X3TKOnXJ9FkirSmSovZfEaTkvqmNd04QmOqxIWf9k1Zj06Q",
-        "raid": null
-    },
-    {
-        "id": "92adf686-ccb9-5561-a403-ba796de8729a",
-        "name": "Haus der Vereine Damaschke",
-        "location": {
-            "lat": 52.544584,
-            "lng": 7.348504
-        },
-        "image": "https://lh3.googleusercontent.com/eu6pnEg5B-TaNpvZAcvfjhMcfBH9bGSjyqCnSze36wObgzTIcr0Vob1pUarcKaIJ7JkPi25f17nWqE0PpZZ-T_FzabkTg3AaGETbqwc1IA",
         "raid": null
     },
     {
@@ -1573,16 +1649,6 @@
             "lng": 7.34733
         },
         "image": "https://lh3.googleusercontent.com/PJaPh1eDlQEHgsgOqSw7nTEkoBjnPxtBSKuapAyU9UY0A_tgm5CWI9dJ3n-vwjWNi4_4_-oyRurhkRaXCra0fXWh_w",
-        "raid": null
-    },
-    {
-        "id": "6827fdcf-9e11-5d45-965f-0ceb111f6b49",
-        "name": "Schrein der Mutter Maria",
-        "location": {
-            "lat": 52.528276,
-            "lng": 7.324449
-        },
-        "image": "https://lh3.googleusercontent.com/VEF0K-wyTRUDzU7g2sIhiYCEXYrlWu-OudcjysMemqlixs3qmxlU-LTjp1Q80DWyk4KWprcOThH_uBD_p0tEzrcrLFp1",
         "raid": null
     },
     {
@@ -1762,6 +1828,22 @@
         "raid": null
     },
     {
+        "id": "78dd432d-336f-5b08-8685-39dc2576a0d3",
+        "name": "Thuiner Hochzeitsbäume",
+        "location": {
+            "lat": 52.495613,
+            "lng": 7.481485
+        },
+        "image": "https://lh3.googleusercontent.com/IyM_6LIBkFEXprpQEOm3KO75YiI3tW56WvSgOO1zDXp8wsiDSa584LD6NHhNMmGbqcmA_rGb9gtbmQdPeQB1-xUndJtD",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "level": "5",
+            "boss": "",
+            "hatchTime": "2022-10-09T06:20:47Z",
+            "endTime": "2022-10-09T07:05:47Z"
+        }
+    },
+    {
         "id": "1fe3fc9d-a20c-514a-9faf-f8ed49747308",
         "name": "Kloster Thuine",
         "location": {
@@ -1819,16 +1901,6 @@
             "lng": 7.499922
         },
         "image": "https://lh3.googleusercontent.com/9ANvx-_p1mTgTEwidA5EL8U_XK3DbahBbVJiF3yYOdw2MdA6qK1uZqPLlgOQJwcTDtNebfMYt4U6wmJyhMSQh5TNRZ8",
-        "raid": null
-    },
-    {
-        "id": "78dd432d-336f-5b08-8685-39dc2576a0d3",
-        "name": "Thuiner Hochzeitsbäume",
-        "location": {
-            "lat": 52.495613,
-            "lng": 7.481485
-        },
-        "image": "https://lh3.googleusercontent.com/IyM_6LIBkFEXprpQEOm3KO75YiI3tW56WvSgOO1zDXp8wsiDSa584LD6NHhNMmGbqcmA_rGb9gtbmQdPeQB1-xUndJtD",
         "raid": null
     },
     {
@@ -2170,9 +2242,9 @@
         },
         "image": "https://lh3.googleusercontent.com/HfxnaxVqTUjY_I5vV4KmMxcgs8AHukQMBtlsYqAAPQoTxFXVvY7ek3xGi1MVGQLHlJjia2KnkoxWivgZZmMq2UwYKgAo8sk4L7cJ-naP",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm95_4e0faaca2e8997cc2476fb5508e72798ad9341ddd7d5875a160ed637f14609a9.png",
             "level": "1",
-            "boss": "",
+            "boss": "Onix",
             "hatchTime": "2022-10-09T05:38:50Z",
             "endTime": "2022-10-09T06:23:50Z"
         }
@@ -2325,13 +2397,7 @@
             "lng": 7.371733
         },
         "image": "https://lh3.googleusercontent.com/-HsLYumQwy3L4D_uCxBCeWAjevC5t1JLTX_EFdiGGWi7lHgFrZbAKpwa-IXvnWGdiQAD2QIBwaSk4IeQIbg__fyqM4_ebkT_PwaI-yf8",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm137_ed348e6bbe9e5899fef48818cfd84f108bf64df35bd4af611e6629273e4f90b5.png",
-            "level": "1",
-            "boss": "Porygon",
-            "hatchTime": "2022-10-09T05:02:31Z",
-            "endTime": "2022-10-09T05:47:31Z"
-        }
+        "raid": null
     },
     {
         "id": "9e47a572-1a9f-5d95-84b6-75a683bf343f",
@@ -2602,6 +2668,22 @@
         "raid": null
     },
     {
+        "id": "154c4772-e88c-56f6-8eb3-fedb97c481f8",
+        "name": "Kletterwand",
+        "location": {
+            "lat": 52.492118,
+            "lng": 7.538212
+        },
+        "image": "https://lh3.googleusercontent.com/vCaIBh-8GAkukPH5pHT4R3yPeQaUVgLv5LItS38iyC7sbsb8HnkBw1SHkrwXk3jzptRcWJld8XUkzSIRAMSzbqULAqY",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "level": "5",
+            "boss": "",
+            "hatchTime": "2022-10-09T06:31:49Z",
+            "endTime": "2022-10-09T07:16:49Z"
+        }
+    },
+    {
         "id": "9168333a-9eda-5e84-807e-4da2ecbdaaea",
         "name": "Das Kaufmannshaus Pott-Holtmann",
         "location": {
@@ -2713,16 +2795,6 @@
             "lng": 7.545078
         },
         "image": "https://lh3.googleusercontent.com/K1MpK6YM3abiNQj_uJoIkTkBUPNNTHYIxjqJKTmPoSV2_FRrYz9h4cmoaYPDNVNwv27NA0adAuEe_rHo364Z7VbHUfE",
-        "raid": null
-    },
-    {
-        "id": "154c4772-e88c-56f6-8eb3-fedb97c481f8",
-        "name": "Kletterwand",
-        "location": {
-            "lat": 52.492118,
-            "lng": 7.538212
-        },
-        "image": "https://lh3.googleusercontent.com/vCaIBh-8GAkukPH5pHT4R3yPeQaUVgLv5LItS38iyC7sbsb8HnkBw1SHkrwXk3jzptRcWJld8XUkzSIRAMSzbqULAqY",
         "raid": null
     },
     {
