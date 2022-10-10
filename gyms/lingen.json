@@ -1,5 +1,37 @@
 [
     {
+        "id": "7d359257-ef3b-521a-8c7a-fe6f7ac5ee52",
+        "name": "Wetterstation Lingen",
+        "location": {
+            "lat": 52.518049,
+            "lng": 7.30772
+        },
+        "image": "https://lh3.googleusercontent.com/t_EfwlYzIcotEgF7k_2UZeQjYww8zxDlXc83NKQ-fbk4gt-vN4nff77nMcIuR4sX4l1GHlsAbYRxKb413gJkrXeN_A",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "level": "3",
+            "boss": "",
+            "hatchTime": "2022-10-10T12:09:47Z",
+            "endTime": "2022-10-10T12:54:47Z"
+        }
+    },
+    {
+        "id": "3ccae8e6-e821-57f2-b774-a265260b5752",
+        "name": "Neues Rathaus",
+        "location": {
+            "lat": 52.521312,
+            "lng": 7.315864
+        },
+        "image": "https://lh3.googleusercontent.com/pD-52umn4aKuhkBJgEDRb92mRbfshCZ3nvdpn5EihqU5-gTEbWeUVTKIw551o0bWABvvJ-HGMr68Z4UolDLWa6uqNA",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "level": "5",
+            "boss": "",
+            "hatchTime": "2022-10-10T12:42:47Z",
+            "endTime": "2022-10-10T13:27:47Z"
+        }
+    },
+    {
         "id": "a508db6c-6fca-5466-bd5c-e68b6055860e",
         "name": "700 Jahre Darme - Fassade",
         "location": {
@@ -88,9 +120,9 @@
         },
         "image": "https://lh3.googleusercontent.com/n10R34sP_E1iaVBVw0nNgDrd4lEFNPg5XXgVUgYay3GFReT4Q1Z3mP7YlCSulxpFU8vhrZGk7AZbu81JGnWxYgzupks",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm137_ed348e6bbe9e5899fef48818cfd84f108bf64df35bd4af611e6629273e4f90b5.png",
             "level": "1",
-            "boss": "",
+            "boss": "Porygon",
             "hatchTime": "2022-10-10T11:38:33Z",
             "endTime": "2022-10-10T12:23:33Z"
         }
@@ -103,13 +135,7 @@
             "lng": 7.318527
         },
         "image": "https://lh3.googleusercontent.com/ixZlN0ngzM0LsZts0z0L9epYrS1wBToSkGvyPNxiazFA7FC4hXh-kK66_UKUolI1TH_-uim8ocTX5hUrbusEwsAoDg",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm176_0cd8a5ec1d3d0f8f05bfd7e9c657d74b1ad22463a45cdd36f413f4a7d072d94c.png",
-            "level": "3",
-            "boss": "Togetic",
-            "hatchTime": "2022-10-10T11:00:36Z",
-            "endTime": "2022-10-10T11:45:36Z"
-        }
+        "raid": null
     },
     {
         "id": "2fb135a5-5a60-5647-935a-f0258687e62f",
@@ -129,16 +155,6 @@
             "lng": 7.309952
         },
         "image": "https://lh3.googleusercontent.com/Oh7H0Nsjpk6p-Dgm8ewEIcmO3ZmhcHL5VLjJXicTxCh099thHttQpE3PxjXGVBsnQYjse4Bk4si82RrwEaPKhvgD6w",
-        "raid": null
-    },
-    {
-        "id": "7d359257-ef3b-521a-8c7a-fe6f7ac5ee52",
-        "name": "Wetterstation Lingen",
-        "location": {
-            "lat": 52.518049,
-            "lng": 7.30772
-        },
-        "image": "https://lh3.googleusercontent.com/t_EfwlYzIcotEgF7k_2UZeQjYww8zxDlXc83NKQ-fbk4gt-vN4nff77nMcIuR4sX4l1GHlsAbYRxKb413gJkrXeN_A",
         "raid": null
     },
     {
@@ -312,16 +328,6 @@
         "raid": null
     },
     {
-        "id": "3ccae8e6-e821-57f2-b774-a265260b5752",
-        "name": "Neues Rathaus",
-        "location": {
-            "lat": 52.521312,
-            "lng": 7.315864
-        },
-        "image": "https://lh3.googleusercontent.com/pD-52umn4aKuhkBJgEDRb92mRbfshCZ3nvdpn5EihqU5-gTEbWeUVTKIw551o0bWABvvJ-HGMr68Z4UolDLWa6uqNA",
-        "raid": null
-    },
-    {
         "id": "915aada7-9c0b-5904-95c4-9bfe29b4c11d",
         "name": "Smiling Pikachu",
         "location": {
@@ -380,6 +386,22 @@
         },
         "image": "https://lh3.googleusercontent.com/VpdCBVZFiVsLgrKrm7VT2kP6e8JG63RgTAeCpem9LD3o8DJQ5jfpyhzf4CW8gUE9gl6370_5DBjM7Ant9cFQW65zU20",
         "raid": null
+    },
+    {
+        "id": "c4b33d86-8658-5d53-8aa7-cc5278bd1990",
+        "name": "Wegkreuz",
+        "location": {
+            "lat": 52.517762,
+            "lng": 7.339133
+        },
+        "image": "https://lh3.googleusercontent.com/YiSpreSFELEFXQuS5oSDvBy7y1Ktpkb66F-KIydw6iFJ_rg8GqJHsuZF7DG4pDnOuT63I52vr-gP9EVvTO51NwMMug",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "level": "3",
+            "boss": "",
+            "hatchTime": "2022-10-10T12:43:06Z",
+            "endTime": "2022-10-10T13:28:06Z"
+        }
     },
     {
         "id": "fc1c60b8-ad3d-5fdb-9816-cb6b104857dc",
@@ -502,9 +524,9 @@
         },
         "image": "https://lh3.googleusercontent.com/LRgGqX-pib7sZo7C7JSyJTnFE_pXnbo-caxotgWoWE6JBmbTdYH3_rUDy6PZfaOxPQH0xjpC7AbQqNb9N8b41nNguw",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm82_99cd3431b03a882a5e3858abf78402d48ede89a785eace1494bf43d071243def.png",
             "level": "3",
-            "boss": "",
+            "boss": "Magneton",
             "hatchTime": "2022-10-10T11:37:30Z",
             "endTime": "2022-10-10T12:22:30Z"
         }
@@ -714,16 +736,6 @@
         "raid": null
     },
     {
-        "id": "c4b33d86-8658-5d53-8aa7-cc5278bd1990",
-        "name": "Wegkreuz",
-        "location": {
-            "lat": 52.517762,
-            "lng": 7.339133
-        },
-        "image": "https://lh3.googleusercontent.com/YiSpreSFELEFXQuS5oSDvBy7y1Ktpkb66F-KIydw6iFJ_rg8GqJHsuZF7DG4pDnOuT63I52vr-gP9EVvTO51NwMMug",
-        "raid": null
-    },
-    {
         "id": "0d2d608c-5970-5475-a604-062e5cbf3708",
         "name": "Serbisch-Orthodoxe Kirche",
         "location": {
@@ -742,6 +754,38 @@
         },
         "image": "https://lh3.googleusercontent.com/TIq_IuuNVl1uT45nIOIu64-MRKB855-IzDxLwZyRQKPEIqcFxNWVwSwkeh4v-_ay-gow7yE4RCAYddtx_8lNegaWyA",
         "raid": null
+    },
+    {
+        "id": "96eaf1a1-bad8-5be0-b8fd-db35b6b966ec",
+        "name": "Sandstein Hafen Altenlingen",
+        "location": {
+            "lat": 52.540406,
+            "lng": 7.29587
+        },
+        "image": "https://lh3.googleusercontent.com/ULVCeCPCuz-TvR2HlaaZhRYUU0TvAe4SRDWCixM0u6KaMkppw9Simlrc4CO0gDlZZgTeqJZ19ROQ--3WDOU4s32z33UX",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_3_icon.png",
+            "level": "6",
+            "boss": "",
+            "hatchTime": "2022-10-10T12:16:12Z",
+            "endTime": "2022-10-10T13:01:12Z"
+        }
+    },
+    {
+        "id": "60f39bfd-0d77-57cc-ac2e-aea83b03a2cb",
+        "name": "Fachwerk-Bemalung",
+        "location": {
+            "lat": 52.522532,
+            "lng": 7.318391
+        },
+        "image": "https://lh3.googleusercontent.com/wz41OHJjjTTFGG1hvA16zEJ_r1xxdNjVd3_eq7h9Uu8TrpzgEC3hX0B7bd01cQPVB99nA13uUvtWClOvPP24VUvuoUE",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_3_icon.png",
+            "level": "6",
+            "boss": "",
+            "hatchTime": "2022-10-10T12:03:12Z",
+            "endTime": "2022-10-10T12:48:12Z"
+        }
     },
     {
         "id": "763b523e-4ee1-5d2c-ab23-c2632cba34b4",
@@ -816,9 +860,9 @@
         },
         "image": "https://lh3.googleusercontent.com/sReX1vG_FrOD3MFc3com45Ir-OXJnBCKrJzJx3KBnmXjpDGuo59l38rcfy5PydHC8AKuA75ucu1n1zod1p0MPWKZ5i15",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm716_52f527cba5273a4ef9773b85b41eb2124c61ce6cb35b609e5597c39870c27cef.png",
             "level": "5",
-            "boss": "",
+            "boss": "Xerneas",
             "hatchTime": "2022-10-10T11:44:24Z",
             "endTime": "2022-10-10T12:29:24Z"
         }
@@ -832,9 +876,9 @@
         },
         "image": "https://lh3.googleusercontent.com/W_igtABJjZYi_TLGQ0y24u1Db37usXzb0jAznN6ctXIF02T0RbitxD7PUArcUTGT73jemyTibHsbxtuNCNcLnNaVNwo",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm79_e397472047c977354f380f4b12a63f0eda2ecb1f726faa6ab34975e57a2efed2.png",
             "level": "1",
-            "boss": "",
+            "boss": "Slowpoke",
             "hatchTime": "2022-10-10T11:44:48Z",
             "endTime": "2022-10-10T12:29:48Z"
         }
@@ -988,16 +1032,6 @@
         "raid": null
     },
     {
-        "id": "96eaf1a1-bad8-5be0-b8fd-db35b6b966ec",
-        "name": "Sandstein Hafen Altenlingen",
-        "location": {
-            "lat": 52.540406,
-            "lng": 7.29587
-        },
-        "image": "https://lh3.googleusercontent.com/ULVCeCPCuz-TvR2HlaaZhRYUU0TvAe4SRDWCixM0u6KaMkppw9Simlrc4CO0gDlZZgTeqJZ19ROQ--3WDOU4s32z33UX",
-        "raid": null
-    },
-    {
         "id": "4996ed79-475d-5cc0-b6c9-45bca4cfaf03",
         "name": "Altes Rathaus",
         "location": {
@@ -1005,16 +1039,6 @@
             "lng": 7.316128
         },
         "image": "https://lh3.googleusercontent.com/lOrjqAWGYNBqV6TB7WSYN6bGzgq69P8dtGZjBbFPzBguzEAPz9C-lFi5AvA5UNYYNEXjH7_7DHkfapBzrX8CeoUvViQ",
-        "raid": null
-    },
-    {
-        "id": "60f39bfd-0d77-57cc-ac2e-aea83b03a2cb",
-        "name": "Fachwerk-Bemalung",
-        "location": {
-            "lat": 52.522532,
-            "lng": 7.318391
-        },
-        "image": "https://lh3.googleusercontent.com/wz41OHJjjTTFGG1hvA16zEJ_r1xxdNjVd3_eq7h9Uu8TrpzgEC3hX0B7bd01cQPVB99nA13uUvtWClOvPP24VUvuoUE",
         "raid": null
     },
     {
@@ -1076,6 +1100,38 @@
         },
         "image": "https://lh3.googleusercontent.com/7YAiMg7hVl9_EmGKk9b-Htlmtoku7PDMIOGcnPxhAMSTAwOE3rRbnT5iltNiJIZMdWonipeyxxFKdde7VK5JPePppuTr",
         "raid": null
+    },
+    {
+        "id": "eeefae12-4e81-51a4-987b-4f259f83a1c5",
+        "name": "Skulptur St.Josef",
+        "location": {
+            "lat": 52.523404,
+            "lng": 7.341804
+        },
+        "image": "https://lh3.googleusercontent.com/XD4V0NWTjtHZJnxVvxP7NgKaqhUnD4i1BaqvrLr8XZE6WWNzcnKfE6l3nFh8cGsEe2V_pKdNsbvScCt2fquHSdMQND8F",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "level": "3",
+            "boss": "",
+            "hatchTime": "2022-10-10T12:32:31Z",
+            "endTime": "2022-10-10T13:17:31Z"
+        }
+    },
+    {
+        "id": "3f58b308-e210-5ff5-83b5-148d3fe53689",
+        "name": "Jesuskreuz am Bache",
+        "location": {
+            "lat": 52.536922,
+            "lng": 7.348666
+        },
+        "image": "https://lh3.googleusercontent.com/cx7mGkV2TIOa7k8kmG6KZdDAXD89EI4H15P2QsXxuR8bwgugP1UZU2WPtr-HBvUtEcFycJ2qMOKOBUVuEcKzNeq5yxMD",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "level": "1",
+            "boss": "",
+            "hatchTime": "2022-10-10T12:42:15Z",
+            "endTime": "2022-10-10T13:27:15Z"
+        }
     },
     {
         "id": "995aa8b8-f8ab-5e93-8b29-02f29124678e",
@@ -1213,13 +1269,7 @@
             "lng": 7.332854
         },
         "image": "https://lh3.googleusercontent.com/X-YtUn0sshiSQ1VIkyadajQ7csiZEjI2psV05UziHWG-q7tuEeMNhs1LAkRiZCJFht2fOWT4EZkOXS1VcLqDIoyRZg",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm176_0cd8a5ec1d3d0f8f05bfd7e9c657d74b1ad22463a45cdd36f413f4a7d072d94c.png",
-            "level": "3",
-            "boss": "Togetic",
-            "hatchTime": "2022-10-10T11:06:17Z",
-            "endTime": "2022-10-10T11:51:17Z"
-        }
+        "raid": null
     },
     {
         "id": "83cc5b35-1f6a-517c-b124-f9b2ddf94df8",
@@ -1229,13 +1279,7 @@
             "lng": 7.342677
         },
         "image": "https://lh3.googleusercontent.com/vx13hdg9NWCI1SiH2rN26n8vwX_MR801w-OQFikBfU6cRKU5xSQBspQxXK0tTaMiOwMboby6CoCp2yQN4Gveqv8vPtis",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm716_52f527cba5273a4ef9773b85b41eb2124c61ce6cb35b609e5597c39870c27cef.png",
-            "level": "5",
-            "boss": "Xerneas",
-            "hatchTime": "2022-10-10T11:00:09Z",
-            "endTime": "2022-10-10T11:45:09Z"
-        }
+        "raid": null
     },
     {
         "id": "947660d9-f947-5651-abae-f4d952ebf87d",
@@ -1315,16 +1359,6 @@
             "lng": 7.328462
         },
         "image": "https://lh3.googleusercontent.com/5ek9tdZOkQgV54abEpH5ULkrD-N18OzalDOkyTBc5GGjOtZua6b-hoz9N5OwEIBL4INGhFhMSSW_alWMcl7dYF9-2_k",
-        "raid": null
-    },
-    {
-        "id": "eeefae12-4e81-51a4-987b-4f259f83a1c5",
-        "name": "Skulptur St.Josef",
-        "location": {
-            "lat": 52.523404,
-            "lng": 7.341804
-        },
-        "image": "https://lh3.googleusercontent.com/XD4V0NWTjtHZJnxVvxP7NgKaqhUnD4i1BaqvrLr8XZE6WWNzcnKfE6l3nFh8cGsEe2V_pKdNsbvScCt2fquHSdMQND8F",
         "raid": null
     },
     {
@@ -1448,16 +1482,6 @@
         "raid": null
     },
     {
-        "id": "3f58b308-e210-5ff5-83b5-148d3fe53689",
-        "name": "Jesuskreuz am Bache",
-        "location": {
-            "lat": 52.536922,
-            "lng": 7.348666
-        },
-        "image": "https://lh3.googleusercontent.com/cx7mGkV2TIOa7k8kmG6KZdDAXD89EI4H15P2QsXxuR8bwgugP1UZU2WPtr-HBvUtEcFycJ2qMOKOBUVuEcKzNeq5yxMD",
-        "raid": null
-    },
-    {
         "id": "140e2cba-d2b5-552b-b974-85becfc3c954",
         "name": "Dieselmotor Deutz",
         "location": {
@@ -1548,6 +1572,22 @@
         "raid": null
     },
     {
+        "id": "33696b95-ba1e-5da5-9728-79b6ca6f89ae",
+        "name": "Gebetsgrotte",
+        "location": {
+            "lat": 52.509142,
+            "lng": 7.407117
+        },
+        "image": "https://lh3.googleusercontent.com/DPlrsLEAeve8fE8gzoKw1JtwMp3nY3uLSrZMhEBg-TNhhWaXrvwYMjCSKJYVDMnE5H31iI62VPJy1nCiSckJN1KJ8NU",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "level": "1",
+            "boss": "",
+            "hatchTime": "2022-10-10T12:39:25Z",
+            "endTime": "2022-10-10T13:24:25Z"
+        }
+    },
+    {
         "id": "650f8ea5-6672-5110-bd51-989929f1af30",
         "name": "Rette deine Seele - Mission 1892",
         "location": {
@@ -1588,9 +1628,9 @@
         },
         "image": "https://lh3.googleusercontent.com/lS-CKz0JdZfFuhZPGK17_uOq9preaB_v3ZVxtPkP-fqF1K0CiDwzk8x4Fp5kqKSB9Zdw3eMYtydf_Vbz7SFNKSaXcAXp",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm716_52f527cba5273a4ef9773b85b41eb2124c61ce6cb35b609e5597c39870c27cef.png",
             "level": "5",
-            "boss": "",
+            "boss": "Xerneas",
             "hatchTime": "2022-10-10T11:39:48Z",
             "endTime": "2022-10-10T12:24:48Z"
         }
@@ -1652,16 +1692,6 @@
         "raid": null
     },
     {
-        "id": "33696b95-ba1e-5da5-9728-79b6ca6f89ae",
-        "name": "Gebetsgrotte",
-        "location": {
-            "lat": 52.509142,
-            "lng": 7.407117
-        },
-        "image": "https://lh3.googleusercontent.com/DPlrsLEAeve8fE8gzoKw1JtwMp3nY3uLSrZMhEBg-TNhhWaXrvwYMjCSKJYVDMnE5H31iI62VPJy1nCiSckJN1KJ8NU",
-        "raid": null
-    },
-    {
         "id": "a68d0fc5-1675-506c-ad43-e7950cfabf75",
         "name": "Büchertelefonzelle",
         "location": {
@@ -1702,6 +1732,38 @@
         "raid": null
     },
     {
+        "id": "f1293e5f-fec0-5fb8-ace1-483c9708b675",
+        "name": "Zum Felsberg",
+        "location": {
+            "lat": 52.506778,
+            "lng": 7.478886
+        },
+        "image": "https://lh3.googleusercontent.com/h5NM0uppBnxYdEuFtkSiGhFrsvEdwg0lBHZS2aFjK-jgi6iVFMzy2_WI5Z3Dx5gyeWpeODkQ-c3BvxZDqydkN4PkD0s",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "level": "3",
+            "boss": "",
+            "hatchTime": "2022-10-10T12:41:06Z",
+            "endTime": "2022-10-10T13:26:06Z"
+        }
+    },
+    {
+        "id": "c5240837-4448-5a2f-96bc-1f372696e621",
+        "name": "Wetterschutzhütte",
+        "location": {
+            "lat": 52.501271,
+            "lng": 7.479813
+        },
+        "image": "https://lh3.googleusercontent.com/k75Gr1E_NEgC88Vuo1wi7pel5Fzwje6u9fxC_TQRMmB7hJE9Kxn3PHe7-VcS7BfKzetBQjlwA84JLaTd5nQ5ez04O__PmKpK41RzC0w_",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "level": "1",
+            "boss": "",
+            "hatchTime": "2022-10-10T12:30:00Z",
+            "endTime": "2022-10-10T13:15:00Z"
+        }
+    },
+    {
         "id": "2bc0c5d9-faf3-56d2-bf1a-03cef43f21ad",
         "name": "Knapp Gerds Tatort",
         "location": {
@@ -1738,16 +1800,6 @@
         "raid": null
     },
     {
-        "id": "f1293e5f-fec0-5fb8-ace1-483c9708b675",
-        "name": "Zum Felsberg",
-        "location": {
-            "lat": 52.506778,
-            "lng": 7.478886
-        },
-        "image": "https://lh3.googleusercontent.com/h5NM0uppBnxYdEuFtkSiGhFrsvEdwg0lBHZS2aFjK-jgi6iVFMzy2_WI5Z3Dx5gyeWpeODkQ-c3BvxZDqydkN4PkD0s",
-        "raid": null
-    },
-    {
         "id": "78dd432d-336f-5b08-8685-39dc2576a0d3",
         "name": "Thuiner Hochzeitsbäume",
         "location": {
@@ -1755,16 +1807,6 @@
             "lng": 7.481485
         },
         "image": "https://lh3.googleusercontent.com/IyM_6LIBkFEXprpQEOm3KO75YiI3tW56WvSgOO1zDXp8wsiDSa584LD6NHhNMmGbqcmA_rGb9gtbmQdPeQB1-xUndJtD",
-        "raid": null
-    },
-    {
-        "id": "c5240837-4448-5a2f-96bc-1f372696e621",
-        "name": "Wetterschutzhütte",
-        "location": {
-            "lat": 52.501271,
-            "lng": 7.479813
-        },
-        "image": "https://lh3.googleusercontent.com/k75Gr1E_NEgC88Vuo1wi7pel5Fzwje6u9fxC_TQRMmB7hJE9Kxn3PHe7-VcS7BfKzetBQjlwA84JLaTd5nQ5ez04O__PmKpK41RzC0w_",
         "raid": null
     },
     {
@@ -2281,13 +2323,7 @@
             "lng": 7.359918
         },
         "image": "https://lh3.googleusercontent.com/oRqqhD9oSspNIBbeLCDoH-GODW0s2rR5t2SDom1nXpj9tlo9Dj56ICKEupse3poPmraQuHj98u_LNhWMyBKDpErMXw",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm310.fMEGA_539c5e5fce2cff17b97ca127e63d05c03157d5bb93b9514022ecfaf77066cec3.png",
-            "level": "6",
-            "boss": "Mega Manectric",
-            "hatchTime": "2022-10-10T11:00:04Z",
-            "endTime": "2022-10-10T11:45:04Z"
-        }
+        "raid": null
     },
     {
         "id": "007af4f8-826c-5fcc-bfd3-239aadaa6c97",
@@ -2338,6 +2374,38 @@
         },
         "image": "https://lh3.googleusercontent.com/ZLg6DMt-sUWgk65ppHrNUSRM_5y24cwzTSCRkGeMu82qRrmcw5QXonkWBdfFvIIPPUoDQtuVoKWeLSRTCHkrHZEb4gc",
         "raid": null
+    },
+    {
+        "id": "7dd1bd15-2e1d-5905-b546-22456a0d4183",
+        "name": "Funktion des Speicherbeckens",
+        "location": {
+            "lat": 52.594269,
+            "lng": 7.275569
+        },
+        "image": "https://lh3.googleusercontent.com/v90iWHHqsyao1BoPAKqZKqcB2SmiiMlRTsT5-Z2Hw0hQXHOeGHWlmBVQg99mn4UxkduoZYxxghY_Jz_ICYNmFaRCZ_Y",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "level": "3",
+            "boss": "",
+            "hatchTime": "2022-10-10T12:34:03Z",
+            "endTime": "2022-10-10T13:19:03Z"
+        }
+    },
+    {
+        "id": "3707a111-d5ff-5d1b-913e-608f9c6b5a2b",
+        "name": "Surfer",
+        "location": {
+            "lat": 52.592603,
+            "lng": 7.286682
+        },
+        "image": "https://lh3.googleusercontent.com/MQsFS01KqaokDZIp8XA9ganGOr5YUiSbbfnD8ZW6KT6KZ6b89uXEJDjfi-b5DvMy5huUzLs9H_iaL8s7pJp2swHziECf",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "level": "5",
+            "boss": "",
+            "hatchTime": "2022-10-10T12:36:53Z",
+            "endTime": "2022-10-10T13:21:53Z"
+        }
     },
     {
         "id": "da6a3522-6ea3-5eba-a70b-d54b69ebb787",
@@ -2448,26 +2516,6 @@
         "raid": null
     },
     {
-        "id": "7dd1bd15-2e1d-5905-b546-22456a0d4183",
-        "name": "Funktion des Speicherbeckens",
-        "location": {
-            "lat": 52.594269,
-            "lng": 7.275569
-        },
-        "image": "https://lh3.googleusercontent.com/v90iWHHqsyao1BoPAKqZKqcB2SmiiMlRTsT5-Z2Hw0hQXHOeGHWlmBVQg99mn4UxkduoZYxxghY_Jz_ICYNmFaRCZ_Y",
-        "raid": null
-    },
-    {
-        "id": "3707a111-d5ff-5d1b-913e-608f9c6b5a2b",
-        "name": "Surfer",
-        "location": {
-            "lat": 52.592603,
-            "lng": 7.286682
-        },
-        "image": "https://lh3.googleusercontent.com/MQsFS01KqaokDZIp8XA9ganGOr5YUiSbbfnD8ZW6KT6KZ6b89uXEJDjfi-b5DvMy5huUzLs9H_iaL8s7pJp2swHziECf",
-        "raid": null
-    },
-    {
         "id": "04a1c11a-600e-5f5e-979c-fe43ee2980b1",
         "name": "Naturschutzgebiet \"Biotop am Speicherbecken Geeste\"",
         "location": {
@@ -2554,6 +2602,22 @@
         "raid": null
     },
     {
+        "id": "85811b52-b54e-5ef5-bdea-944fc7cc5ab8",
+        "name": "Stadt Freren Jubiläumsstein",
+        "location": {
+            "lat": 52.492051,
+            "lng": 7.544795
+        },
+        "image": "https://lh3.googleusercontent.com/xrKOg6idtuF6ywXTawK3oOtU8ErFcav7sXyQckT4g3b-zINBWxZ3fnIRVW2-SHb0WLNm6rxz4jT3gXpEu-xzEjA01HKt",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "level": "5",
+            "boss": "",
+            "hatchTime": "2022-10-10T12:27:46Z",
+            "endTime": "2022-10-10T13:12:46Z"
+        }
+    },
+    {
         "id": "d1c33af3-8f13-52cf-91df-8cd3af7e0b98",
         "name": "St Andreas",
         "location": {
@@ -2609,13 +2673,7 @@
             "lng": 7.543516
         },
         "image": "https://lh3.googleusercontent.com/2MnhadOzXibxfM39v1KwdxKu1rVumQWmLpi-I3sFTakle5EzgQ4YJsooiYUrGxjAYTDo6toeLExGnqKAhsLHIX9r650d",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm221_2498e9e2f3bf655b5a1c5b4444ecff7cb1be1cdcbd3666a479e44909db5c399f.png",
-            "level": "3",
-            "boss": "Piloswine",
-            "hatchTime": "2022-10-10T11:02:35Z",
-            "endTime": "2022-10-10T11:47:35Z"
-        }
+        "raid": null
     },
     {
         "id": "a60fefb7-380e-5c61-8d33-29d335652332",
@@ -2745,16 +2803,6 @@
             "lng": 7.48963
         },
         "image": "https://lh3.googleusercontent.com/XpB_ekxkm_tPAJs7wCFuyT3gzu_FCGmqySCyL-FjWhYHg13fRD6Lz6tHyTjxJmZICoQLPv-YT5YZJJ66cCGkVg15ZQ",
-        "raid": null
-    },
-    {
-        "id": "85811b52-b54e-5ef5-bdea-944fc7cc5ab8",
-        "name": "Stadt Freren Jubiläumsstein",
-        "location": {
-            "lat": 52.492051,
-            "lng": 7.544795
-        },
-        "image": "https://lh3.googleusercontent.com/xrKOg6idtuF6ywXTawK3oOtU8ErFcav7sXyQckT4g3b-zINBWxZ3fnIRVW2-SHb0WLNm6rxz4jT3gXpEu-xzEjA01HKt",
         "raid": null
     },
     {
