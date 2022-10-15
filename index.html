@@ -30,8 +30,10 @@
         window.fetch('gyms/lingen.json').then((res) => res.json()).then((json) => {
             var raidsLevel1 = [];
             var raidsLevel3 = [];
+            var raidsLevel4 = [];
             var raidsLevel5 = [];
             var raidsLevelMega = [];
+            var raidLevelTop = [];
             var gyms = [];
 
             for (gym of json) {
@@ -77,11 +79,17 @@
                     if (gym.raid.level === '3') {
                         raidsLevel3.push(marker)
                     }
+                    if (gym.raid.level === '4') {
+                        raidsLevel4.push(marker)
+                    }
                     if (gym.raid.level === '5') {
                         raidsLevel5.push(marker)
                     }
                     if (gym.raid.level === '6') {
                         raidsLevelMega.push(marker)
+                    }
+                    if (gym.raid.level === '9') {
+                        raidLevelTop.push(marker)
                     }
                 } else {
                     gyms.push(marker);
@@ -92,8 +100,10 @@
             baseLayers[`Arenen (${gyms.length})`] = L.layerGroup(gyms);
             baseLayers[`Level 1 (${raidsLevel1.length})`] = L.layerGroup(raidsLevel1);
             baseLayers[`Level 3 (${raidsLevel3.length})`] = L.layerGroup(raidsLevel3);
+            baseLayers[`Level 4 (${raidsLevel4.length})`] = L.layerGroup(raidsLevel4);
             baseLayers[`Level 5 (${raidsLevel5.length})`] = L.layerGroup(raidsLevel5);
             baseLayers[`Mega (${raidsLevelMega.length})`] = L.layerGroup(raidsLevelMega);
+            baseLayers[`Top Raids (${raidsLevelMega.length})`] = L.layerGroup(raidLevelTop);
 
             for (layer of Object.values(baseLayers)) {
                 layer.addTo(map)
