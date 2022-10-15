@@ -103,7 +103,7 @@
             baseLayers[`Level 4 (${raidsLevel4.length})`] = L.layerGroup(raidsLevel4);
             baseLayers[`Level 5 (${raidsLevel5.length})`] = L.layerGroup(raidsLevel5);
             baseLayers[`Mega (${raidsLevelMega.length})`] = L.layerGroup(raidsLevelMega);
-            baseLayers[`Top Raids (${raidsLevelMega.length})`] = L.layerGroup(raidLevelTop);
+            baseLayers[`Top Raids (${raidLevelTop.length})`] = L.layerGroup(raidLevelTop);
 
             for (layer of Object.values(baseLayers)) {
                 layer.addTo(map)
