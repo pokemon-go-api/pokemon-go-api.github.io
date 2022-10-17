@@ -1,5 +1,53 @@
 [
     {
+        "id": "932f8cb0-7792-517a-8cea-af09070af77f",
+        "name": "Bildstock am Waldrand",
+        "location": {
+            "lat": 52.508097,
+            "lng": 7.289831
+        },
+        "image": "https://lh3.googleusercontent.com/btuJ_rXTGdRxwmzTx-3QFaErvCb4ujd2RNis2CIBwuybuT3mCzA5lOHwNJtJhrRvRH1GbuVAZ_DbVMqko-aE8fzlqvul",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "level": "1",
+            "boss": "",
+            "hatchTime": "2022-10-17T14:01:55Z",
+            "endTime": "2022-10-17T14:46:55Z"
+        }
+    },
+    {
+        "id": "1ddb3ef2-81e3-500f-a343-32ce23bece49",
+        "name": "Balancierstrecke",
+        "location": {
+            "lat": 52.51974,
+            "lng": 7.296065
+        },
+        "image": "https://lh3.googleusercontent.com/0nC1rK5s4DW_FrDnKIsesX0JrmZPLbn0CquiRwoz32kTPbYqIEBoZ0SkM6cn-8sIhBImMFGd7ccUTRBWi9Lr1DpHp53k",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "level": "3",
+            "boss": "",
+            "hatchTime": "2022-10-17T13:08:38Z",
+            "endTime": "2022-10-17T13:53:38Z"
+        }
+    },
+    {
+        "id": "64c5f7eb-7803-5d4b-88dc-48e758803e06",
+        "name": "Spielplatz Pfarrtannen",
+        "location": {
+            "lat": 52.509094,
+            "lng": 7.283818
+        },
+        "image": "https://lh3.googleusercontent.com/7Jp30daWdFQvSUtbS_1584qlfDSG7ZP2V5kodAaC_Ix5MWM-gWn70nJHdAIU8y5w5IUs0PU3z_8eEY_POEYBmN94DQ",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "level": "3",
+            "boss": "",
+            "hatchTime": "2022-10-17T13:41:06Z",
+            "endTime": "2022-10-17T14:26:06Z"
+        }
+    },
+    {
         "id": "7d359257-ef3b-521a-8c7a-fe6f7ac5ee52",
         "name": "Wetterstation Lingen",
         "location": {
@@ -40,9 +88,9 @@
         },
         "image": "https://lh3.googleusercontent.com/ixZlN0ngzM0LsZts0z0L9epYrS1wBToSkGvyPNxiazFA7FC4hXh-kK66_UKUolI1TH_-uim8ocTX5hUrbusEwsAoDg",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm554_a139735f9f67ad3deb7fc0c738ee5cb94ea45ecef0952500962f2cd2e20c90ef.png",
             "level": "1",
-            "boss": "",
+            "boss": "Darumaka",
             "hatchTime": "2022-10-17T13:00:01Z",
             "endTime": "2022-10-17T13:45:01Z"
         }
@@ -87,13 +135,7 @@
             "lng": 7.309952
         },
         "image": "https://lh3.googleusercontent.com/Oh7H0Nsjpk6p-Dgm8ewEIcmO3ZmhcHL5VLjJXicTxCh099thHttQpE3PxjXGVBsnQYjse4Bk4si82RrwEaPKhvgD6w",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm716_52f527cba5273a4ef9773b85b41eb2124c61ce6cb35b609e5597c39870c27cef.png",
-            "level": "5",
-            "boss": "Xerneas",
-            "hatchTime": "2022-10-17T12:20:53Z",
-            "endTime": "2022-10-17T13:05:53Z"
-        }
+        "raid": null
     },
     {
         "id": "4382455e-c20d-5472-a375-a324de2a1e91",
@@ -103,13 +145,7 @@
             "lng": 7.294977
         },
         "image": "https://lh3.googleusercontent.com/pdNH30i-IKyxirIqFfWCpdOVURiDQQzwkA0_yDj9qmhNKp1PeB27uR8_BKVPy447exhCWtWP9YeEeVnSwoT-II1j1ug",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm303_1ee53559adfe14e2b7be1dec6e62861e0b47b7cd1c8f8e6a9120eef4c916c6a8.png",
-            "level": "3",
-            "boss": "Mawile",
-            "hatchTime": "2022-10-17T12:11:59Z",
-            "endTime": "2022-10-17T12:56:59Z"
-        }
+        "raid": null
     },
     {
         "id": "da94de32-9a15-5515-a7a9-b7895c0a2013",
@@ -129,13 +165,7 @@
             "lng": 7.304778
         },
         "image": "https://lh3.googleusercontent.com/awCdjbjkDTOBwmoBJWBXLxYUhYmsD23bAH1BGneh2tZML5gUthyJyc8y3vBKe6QWhTgWjdn2HM9E_n7-5tYxinCisQ",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm77.fGALARIAN_b882ed60fbb24e6d4c4c71b63b02a7eca20cefaef5af906127b99a1b06b73e30.png",
-            "level": "1",
-            "boss": "Ponyta",
-            "hatchTime": "2022-10-17T12:09:06Z",
-            "endTime": "2022-10-17T12:54:06Z"
-        }
+        "raid": null
     },
     {
         "id": "a579adc0-2205-521f-b0cf-9998c675e63a",
@@ -145,13 +175,7 @@
             "lng": 7.269953
         },
         "image": "https://lh3.googleusercontent.com/ugCc1-6mFYtZ8p7mwmDxfXFTjThFD0Xi_agr7ywJeYEJYZSSGKdOMkftaZuSjLAMs27UYi7FCNl0cZ8YkPhjV9WmLcY",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm755_e7b46d78921677ad73995ae53ba48360a1c0919405e6d0bc096e48de4544f097.png",
-            "level": "1",
-            "boss": "Morelull",
-            "hatchTime": "2022-10-17T12:09:00Z",
-            "endTime": "2022-10-17T12:54:00Z"
-        }
+        "raid": null
     },
     {
         "id": "19256076-73c8-5504-a6ed-3c84394b5b5f",
@@ -214,26 +238,6 @@
         "raid": null
     },
     {
-        "id": "932f8cb0-7792-517a-8cea-af09070af77f",
-        "name": "Bildstock am Waldrand",
-        "location": {
-            "lat": 52.508097,
-            "lng": 7.289831
-        },
-        "image": "https://lh3.googleusercontent.com/btuJ_rXTGdRxwmzTx-3QFaErvCb4ujd2RNis2CIBwuybuT3mCzA5lOHwNJtJhrRvRH1GbuVAZ_DbVMqko-aE8fzlqvul",
-        "raid": null
-    },
-    {
-        "id": "1ddb3ef2-81e3-500f-a343-32ce23bece49",
-        "name": "Balancierstrecke",
-        "location": {
-            "lat": 52.51974,
-            "lng": 7.296065
-        },
-        "image": "https://lh3.googleusercontent.com/0nC1rK5s4DW_FrDnKIsesX0JrmZPLbn0CquiRwoz32kTPbYqIEBoZ0SkM6cn-8sIhBImMFGd7ccUTRBWi9Lr1DpHp53k",
-        "raid": null
-    },
-    {
         "id": "5394f867-2db5-5f6e-8238-16f397a0055c",
         "name": "Alter Brunnen",
         "location": {
@@ -281,16 +285,6 @@
             "lng": 7.3147
         },
         "image": "https://lh3.googleusercontent.com/ZbUwxD1FrKT7-oCYxgpMJbyo8rxFxDqFeUXadds9Ol-WTwGLvtye9bV8Rt9PQYsTVYNzHQMbkdZaxHnOljo4PHNmd14",
-        "raid": null
-    },
-    {
-        "id": "64c5f7eb-7803-5d4b-88dc-48e758803e06",
-        "name": "Spielplatz Pfarrtannen",
-        "location": {
-            "lat": 52.509094,
-            "lng": 7.283818
-        },
-        "image": "https://lh3.googleusercontent.com/7Jp30daWdFQvSUtbS_1584qlfDSG7ZP2V5kodAaC_Ix5MWM-gWn70nJHdAIU8y5w5IUs0PU3z_8eEY_POEYBmN94DQ",
         "raid": null
     },
     {
@@ -394,6 +388,38 @@
         "raid": null
     },
     {
+        "id": "6556217d-9c7f-5215-b372-74fb0f560df1",
+        "name": "Johanneskirche",
+        "location": {
+            "lat": 52.514595,
+            "lng": 7.327217
+        },
+        "image": "https://lh3.googleusercontent.com/v2ZvXy_FYQwzPbWSx7-OqwJ5g__-fWyxqcqiserc-J17znAOoOBY-rbYshl6ug5y5gI0sAy7Q4D3NiNHvNmT7k5lz_8",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "level": "3",
+            "boss": "",
+            "hatchTime": "2022-10-17T14:04:40Z",
+            "endTime": "2022-10-17T14:49:40Z"
+        }
+    },
+    {
+        "id": "4e928e5d-5abd-51f6-8137-4d356705fe42",
+        "name": "Stadtteil Darme 700 Jahre",
+        "location": {
+            "lat": 52.499871,
+            "lng": 7.326751
+        },
+        "image": "https://lh3.googleusercontent.com/4jenj3_zE5cBmHqBPqlmqu4Gry3CZNvg3VAFM0oSPUacyNPaiiBaN7v3Ck_3SKCiANNMIkqdxHjJ9PS7G7yGpGJ-Lg",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "level": "1",
+            "boss": "",
+            "hatchTime": "2022-10-17T13:28:33Z",
+            "endTime": "2022-10-17T14:13:33Z"
+        }
+    },
+    {
         "id": "779b9415-9197-5c03-a53e-e333ba6c8496",
         "name": "Der Zahn",
         "location": {
@@ -481,13 +507,7 @@
             "lng": 7.339417
         },
         "image": "https://lh3.googleusercontent.com/TIq_IuuNVl1uT45nIOIu64-MRKB855-IzDxLwZyRQKPEIqcFxNWVwSwkeh4v-_ay-gow7yE4RCAYddtx_8lNegaWyA",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm755_e7b46d78921677ad73995ae53ba48360a1c0919405e6d0bc096e48de4544f097.png",
-            "level": "1",
-            "boss": "Morelull",
-            "hatchTime": "2022-10-17T12:13:00Z",
-            "endTime": "2022-10-17T12:58:00Z"
-        }
+        "raid": null
     },
     {
         "id": "c4b33d86-8658-5d53-8aa7-cc5278bd1990",
@@ -497,13 +517,7 @@
             "lng": 7.339133
         },
         "image": "https://lh3.googleusercontent.com/YiSpreSFELEFXQuS5oSDvBy7y1Ktpkb66F-KIydw6iFJ_rg8GqJHsuZF7DG4pDnOuT63I52vr-gP9EVvTO51NwMMug",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm310.fMEGA_539c5e5fce2cff17b97ca127e63d05c03157d5bb93b9514022ecfaf77066cec3.png",
-            "level": "6",
-            "boss": "Mega Manectric",
-            "hatchTime": "2022-10-17T12:12:00Z",
-            "endTime": "2022-10-17T12:57:00Z"
-        }
+        "raid": null
     },
     {
         "id": "4413401f-1433-52bc-b8cc-6164aec04e7f",
@@ -513,13 +527,7 @@
             "lng": 7.32382
         },
         "image": "https://lh3.googleusercontent.com/Iai0x0ocwIZIwCCgtxHVaGMZt5IZJLNVA5JYQCrbSM0haRzh3oPK0ay91nqXPAV_-xAp0Gw_NgGEvl5fdhyZf0wDPtBY",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm110.fGALARIAN_7b12159bdd42a6f6265f2b0ee311850663b8174265ce9e417e8fc4f929fc0678.png",
-            "level": "3",
-            "boss": "Weezing",
-            "hatchTime": "2022-10-17T12:08:05Z",
-            "endTime": "2022-10-17T12:53:05Z"
-        }
+        "raid": null
     },
     {
         "id": "07881ea7-cd17-561e-90e3-c5d58ea8e007",
@@ -660,16 +668,6 @@
         "raid": null
     },
     {
-        "id": "4e928e5d-5abd-51f6-8137-4d356705fe42",
-        "name": "Stadtteil Darme 700 Jahre",
-        "location": {
-            "lat": 52.499871,
-            "lng": 7.326751
-        },
-        "image": "https://lh3.googleusercontent.com/4jenj3_zE5cBmHqBPqlmqu4Gry3CZNvg3VAFM0oSPUacyNPaiiBaN7v3Ck_3SKCiANNMIkqdxHjJ9PS7G7yGpGJ-Lg",
-        "raid": null
-    },
-    {
         "id": "6d60cb8b-5289-5983-acb7-c2b192ca8817",
         "name": "Ich Bin Die Auferstehung Und Das Leben",
         "location": {
@@ -687,16 +685,6 @@
             "lng": 7.32632
         },
         "image": "https://lh3.googleusercontent.com/ziB_YiS5AUyHmqonTRWsfB8-K_yZm_uBaWSWjUkD37EhLVHuPKn3_ynfazyJb-_QZgI4_3j0Apn6IKsbgSLLQ6FDsbg",
-        "raid": null
-    },
-    {
-        "id": "6556217d-9c7f-5215-b372-74fb0f560df1",
-        "name": "Johanneskirche",
-        "location": {
-            "lat": 52.514595,
-            "lng": 7.327217
-        },
-        "image": "https://lh3.googleusercontent.com/v2ZvXy_FYQwzPbWSx7-OqwJ5g__-fWyxqcqiserc-J17znAOoOBY-rbYshl6ug5y5gI0sAy7Q4D3NiNHvNmT7k5lz_8",
         "raid": null
     },
     {
@@ -750,6 +738,38 @@
         "raid": null
     },
     {
+        "id": "e4ed2ca7-0e10-58c6-92da-df21b8103e42",
+        "name": "Ortseingang Reuschberge",
+        "location": {
+            "lat": 52.525976,
+            "lng": 7.306538
+        },
+        "image": "https://lh3.googleusercontent.com/Ga2_jSFU8shTWWBXqBY4ollBYyEyjnzsMVRYHjnm-FWR7u1nI5RvBkNg4teZ7_xpwAZmDN3GGzKRKQT694Lf_PeJfg",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "level": "5",
+            "boss": "",
+            "hatchTime": "2022-10-17T14:04:24Z",
+            "endTime": "2022-10-17T14:49:24Z"
+        }
+    },
+    {
+        "id": "4996ed79-475d-5cc0-b6c9-45bca4cfaf03",
+        "name": "Altes Rathaus",
+        "location": {
+            "lat": 52.522532,
+            "lng": 7.316128
+        },
+        "image": "https://lh3.googleusercontent.com/lOrjqAWGYNBqV6TB7WSYN6bGzgq69P8dtGZjBbFPzBguzEAPz9C-lFi5AvA5UNYYNEXjH7_7DHkfapBzrX8CeoUvViQ",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "level": "3",
+            "boss": "",
+            "hatchTime": "2022-10-17T13:40:04Z",
+            "endTime": "2022-10-17T14:25:04Z"
+        }
+    },
+    {
         "id": "763b523e-4ee1-5d2c-ab23-c2632cba34b4",
         "name": "Zwangsarbeiterlager. 1942-1945",
         "location": {
@@ -790,9 +810,9 @@
         },
         "image": "https://lh3.googleusercontent.com/m8qsw7N81nK68HCWGzmMf-6k8kslY_RzYD8z0fl7cp7Iq83JHdIj4R6bxiefqjL8t6XGTGXp8_lhCQbZQkxyizYiuA",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_3_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm310.fMEGA_539c5e5fce2cff17b97ca127e63d05c03157d5bb93b9514022ecfaf77066cec3.png",
             "level": "6",
-            "boss": "",
+            "boss": "Mega Manectric",
             "hatchTime": "2022-10-17T13:00:08Z",
             "endTime": "2022-10-17T13:45:08Z"
         }
@@ -924,16 +944,6 @@
         "raid": null
     },
     {
-        "id": "4996ed79-475d-5cc0-b6c9-45bca4cfaf03",
-        "name": "Altes Rathaus",
-        "location": {
-            "lat": 52.522532,
-            "lng": 7.316128
-        },
-        "image": "https://lh3.googleusercontent.com/lOrjqAWGYNBqV6TB7WSYN6bGzgq69P8dtGZjBbFPzBguzEAPz9C-lFi5AvA5UNYYNEXjH7_7DHkfapBzrX8CeoUvViQ",
-        "raid": null
-    },
-    {
         "id": "0b696dd3-cbe8-5fdd-88a8-c7da17c72e0a",
         "name": "Sandstein Käfer",
         "location": {
@@ -961,16 +971,6 @@
             "lng": 7.30846
         },
         "image": "https://lh3.googleusercontent.com/_dSZGmd35A0OeGEoLcI7zaovIgcO1x4Pt6zx4iKdc9nOVCg95b-OLmnbsfsGWRtjhM16MgQQBl2OUDsolqf2MHAcyC8",
-        "raid": null
-    },
-    {
-        "id": "e4ed2ca7-0e10-58c6-92da-df21b8103e42",
-        "name": "Ortseingang Reuschberge",
-        "location": {
-            "lat": 52.525976,
-            "lng": 7.306538
-        },
-        "image": "https://lh3.googleusercontent.com/Ga2_jSFU8shTWWBXqBY4ollBYyEyjnzsMVRYHjnm-FWR7u1nI5RvBkNg4teZ7_xpwAZmDN3GGzKRKQT694Lf_PeJfg",
         "raid": null
     },
     {
@@ -1054,6 +1054,22 @@
         "raid": null
     },
     {
+        "id": "eeefae12-4e81-51a4-987b-4f259f83a1c5",
+        "name": "Skulptur St.Josef",
+        "location": {
+            "lat": 52.523404,
+            "lng": 7.341804
+        },
+        "image": "https://lh3.googleusercontent.com/XD4V0NWTjtHZJnxVvxP7NgKaqhUnD4i1BaqvrLr8XZE6WWNzcnKfE6l3nFh8cGsEe2V_pKdNsbvScCt2fquHSdMQND8F",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "level": "5",
+            "boss": "",
+            "hatchTime": "2022-10-17T14:03:30Z",
+            "endTime": "2022-10-17T14:48:30Z"
+        }
+    },
+    {
         "id": "92adf686-ccb9-5561-a403-ba796de8729a",
         "name": "Haus der Vereine Damaschke",
         "location": {
@@ -1110,9 +1126,9 @@
         },
         "image": "https://lh3.googleusercontent.com/mYRo7MO7IXWiCLPp2Rj-rTjb6BqWagUdbv97EiKnp2c5648pj2AcUEDPLvpTQ7tDEBV-O4eeqhY3FldlW_ugwolJQ4oq",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm303_1ee53559adfe14e2b7be1dec6e62861e0b47b7cd1c8f8e6a9120eef4c916c6a8.png",
             "level": "3",
-            "boss": "",
+            "boss": "Mawile",
             "hatchTime": "2022-10-17T13:06:00Z",
             "endTime": "2022-10-17T13:51:00Z"
         }
@@ -1158,9 +1174,9 @@
         },
         "image": "https://lh3.googleusercontent.com/oWYbABoal2fsEhB7ghHnRC30dgld0F6CEhj8-3ULnMnbIC6E-ssRvlZBGl401bos9vlvPWo7aL5se9GUygFjSfYEyxcy",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm628.fHISUIAN_69a766a343dad7944f74dcb8e82ccb6fbe80ae811ec183e631cbf04b6fb0bb04.png",
             "level": "3",
-            "boss": "",
+            "boss": "Braviary",
             "hatchTime": "2022-10-17T13:05:12Z",
             "endTime": "2022-10-17T13:50:12Z"
         }
@@ -1269,13 +1285,7 @@
             "lng": 7.328462
         },
         "image": "https://lh3.googleusercontent.com/5ek9tdZOkQgV54abEpH5ULkrD-N18OzalDOkyTBc5GGjOtZua6b-hoz9N5OwEIBL4INGhFhMSSW_alWMcl7dYF9-2_k",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm716_52f527cba5273a4ef9773b85b41eb2124c61ce6cb35b609e5597c39870c27cef.png",
-            "level": "5",
-            "boss": "Xerneas",
-            "hatchTime": "2022-10-17T12:21:03Z",
-            "endTime": "2022-10-17T13:06:03Z"
-        }
+        "raid": null
     },
     {
         "id": "da850e2d-888f-58ac-9601-4e4a46339388",
@@ -1295,13 +1305,7 @@
             "lng": 7.332854
         },
         "image": "https://lh3.googleusercontent.com/X-YtUn0sshiSQ1VIkyadajQ7csiZEjI2psV05UziHWG-q7tuEeMNhs1LAkRiZCJFht2fOWT4EZkOXS1VcLqDIoyRZg",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm628.fHISUIAN_69a766a343dad7944f74dcb8e82ccb6fbe80ae811ec183e631cbf04b6fb0bb04.png",
-            "level": "3",
-            "boss": "Braviary",
-            "hatchTime": "2022-10-17T12:12:51Z",
-            "endTime": "2022-10-17T12:57:51Z"
-        }
+        "raid": null
     },
     {
         "id": "9c33ec47-ff40-55a5-a43e-de7ace988515",
@@ -1311,13 +1315,7 @@
             "lng": 7.339425
         },
         "image": "https://lh3.googleusercontent.com/GhAAwKVHcJPXF3h9W0b4BOSARYUJlx4qgSNObziE2RKdByR2Du-N_PU8vrEsuUN5BGf68dJTPyAy5TOqDhY-6qimzdSp",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm554_a139735f9f67ad3deb7fc0c738ee5cb94ea45ecef0952500962f2cd2e20c90ef.png",
-            "level": "1",
-            "boss": "Darumaka",
-            "hatchTime": "2022-10-17T12:08:17Z",
-            "endTime": "2022-10-17T12:53:17Z"
-        }
+        "raid": null
     },
     {
         "id": "f5ee5441-7967-5535-9854-9590d5f741ce",
@@ -1520,16 +1518,6 @@
         "raid": null
     },
     {
-        "id": "eeefae12-4e81-51a4-987b-4f259f83a1c5",
-        "name": "Skulptur St.Josef",
-        "location": {
-            "lat": 52.523404,
-            "lng": 7.341804
-        },
-        "image": "https://lh3.googleusercontent.com/XD4V0NWTjtHZJnxVvxP7NgKaqhUnD4i1BaqvrLr8XZE6WWNzcnKfE6l3nFh8cGsEe2V_pKdNsbvScCt2fquHSdMQND8F",
-        "raid": null
-    },
-    {
         "id": "140e2cba-d2b5-552b-b974-85becfc3c954",
         "name": "Dieselmotor Deutz",
         "location": {
@@ -1600,9 +1588,9 @@
         },
         "image": "https://lh3.googleusercontent.com/Hxm7nZHh9j_H4UszJZKKCSAnp4VJj6bAEFcnxONyUXZSKvpUreOUp9dATwIOMGcpEhAadRvmfeTY3-HpFrLQCCtjhPQ",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_3_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm310.fMEGA_539c5e5fce2cff17b97ca127e63d05c03157d5bb93b9514022ecfaf77066cec3.png",
             "level": "6",
-            "boss": "",
+            "boss": "Mega Manectric",
             "hatchTime": "2022-10-17T13:01:44Z",
             "endTime": "2022-10-17T13:46:44Z"
         }
@@ -1716,9 +1704,9 @@
         },
         "image": "https://lh3.googleusercontent.com/cUDpjlfPrQgzgzuf7IXjfIKvT56_X1InK1cZcn5tsZ5Kdc_IUVz2BiHj7hkUUdrNMAAtjwEnCJmE2Rt_a6yB91FFxG8",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm628.fHISUIAN_69a766a343dad7944f74dcb8e82ccb6fbe80ae811ec183e631cbf04b6fb0bb04.png",
             "level": "3",
-            "boss": "",
+            "boss": "Braviary",
             "hatchTime": "2022-10-17T13:06:42Z",
             "endTime": "2022-10-17T13:51:42Z"
         }
@@ -1795,13 +1783,7 @@
             "lng": 7.48963
         },
         "image": "https://lh3.googleusercontent.com/XpB_ekxkm_tPAJs7wCFuyT3gzu_FCGmqySCyL-FjWhYHg13fRD6Lz6tHyTjxJmZICoQLPv-YT5YZJJ66cCGkVg15ZQ",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm310.fMEGA_539c5e5fce2cff17b97ca127e63d05c03157d5bb93b9514022ecfaf77066cec3.png",
-            "level": "6",
-            "boss": "Mega Manectric",
-            "hatchTime": "2022-10-17T12:16:03Z",
-            "endTime": "2022-10-17T13:01:03Z"
-        }
+        "raid": null
     },
     {
         "id": "c5240837-4448-5a2f-96bc-1f372696e621",
@@ -2111,13 +2093,7 @@
             "lng": 7.28901
         },
         "image": "https://lh3.googleusercontent.com/2uh2i3xsiPnWVbaPH3hjN56VTU3vbMGDe2625eerchOAVfXcohSawlCC3eexJaL6_9ZjvIsTuOmDX-ybzu-LtvdxodA",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm628.fHISUIAN_69a766a343dad7944f74dcb8e82ccb6fbe80ae811ec183e631cbf04b6fb0bb04.png",
-            "level": "3",
-            "boss": "Braviary",
-            "hatchTime": "2022-10-17T12:10:27Z",
-            "endTime": "2022-10-17T12:55:27Z"
-        }
+        "raid": null
     },
     {
         "id": "186a08a3-f655-5b93-9c94-72329b235aca",
@@ -2309,13 +2285,7 @@
             "lng": 7.321763
         },
         "image": "https://lh3.googleusercontent.com/ZLg6DMt-sUWgk65ppHrNUSRM_5y24cwzTSCRkGeMu82qRrmcw5QXonkWBdfFvIIPPUoDQtuVoKWeLSRTCHkrHZEb4gc",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm628.fHISUIAN_69a766a343dad7944f74dcb8e82ccb6fbe80ae811ec183e631cbf04b6fb0bb04.png",
-            "level": "3",
-            "boss": "Braviary",
-            "hatchTime": "2022-10-17T12:16:15Z",
-            "endTime": "2022-10-17T13:01:15Z"
-        }
+        "raid": null
     },
     {
         "id": "91ae74e3-f0c9-57c4-9e13-25682d502430",
@@ -2398,9 +2368,9 @@
         },
         "image": "https://lh3.googleusercontent.com/oaf_pIM1EGFKjJZSRkc8uVodbQZKNq_yxsOOF0afgY_P6nzPc8my9IpUyE2hhy64bWVKLjf6nbA8uNNLDc9c1_NWwg",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_3_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm310.fMEGA_539c5e5fce2cff17b97ca127e63d05c03157d5bb93b9514022ecfaf77066cec3.png",
             "level": "6",
-            "boss": "",
+            "boss": "Mega Manectric",
             "hatchTime": "2022-10-17T13:03:09Z",
             "endTime": "2022-10-17T13:48:09Z"
         }
@@ -2519,13 +2489,7 @@
             "lng": 7.373773
         },
         "image": "https://lh3.googleusercontent.com/dWJw-EfUZzqA0eklSG5xi1a-guUyPzRaYZlfx_sRSjKnQbV9xNjAStwh2P-wITxFbYWdMz3CTk5YNzmRe4IYxeOCU_s",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm554_a139735f9f67ad3deb7fc0c738ee5cb94ea45ecef0952500962f2cd2e20c90ef.png",
-            "level": "1",
-            "boss": "Darumaka",
-            "hatchTime": "2022-10-17T12:19:45Z",
-            "endTime": "2022-10-17T13:04:45Z"
-        }
+        "raid": null
     },
     {
         "id": "0a9f590a-a49b-5c41-bc15-c7eb0b77ab26",
@@ -2535,13 +2499,7 @@
             "lng": 7.36802
         },
         "image": "https://lh3.googleusercontent.com/jtAvvSznxrF2vGJabLIQkiY100nX7yZF69jBxDhaxzmNpSQA6qweT42rMloHKPOjRUePRQ9TGz5Wj0PNfNzKoJKuOdRfinqicqkv-OU",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm716_52f527cba5273a4ef9773b85b41eb2124c61ce6cb35b609e5597c39870c27cef.png",
-            "level": "5",
-            "boss": "Xerneas",
-            "hatchTime": "2022-10-17T12:09:44Z",
-            "endTime": "2022-10-17T12:54:44Z"
-        }
+        "raid": null
     },
     {
         "id": "54238ef4-c15d-5e1c-af6b-af9d676cd7ec",
@@ -2608,9 +2566,9 @@
         },
         "image": "https://lh3.googleusercontent.com/cUDpjlfPrQgzgzuf7IXjfIKvT56_X1InK1cZcn5tsZ5Kdc_IUVz2BiHj7hkUUdrNMAAtjwEnCJmE2Rt_a6yB91FFxG8",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm628.fHISUIAN_69a766a343dad7944f74dcb8e82ccb6fbe80ae811ec183e631cbf04b6fb0bb04.png",
             "level": "3",
-            "boss": "",
+            "boss": "Braviary",
             "hatchTime": "2022-10-17T13:06:42Z",
             "endTime": "2022-10-17T13:51:42Z"
         }
@@ -2687,13 +2645,7 @@
             "lng": 7.48963
         },
         "image": "https://lh3.googleusercontent.com/XpB_ekxkm_tPAJs7wCFuyT3gzu_FCGmqySCyL-FjWhYHg13fRD6Lz6tHyTjxJmZICoQLPv-YT5YZJJ66cCGkVg15ZQ",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm310.fMEGA_539c5e5fce2cff17b97ca127e63d05c03157d5bb93b9514022ecfaf77066cec3.png",
-            "level": "6",
-            "boss": "Mega Manectric",
-            "hatchTime": "2022-10-17T12:16:03Z",
-            "endTime": "2022-10-17T13:01:03Z"
-        }
+        "raid": null
     },
     {
         "id": "128ec952-0501-5e6c-8a07-e253b0d973b2",
@@ -2880,9 +2832,9 @@
         },
         "image": "https://lh3.googleusercontent.com/CT_NtsDLsM3rZDFj0RH4uB3JuOtAmhS9TMH2PhjSo0Sm2rFosY2apM9rCMnphSLXtqVqyHS_64oUQjEyNvrQ333_UrA2C6gdT4ovdfKp",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_3_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm310.fMEGA_539c5e5fce2cff17b97ca127e63d05c03157d5bb93b9514022ecfaf77066cec3.png",
             "level": "6",
-            "boss": "",
+            "boss": "Mega Manectric",
             "hatchTime": "2022-10-17T13:01:18Z",
             "endTime": "2022-10-17T13:46:18Z"
         }
@@ -2905,13 +2857,7 @@
             "lng": 7.305368
         },
         "image": "https://lh3.googleusercontent.com/sosOTxpFetCBs7fKX5DNFAF73iOCOBPCfX7bsUg2kHBKPfydQVfnmGBv6I8Mt5OE2RE7NrWIIAwzJGIerHuDPRK0Oxg",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm554_a139735f9f67ad3deb7fc0c738ee5cb94ea45ecef0952500962f2cd2e20c90ef.png",
-            "level": "1",
-            "boss": "Darumaka",
-            "hatchTime": "2022-10-17T12:21:16Z",
-            "endTime": "2022-10-17T13:06:16Z"
-        }
+        "raid": null
     },
     {
         "id": "0ef52d76-4972-53fd-a3d5-83f7b9ab3076",
