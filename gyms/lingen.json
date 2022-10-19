@@ -72,9 +72,9 @@
         },
         "image": "https://lh3.googleusercontent.com/7Jp30daWdFQvSUtbS_1584qlfDSG7ZP2V5kodAaC_Ix5MWM-gWn70nJHdAIU8y5w5IUs0PU3z_8eEY_POEYBmN94DQ",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm110.fGALARIAN_7b12159bdd42a6f6265f2b0ee311850663b8174265ce9e417e8fc4f929fc0678.png",
             "level": "3",
-            "boss": "",
+            "boss": "Weezing",
             "hatchTime": "2022-10-19T07:24:45Z",
             "endTime": "2022-10-19T08:09:45Z"
         }
@@ -119,13 +119,7 @@
             "lng": 7.317681
         },
         "image": "https://lh3.googleusercontent.com/CnMdUAxYn3LtoJhk_dvBMFsr-jt-cwKrd6oGsefR6jT7W8XQ343ilwR5QQyHezh5gmlf2b6Gb111i1rH69JMi95a0po",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm716_52f527cba5273a4ef9773b85b41eb2124c61ce6cb35b609e5597c39870c27cef.png",
-            "level": "5",
-            "boss": "Xerneas",
-            "hatchTime": "2022-10-19T06:40:44Z",
-            "endTime": "2022-10-19T07:25:44Z"
-        }
+        "raid": null
     },
     {
         "id": "bd5b0992-3bac-5aa5-9cc7-ad98b4d6cec6",
@@ -444,9 +438,9 @@
         },
         "image": "https://lh3.googleusercontent.com/FDpPfA3y9dFtu6mWXPEd5QX2s7rGFzWiZBCzEw_fFFi7O_3HLQ79KbuRmmIpE_vqfVjskkJxHbkS0EDCxc5p7aKT0rw",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm716_52f527cba5273a4ef9773b85b41eb2124c61ce6cb35b609e5597c39870c27cef.png",
             "level": "5",
-            "boss": "",
+            "boss": "Xerneas",
             "hatchTime": "2022-10-19T07:33:56Z",
             "endTime": "2022-10-19T08:18:56Z"
         }
@@ -714,6 +708,22 @@
         "raid": null
     },
     {
+        "id": "6d8b358b-78e5-5ad4-8136-0536043f43a8",
+        "name": "Brunnen am alten Rathaus",
+        "location": {
+            "lat": 52.522256,
+            "lng": 7.316464
+        },
+        "image": "https://lh3.googleusercontent.com/3s3g_p94DaG0DQK7W07F58MW4iBBAkxcJMUWLvt46-2Nr8eI2J199woUE5EBzrQElMV-F3_9CEy2eaLviun09LZXu_Q",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "level": "3",
+            "boss": "",
+            "hatchTime": "2022-10-19T08:23:43Z",
+            "endTime": "2022-10-19T09:08:43Z"
+        }
+    },
+    {
         "id": "0b696dd3-cbe8-5fdd-88a8-c7da17c72e0a",
         "name": "Sandstein Käfer",
         "location": {
@@ -789,13 +799,7 @@
             "lng": 7.298676
         },
         "image": "https://lh3.googleusercontent.com/gITmM271Q9bzUHtUmOof88fscF672Uq1pH8T4reQsSe6EWnShxQUvcr6FfiK56rUxhQJ3Prm6QNcc4KKQmtgLaq2piom4y0RzjKpvVY",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm184_9a34580eed4708a11707cfc51a5437a310c7b56925fb3baa3a866304e588abf3.png",
-            "level": "3",
-            "boss": "Azumarill",
-            "hatchTime": "2022-10-19T06:38:17Z",
-            "endTime": "2022-10-19T07:23:17Z"
-        }
+        "raid": null
     },
     {
         "id": "d6d85bdb-827d-53fa-80d9-85a4cd35914d",
@@ -948,16 +952,6 @@
         "raid": null
     },
     {
-        "id": "6d8b358b-78e5-5ad4-8136-0536043f43a8",
-        "name": "Brunnen am alten Rathaus",
-        "location": {
-            "lat": 52.522256,
-            "lng": 7.316464
-        },
-        "image": "https://lh3.googleusercontent.com/3s3g_p94DaG0DQK7W07F58MW4iBBAkxcJMUWLvt46-2Nr8eI2J199woUE5EBzrQElMV-F3_9CEy2eaLviun09LZXu_Q",
-        "raid": null
-    },
-    {
         "id": "576e84d6-3800-5644-8f22-23bb464fa2e9",
         "name": "Wegekreuz v. 1985",
         "location": {
@@ -1016,6 +1010,38 @@
         },
         "image": "https://lh3.googleusercontent.com/W_igtABJjZYi_TLGQ0y24u1Db37usXzb0jAznN6ctXIF02T0RbitxD7PUArcUTGT73jemyTibHsbxtuNCNcLnNaVNwo",
         "raid": null
+    },
+    {
+        "id": "6c2d562f-9bed-547a-8096-f083eaf8d919",
+        "name": "Eingang zum Trimmpfad Damaschke",
+        "location": {
+            "lat": 52.545101,
+            "lng": 7.355295
+        },
+        "image": "https://lh3.googleusercontent.com/6kezS2P82XvE9lIAAnuFVIojN1LkYfxE1bRc5IaMvNpWU5nWChzvFth5LKUeTV-HqCTo2H5uIT_qbmUclBXraEWVWwU",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "level": "3",
+            "boss": "",
+            "hatchTime": "2022-10-19T08:26:09Z",
+            "endTime": "2022-10-19T09:11:09Z"
+        }
+    },
+    {
+        "id": "995aa8b8-f8ab-5e93-8b29-02f29124678e",
+        "name": "Springbrunnen am Bürgerzentrum",
+        "location": {
+            "lat": 52.52858,
+            "lng": 7.368666
+        },
+        "image": "https://lh3.googleusercontent.com/ALzxcTZuMDUl8cSl_DWkggZEtewLU3MdzGLZnAWj3lD98iXSrzax8eQKvBSEnRxxkYgII6svaukVLVpE3eOrtkYBrz0",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_3_icon.png",
+            "level": "6",
+            "boss": "",
+            "hatchTime": "2022-10-19T08:21:34Z",
+            "endTime": "2022-10-19T09:06:34Z"
+        }
     },
     {
         "id": "0a7064d3-6a59-5f48-91b7-9b13a10d04e2",
@@ -1106,9 +1132,9 @@
         },
         "image": "https://lh3.googleusercontent.com/o-cxjFOsfzjkEH5ejfmBhKmwHATZ35c-tXpEnN012WgvSHe6sPLlfwk5nmuzMWQtEWynqELJLxAELI3fI0xwlj1qt7Hn",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm716_52f527cba5273a4ef9773b85b41eb2124c61ce6cb35b609e5597c39870c27cef.png",
             "level": "5",
-            "boss": "",
+            "boss": "Xerneas",
             "hatchTime": "2022-10-19T07:37:01Z",
             "endTime": "2022-10-19T08:22:01Z"
         }
@@ -1138,9 +1164,9 @@
         },
         "image": "https://lh3.googleusercontent.com/Rrtab0ky9sqcmpCidynRqtsseryyOaRbF9XKvY5p6ll0BHVt3knXkFlQlIY5AEdaC_Nhxex042_XKGU-EbEtcfh0Aw",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm716_52f527cba5273a4ef9773b85b41eb2124c61ce6cb35b609e5597c39870c27cef.png",
             "level": "5",
-            "boss": "",
+            "boss": "Xerneas",
             "hatchTime": "2022-10-19T07:28:22Z",
             "endTime": "2022-10-19T08:13:22Z"
         }
@@ -1170,9 +1196,9 @@
         },
         "image": "https://lh3.googleusercontent.com/RI2TIMCIgB_5e-XD8N33htEKZwXwG25DRHjG9Z6GI34GsgKqPmGsB9pRphaf0labrlep3ZjgKbMW2QZAmUrAqstW3Nw",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm110.fGALARIAN_7b12159bdd42a6f6265f2b0ee311850663b8174265ce9e417e8fc4f929fc0678.png",
             "level": "3",
-            "boss": "",
+            "boss": "Weezing",
             "hatchTime": "2022-10-19T07:27:15Z",
             "endTime": "2022-10-19T08:12:15Z"
         }
@@ -1368,16 +1394,6 @@
         "raid": null
     },
     {
-        "id": "995aa8b8-f8ab-5e93-8b29-02f29124678e",
-        "name": "Springbrunnen am Bürgerzentrum",
-        "location": {
-            "lat": 52.52858,
-            "lng": 7.368666
-        },
-        "image": "https://lh3.googleusercontent.com/ALzxcTZuMDUl8cSl_DWkggZEtewLU3MdzGLZnAWj3lD98iXSrzax8eQKvBSEnRxxkYgII6svaukVLVpE3eOrtkYBrz0",
-        "raid": null
-    },
-    {
         "id": "6827fdcf-9e11-5d45-965f-0ceb111f6b49",
         "name": "Schrein der Mutter Maria",
         "location": {
@@ -1425,16 +1441,6 @@
             "lng": 7.350747
         },
         "image": "https://lh3.googleusercontent.com/qasCC8hkLwcJ2JPKT18_Fuj7BFnkoVgBnLVhQm3KRmy8uRdykcsEVAG4-3U_xWDESYXIQr991i95PJBsxSt6yCmBlg",
-        "raid": null
-    },
-    {
-        "id": "6c2d562f-9bed-547a-8096-f083eaf8d919",
-        "name": "Eingang zum Trimmpfad Damaschke",
-        "location": {
-            "lat": 52.545101,
-            "lng": 7.355295
-        },
-        "image": "https://lh3.googleusercontent.com/6kezS2P82XvE9lIAAnuFVIojN1LkYfxE1bRc5IaMvNpWU5nWChzvFth5LKUeTV-HqCTo2H5uIT_qbmUclBXraEWVWwU",
         "raid": null
     },
     {
@@ -1496,9 +1502,9 @@
         },
         "image": "https://lh3.googleusercontent.com/7-t1-Bq-_JsiPEd8B3-g4Y7kLQyVdlTQK81pNB0YeZU29FsnGIStRtw32-Lv1Swfuf2opCn7VFSTItVDimxfVgRyKQ",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm716_52f527cba5273a4ef9773b85b41eb2124c61ce6cb35b609e5597c39870c27cef.png",
             "level": "5",
-            "boss": "",
+            "boss": "Xerneas",
             "hatchTime": "2022-10-19T07:34:09Z",
             "endTime": "2022-10-19T08:19:09Z"
         }
@@ -1512,9 +1518,9 @@
         },
         "image": "https://lh3.googleusercontent.com/E3HQ42zyuwDIVi270X3ydVUosin_F2F_KbDww75Ei9h5FNLLrR_EzzmV3H_HDwOFZXu37t2QWdLR80EjMkm0uFJpVYCY",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm682_7ed54b1366336fd3465eb252feb6f738a7af41c6ba4d6fb48765d4dff794e095.png",
             "level": "1",
-            "boss": "",
+            "boss": "Spritzee",
             "hatchTime": "2022-10-19T07:22:53Z",
             "endTime": "2022-10-19T08:07:53Z"
         }
@@ -1920,9 +1926,9 @@
         },
         "image": "https://lh3.googleusercontent.com/qwHjxyvY6ST_8SZg8dtP5GSbGT35V2USUZwt9WcOUPCcG_n2qEQItACQU8aF6dc_R0Ffsv-WdWSgCNa21pxLSaG0ZrxN",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm39_a876f69f435665714b84aac160a404c900403214c4837dea66a001f6a2350230.png",
             "level": "1",
-            "boss": "",
+            "boss": "Jigglypuff",
             "hatchTime": "2022-10-19T07:24:27Z",
             "endTime": "2022-10-19T08:09:27Z"
         }
@@ -2210,6 +2216,22 @@
         "raid": null
     },
     {
+        "id": "9e47a572-1a9f-5d95-84b6-75a683bf343f",
+        "name": "St.Marien Kirche",
+        "location": {
+            "lat": 52.559662,
+            "lng": 7.366017
+        },
+        "image": "https://lh3.googleusercontent.com/1pXJyv-D8VyFos6mZy20RQtgnkVSwKqnMuSGFRI1WxJAazc94d67XBdJuy1h-tMjf5JeSnaQJDN4Dz7mJqR9DzwJz3s",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "level": "1",
+            "boss": "",
+            "hatchTime": "2022-10-19T08:28:54Z",
+            "endTime": "2022-10-19T09:13:54Z"
+        }
+    },
+    {
         "id": "aa7e1a8d-4707-51b7-8f03-03363ecf09af",
         "name": "Betstelle Brögbern",
         "location": {
@@ -2243,16 +2265,6 @@
             "lng": 7.359918
         },
         "image": "https://lh3.googleusercontent.com/oRqqhD9oSspNIBbeLCDoH-GODW0s2rR5t2SDom1nXpj9tlo9Dj56ICKEupse3poPmraQuHj98u_LNhWMyBKDpErMXw",
-        "raid": null
-    },
-    {
-        "id": "9e47a572-1a9f-5d95-84b6-75a683bf343f",
-        "name": "St.Marien Kirche",
-        "location": {
-            "lat": 52.559662,
-            "lng": 7.366017
-        },
-        "image": "https://lh3.googleusercontent.com/1pXJyv-D8VyFos6mZy20RQtgnkVSwKqnMuSGFRI1WxJAazc94d67XBdJuy1h-tMjf5JeSnaQJDN4Dz7mJqR9DzwJz3s",
         "raid": null
     },
     {
@@ -2494,6 +2506,22 @@
         "raid": null
     },
     {
+        "id": "9168333a-9eda-5e84-807e-4da2ecbdaaea",
+        "name": "Das Kaufmannshaus Pott-Holtmann",
+        "location": {
+            "lat": 52.486856,
+            "lng": 7.545145
+        },
+        "image": "https://lh3.googleusercontent.com/KMVDIsYXYIyp9I14bOLpHMrAsaCleSxkevwmFcG2kclstr1LzIIz94b_MphZV70UZXTuvFKZvXb1DKHZQcMU_IVs-vI",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "level": "3",
+            "boss": "",
+            "hatchTime": "2022-10-19T08:26:09Z",
+            "endTime": "2022-10-19T09:11:09Z"
+        }
+    },
+    {
         "id": "b949ac0e-7673-59f9-a2d1-261e1660f719",
         "name": "Ev. Church Freren",
         "location": {
@@ -2627,16 +2655,6 @@
             "lng": 7.571329
         },
         "image": "https://lh3.googleusercontent.com/4z7bBKn-VKtWD4_ckCHXYUEWFsl8fO3TA9P51NqiOepJWZ8CFawSdoTokE_W2ud741S6_tV29670SO3VzJRlihJQiwI",
-        "raid": null
-    },
-    {
-        "id": "9168333a-9eda-5e84-807e-4da2ecbdaaea",
-        "name": "Das Kaufmannshaus Pott-Holtmann",
-        "location": {
-            "lat": 52.486856,
-            "lng": 7.545145
-        },
-        "image": "https://lh3.googleusercontent.com/KMVDIsYXYIyp9I14bOLpHMrAsaCleSxkevwmFcG2kclstr1LzIIz94b_MphZV70UZXTuvFKZvXb1DKHZQcMU_IVs-vI",
         "raid": null
     },
     {
