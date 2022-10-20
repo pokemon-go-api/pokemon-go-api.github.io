@@ -1,5 +1,21 @@
 [
     {
+        "id": "0f58d224-af4a-545d-9cff-67cfa7233296",
+        "name": "Insekten Hotel",
+        "location": {
+            "lat": 52.511659,
+            "lng": 7.316173
+        },
+        "image": "https://lh3.googleusercontent.com/sMGpwPw_vIL52lKsY-lJHHCkvGIk3iCy80Fk5CjZ5GaZtF5fbXtub_rI6d3aKvhH1HR81iLbmWcB4PM42LnWtdDVdo8",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "level": "3",
+            "boss": "",
+            "hatchTime": "2022-10-20T05:20:27Z",
+            "endTime": "2022-10-20T06:05:27Z"
+        }
+    },
+    {
         "id": "a233ab80-36dd-5415-9475-2e87e99b143b",
         "name": "St. Alexander Schepsdorf",
         "location": {
@@ -24,9 +40,9 @@
         },
         "image": "https://lh3.googleusercontent.com/6goUFeFQX9QvmIaAdaBBC-Zhw9jxXJvD4a-UudtmZGubVQ05wkrna78mYRImH8JdfVHIvzxjMNK2xXvTGLYPv0UaX0s",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm176_0cd8a5ec1d3d0f8f05bfd7e9c657d74b1ad22463a45cdd36f413f4a7d072d94c.png",
             "level": "3",
-            "boss": "",
+            "boss": "Togetic",
             "hatchTime": "2022-10-20T04:10:31Z",
             "endTime": "2022-10-20T04:55:31Z"
         }
@@ -88,9 +104,9 @@
         },
         "image": "https://lh3.googleusercontent.com/0_n8CS-8pSVeIHjfIs-EpkLFVxrT0X09Kv1i6A6WgjzXeVcV_9k4jQY9ix_Bqwgx5TgTiUk-26fsynpLjEjAgoF5u9k",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm702_f3e887ed30e9dd2170082f7e95cba099e293b6e0385ebc9dbba75cc74d505f8b.png",
             "level": "1",
-            "boss": "",
+            "boss": "Dedenne",
             "hatchTime": "2022-10-20T04:19:44Z",
             "endTime": "2022-10-20T05:04:44Z"
         }
@@ -104,9 +120,9 @@
         },
         "image": "https://lh3.googleusercontent.com/UDSIPnx1ECFO3p7lWWvvKvDZ9UabtTieSsFMshhoU3JWhonMPbD5yEmZ1PxAZklOltb_nvXzNw4C3hEYQNv3Jnw0SHWe",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_3_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm310.fMEGA_539c5e5fce2cff17b97ca127e63d05c03157d5bb93b9514022ecfaf77066cec3.png",
             "level": "6",
-            "boss": "",
+            "boss": "Mega Manectric",
             "hatchTime": "2022-10-20T04:12:04Z",
             "endTime": "2022-10-20T04:57:04Z"
         }
@@ -120,9 +136,9 @@
         },
         "image": "https://lh3.googleusercontent.com/7Jp30daWdFQvSUtbS_1584qlfDSG7ZP2V5kodAaC_Ix5MWM-gWn70nJHdAIU8y5w5IUs0PU3z_8eEY_POEYBmN94DQ",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm110.fGALARIAN_7b12159bdd42a6f6265f2b0ee311850663b8174265ce9e417e8fc4f929fc0678.png",
             "level": "3",
-            "boss": "",
+            "boss": "Weezing",
             "hatchTime": "2022-10-20T04:08:11Z",
             "endTime": "2022-10-20T04:53:11Z"
         }
@@ -288,16 +304,6 @@
         "raid": null
     },
     {
-        "id": "0f58d224-af4a-545d-9cff-67cfa7233296",
-        "name": "Insekten Hotel",
-        "location": {
-            "lat": 52.511659,
-            "lng": 7.316173
-        },
-        "image": "https://lh3.googleusercontent.com/sMGpwPw_vIL52lKsY-lJHHCkvGIk3iCy80Fk5CjZ5GaZtF5fbXtub_rI6d3aKvhH1HR81iLbmWcB4PM42LnWtdDVdo8",
-        "raid": null
-    },
-    {
         "id": "7d359257-ef3b-521a-8c7a-fe6f7ac5ee52",
         "name": "Wetterstation Lingen",
         "location": {
@@ -388,6 +394,38 @@
         "raid": null
     },
     {
+        "id": "3302aa65-7fa4-5e91-ab02-15356d9f2ffe",
+        "name": "Franziskus Kapelle",
+        "location": {
+            "lat": 52.512744,
+            "lng": 7.339038
+        },
+        "image": "https://lh3.googleusercontent.com/ne9iMApWWYNV5f_AW1egzeNP9IdwUe130QttJv3B_x6jKswMgCmmcL2dZYkY4i8zip7IRX6paTr12gXNKTFE3LfawWy7",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_3_icon.png",
+            "level": "6",
+            "boss": "",
+            "hatchTime": "2022-10-20T05:03:17Z",
+            "endTime": "2022-10-20T05:48:17Z"
+        }
+    },
+    {
+        "id": "2fda78b0-31ca-59be-85b0-f89c4dd5f227",
+        "name": "Wildblumen",
+        "location": {
+            "lat": 52.517212,
+            "lng": 7.330433
+        },
+        "image": "https://lh3.googleusercontent.com/Xv5Z7vVCEsL4SlJZbPlRpzGztihx0jBqMq8HokWiIShLGGy3cxsxVQAO1orhRRgCqj2YOm5ULcTu0cIcd9ZDLNdLMcS_",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_3_icon.png",
+            "level": "6",
+            "boss": "",
+            "hatchTime": "2022-10-20T05:11:42Z",
+            "endTime": "2022-10-20T05:56:42Z"
+        }
+    },
+    {
         "id": "8a710188-f08d-5fcc-8481-cb789af4bd34",
         "name": "Balancieren",
         "location": {
@@ -444,9 +482,9 @@
         },
         "image": "https://lh3.googleusercontent.com/1-T0e3LF2jXBvPQHH3J5S70qi9Go_Ew081nB7I_pNIeCnjf00umQsI1jOXGqMvBpBkhLGF0ONoQz-8KGrU0EYWP3iX8",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm176_0cd8a5ec1d3d0f8f05bfd7e9c657d74b1ad22463a45cdd36f413f4a7d072d94c.png",
             "level": "3",
-            "boss": "",
+            "boss": "Togetic",
             "hatchTime": "2022-10-20T04:10:58Z",
             "endTime": "2022-10-20T04:55:58Z"
         }
@@ -654,16 +692,6 @@
         "raid": null
     },
     {
-        "id": "3302aa65-7fa4-5e91-ab02-15356d9f2ffe",
-        "name": "Franziskus Kapelle",
-        "location": {
-            "lat": 52.512744,
-            "lng": 7.339038
-        },
-        "image": "https://lh3.googleusercontent.com/ne9iMApWWYNV5f_AW1egzeNP9IdwUe130QttJv3B_x6jKswMgCmmcL2dZYkY4i8zip7IRX6paTr12gXNKTFE3LfawWy7",
-        "raid": null
-    },
-    {
         "id": "7055f757-2b53-5c09-9084-81b589135f4e",
         "name": "Hoogenhook Stein",
         "location": {
@@ -681,16 +709,6 @@
             "lng": 7.334862
         },
         "image": "https://lh3.googleusercontent.com/9L0AZ1GlodfIS7cqyMknv3I_Rk-nQYOeukWyovcYtVldFTFONFLeYvJjL7nD0XFgT3_N2eR4RRcu4m9Gb5O-Nwt4Xw",
-        "raid": null
-    },
-    {
-        "id": "2fda78b0-31ca-59be-85b0-f89c4dd5f227",
-        "name": "Wildblumen",
-        "location": {
-            "lat": 52.517212,
-            "lng": 7.330433
-        },
-        "image": "https://lh3.googleusercontent.com/Xv5Z7vVCEsL4SlJZbPlRpzGztihx0jBqMq8HokWiIShLGGy3cxsxVQAO1orhRRgCqj2YOm5ULcTu0cIcd9ZDLNdLMcS_",
         "raid": null
     },
     {
@@ -714,6 +732,22 @@
         "raid": null
     },
     {
+        "id": "8f425943-2fa6-5ac8-b910-358057d1272e",
+        "name": "Seefahrt Tut Not",
+        "location": {
+            "lat": 52.523553,
+            "lng": 7.308852
+        },
+        "image": "https://lh3.googleusercontent.com/m8qsw7N81nK68HCWGzmMf-6k8kslY_RzYD8z0fl7cp7Iq83JHdIj4R6bxiefqjL8t6XGTGXp8_lhCQbZQkxyizYiuA",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "level": "5",
+            "boss": "",
+            "hatchTime": "2022-10-20T05:03:56Z",
+            "endTime": "2022-10-20T05:48:56Z"
+        }
+    },
+    {
         "id": "567aad98-7b79-5615-8df8-5dd650ba82d9",
         "name": "Füttern Sie keine Wasservögel",
         "location": {
@@ -722,9 +756,9 @@
         },
         "image": "https://lh3.googleusercontent.com/PUKvmF_LRfRveqcREzS4lRskdcCrlIyMO8EY0DSIKDYTwfoxgjgax70wF4ZoYDPHOTvbou8jPKwqD_L9DSm0-0EtyW8",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm184_9a34580eed4708a11707cfc51a5437a310c7b56925fb3baa3a866304e588abf3.png",
             "level": "3",
-            "boss": "",
+            "boss": "Azumarill",
             "hatchTime": "2022-10-20T04:20:34Z",
             "endTime": "2022-10-20T05:05:34Z"
         }
@@ -1000,16 +1034,6 @@
         "raid": null
     },
     {
-        "id": "8f425943-2fa6-5ac8-b910-358057d1272e",
-        "name": "Seefahrt Tut Not",
-        "location": {
-            "lat": 52.523553,
-            "lng": 7.308852
-        },
-        "image": "https://lh3.googleusercontent.com/m8qsw7N81nK68HCWGzmMf-6k8kslY_RzYD8z0fl7cp7Iq83JHdIj4R6bxiefqjL8t6XGTGXp8_lhCQbZQkxyizYiuA",
-        "raid": null
-    },
-    {
         "id": "3ddc68ff-a217-5d4c-9303-f14d34372033",
         "name": "Lebensräume auf Sand",
         "location": {
@@ -1028,6 +1052,38 @@
         },
         "image": "https://lh3.googleusercontent.com/7YAiMg7hVl9_EmGKk9b-Htlmtoku7PDMIOGcnPxhAMSTAwOE3rRbnT5iltNiJIZMdWonipeyxxFKdde7VK5JPePppuTr",
         "raid": null
+    },
+    {
+        "id": "eeefae12-4e81-51a4-987b-4f259f83a1c5",
+        "name": "Skulptur St.Josef",
+        "location": {
+            "lat": 52.523404,
+            "lng": 7.341804
+        },
+        "image": "https://lh3.googleusercontent.com/XD4V0NWTjtHZJnxVvxP7NgKaqhUnD4i1BaqvrLr8XZE6WWNzcnKfE6l3nFh8cGsEe2V_pKdNsbvScCt2fquHSdMQND8F",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_3_icon.png",
+            "level": "6",
+            "boss": "",
+            "hatchTime": "2022-10-20T05:06:49Z",
+            "endTime": "2022-10-20T05:51:49Z"
+        }
+    },
+    {
+        "id": "c03b6b30-9b26-55a5-8d13-9f89a1c6ab66",
+        "name": "Backhaus der ev. Christusgemeinde",
+        "location": {
+            "lat": 52.551614,
+            "lng": 7.365852
+        },
+        "image": "https://lh3.googleusercontent.com/0r_rgBKHRk2uWz_lzaPKuQqP_dRZ4jXCYxLgfW2NTXceCd9q8HUqEQR2XKYiN7CiBW4doTQdYBLxyCVHqtD3l205D4RD",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "level": "1",
+            "boss": "",
+            "hatchTime": "2022-10-20T05:08:15Z",
+            "endTime": "2022-10-20T05:53:15Z"
+        }
     },
     {
         "id": "995aa8b8-f8ab-5e93-8b29-02f29124678e",
@@ -1070,9 +1126,9 @@
         },
         "image": "https://lh3.googleusercontent.com/nRJdHHoUrtwAuWeuBKOAOBIIwjvEPEZzXHOJNlz3CZv7fGToGZoRnH6cAWam0WCmcG3-liMtcAawbImV4FhANouJuw",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm684_be6aae6de7e3b174794647bc64501345d0527d18b29effc3e155234c04d92791.png",
             "level": "1",
-            "boss": "",
+            "boss": "Swirlix",
             "hatchTime": "2022-10-20T04:09:18Z",
             "endTime": "2022-10-20T04:54:18Z"
         }
@@ -1150,9 +1206,9 @@
         },
         "image": "https://lh3.googleusercontent.com/VEF0K-wyTRUDzU7g2sIhiYCEXYrlWu-OudcjysMemqlixs3qmxlU-LTjp1Q80DWyk4KWprcOThH_uBD_p0tEzrcrLFp1",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm39_a876f69f435665714b84aac160a404c900403214c4837dea66a001f6a2350230.png",
             "level": "1",
-            "boss": "",
+            "boss": "Jigglypuff",
             "hatchTime": "2022-10-20T04:20:24Z",
             "endTime": "2022-10-20T05:05:24Z"
         }
@@ -1166,9 +1222,9 @@
         },
         "image": "https://lh3.googleusercontent.com/LeQ__PRV2vuKbHbtE1QJ5hn1F0Oq6PlaZCA2MTx7nGQDoTKGRfUu2voFRYoktg6u2QsP4OdB73eovBp3R0MIJdosmt8",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm682_7ed54b1366336fd3465eb252feb6f738a7af41c6ba4d6fb48765d4dff794e095.png",
             "level": "1",
-            "boss": "",
+            "boss": "Spritzee",
             "hatchTime": "2022-10-20T04:21:17Z",
             "endTime": "2022-10-20T05:06:17Z"
         }
@@ -1198,9 +1254,9 @@
         },
         "image": "https://lh3.googleusercontent.com/lTLGldzQCIzTxmyfRe_I0d0Y_A4iFsztidpn7RZu800LJKZOSrjDeanfhIPRKPTlmOyE3Nx6DfhdcTjvLnplnwupdg",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm303_1ee53559adfe14e2b7be1dec6e62861e0b47b7cd1c8f8e6a9120eef4c916c6a8.png",
             "level": "3",
-            "boss": "",
+            "boss": "Mawile",
             "hatchTime": "2022-10-20T04:16:49Z",
             "endTime": "2022-10-20T05:01:49Z"
         }
@@ -1214,9 +1270,9 @@
         },
         "image": "https://lh3.googleusercontent.com/vx13hdg9NWCI1SiH2rN26n8vwX_MR801w-OQFikBfU6cRKU5xSQBspQxXK0tTaMiOwMboby6CoCp2yQN4Gveqv8vPtis",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm303_1ee53559adfe14e2b7be1dec6e62861e0b47b7cd1c8f8e6a9120eef4c916c6a8.png",
             "level": "3",
-            "boss": "",
+            "boss": "Mawile",
             "hatchTime": "2022-10-20T04:11:04Z",
             "endTime": "2022-10-20T04:56:04Z"
         }
@@ -1230,9 +1286,9 @@
         },
         "image": "https://lh3.googleusercontent.com/4HYwfVflIhNyo9EdQ5GR3NVAuS1zt1ukc708EEhQzImC1QgRrKhK0Aiy-SJGW_EHmG1j3D_1QT9KInzZ0wPQwLA3gJg",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm716_52f527cba5273a4ef9773b85b41eb2124c61ce6cb35b609e5597c39870c27cef.png",
             "level": "5",
-            "boss": "",
+            "boss": "Xerneas",
             "hatchTime": "2022-10-20T04:10:49Z",
             "endTime": "2022-10-20T04:55:49Z"
         }
@@ -1278,9 +1334,9 @@
         },
         "image": "https://lh3.googleusercontent.com/eP1HHhGL07PRk-b19r_imEnCv_Raz4MI14EDpT4CDX8VDQetEiAG-TpisxT3EpfVGqT4oaeLVz61biTp7DQ_Zaf5A2Y",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm716_52f527cba5273a4ef9773b85b41eb2124c61ce6cb35b609e5597c39870c27cef.png",
             "level": "5",
-            "boss": "",
+            "boss": "Xerneas",
             "hatchTime": "2022-10-20T04:12:45Z",
             "endTime": "2022-10-20T04:57:45Z"
         }
@@ -1323,26 +1379,6 @@
             "lng": 7.333417
         },
         "image": "https://lh3.googleusercontent.com/VsYC9Eqm7-GDRUEgi9O_PyxsQPKsoi734h3OiNY3FSKe7sRizD_zKriD3jRgvynmSuTginJ4wtgrUmvf01l8jKSVBpY",
-        "raid": null
-    },
-    {
-        "id": "eeefae12-4e81-51a4-987b-4f259f83a1c5",
-        "name": "Skulptur St.Josef",
-        "location": {
-            "lat": 52.523404,
-            "lng": 7.341804
-        },
-        "image": "https://lh3.googleusercontent.com/XD4V0NWTjtHZJnxVvxP7NgKaqhUnD4i1BaqvrLr8XZE6WWNzcnKfE6l3nFh8cGsEe2V_pKdNsbvScCt2fquHSdMQND8F",
-        "raid": null
-    },
-    {
-        "id": "c03b6b30-9b26-55a5-8d13-9f89a1c6ab66",
-        "name": "Backhaus der ev. Christusgemeinde",
-        "location": {
-            "lat": 52.551614,
-            "lng": 7.365852
-        },
-        "image": "https://lh3.googleusercontent.com/0r_rgBKHRk2uWz_lzaPKuQqP_dRZ4jXCYxLgfW2NTXceCd9q8HUqEQR2XKYiN7CiBW4doTQdYBLxyCVHqtD3l205D4RD",
         "raid": null
     },
     {
@@ -1536,6 +1572,22 @@
         "raid": null
     },
     {
+        "id": "4a134022-73f8-541e-a717-d4d5bc097723",
+        "name": "Gebetsschrein Jesus",
+        "location": {
+            "lat": 52.514913,
+            "lng": 7.412154
+        },
+        "image": "https://lh3.googleusercontent.com/7-t1-Bq-_JsiPEd8B3-g4Y7kLQyVdlTQK81pNB0YeZU29FsnGIStRtw32-Lv1Swfuf2opCn7VFSTItVDimxfVgRyKQ",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "level": "1",
+            "boss": "",
+            "hatchTime": "2022-10-20T05:19:57Z",
+            "endTime": "2022-10-20T06:04:57Z"
+        }
+    },
+    {
         "id": "169a92f4-f57b-5ea7-8081-7dc139cb81aa",
         "name": "Ökumenische Mitte Baccum",
         "location": {
@@ -1559,16 +1611,6 @@
             "lng": 7.420459
         },
         "image": "https://lh3.googleusercontent.com/Hxm7nZHh9j_H4UszJZKKCSAnp4VJj6bAEFcnxONyUXZSKvpUreOUp9dATwIOMGcpEhAadRvmfeTY3-HpFrLQCCtjhPQ",
-        "raid": null
-    },
-    {
-        "id": "4a134022-73f8-541e-a717-d4d5bc097723",
-        "name": "Gebetsschrein Jesus",
-        "location": {
-            "lat": 52.514913,
-            "lng": 7.412154
-        },
-        "image": "https://lh3.googleusercontent.com/7-t1-Bq-_JsiPEd8B3-g4Y7kLQyVdlTQK81pNB0YeZU29FsnGIStRtw32-Lv1Swfuf2opCn7VFSTItVDimxfVgRyKQ",
         "raid": null
     },
     {
@@ -2038,6 +2080,22 @@
         "raid": null
     },
     {
+        "id": "4212698f-4940-5e09-a118-9196647c565d",
+        "name": "skulptur",
+        "location": {
+            "lat": 52.561099,
+            "lng": 7.285668
+        },
+        "image": "https://lh3.googleusercontent.com/F4ocf4GKHgVHQ97_GhUwgxmZYXCfiUNwPZ8RpDRbKFluXrN88bZ9c0GLaziWl_xaLj7LqWQKOj8NPVqNiPR52S5-HTo",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "level": "1",
+            "boss": "",
+            "hatchTime": "2022-10-20T05:01:57Z",
+            "endTime": "2022-10-20T05:46:57Z"
+        }
+    },
+    {
         "id": "89999fce-0a5a-5b4d-9de9-9bf0cb4aa58e",
         "name": "Spielplatz",
         "location": {
@@ -2078,9 +2136,9 @@
         },
         "image": "https://lh3.googleusercontent.com/L44Xqv2jx44aOGpB1QcKl8QAEzwQaZagYdJQViSPfFDh4sEMsmXWjGDkDos6CRLMdXLWBvy-Ze55_FnNySAyCfX_OHk",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm176_0cd8a5ec1d3d0f8f05bfd7e9c657d74b1ad22463a45cdd36f413f4a7d072d94c.png",
             "level": "3",
-            "boss": "",
+            "boss": "Togetic",
             "hatchTime": "2022-10-20T04:22:16Z",
             "endTime": "2022-10-20T05:07:16Z"
         }
@@ -2173,16 +2231,6 @@
             "lng": 7.303979
         },
         "image": "https://lh3.googleusercontent.com/W8_a4nipY2X3hlcdNTsgtlEJvRJg80K-B34J7bG-SASCsUEjZAHULtM5VH4xGutHFdihgBq0DVPNgbUudWN-gm6ja-k",
-        "raid": null
-    },
-    {
-        "id": "4212698f-4940-5e09-a118-9196647c565d",
-        "name": "skulptur",
-        "location": {
-            "lat": 52.561099,
-            "lng": 7.285668
-        },
-        "image": "https://lh3.googleusercontent.com/F4ocf4GKHgVHQ97_GhUwgxmZYXCfiUNwPZ8RpDRbKFluXrN88bZ9c0GLaziWl_xaLj7LqWQKOj8NPVqNiPR52S5-HTo",
         "raid": null
     },
     {
@@ -2416,6 +2464,22 @@
         "raid": null
     },
     {
+        "id": "b5932049-6fa7-574d-ae81-628d1746adb2",
+        "name": "Jesus Kreuz Osterbrook",
+        "location": {
+            "lat": 52.598941,
+            "lng": 7.315285
+        },
+        "image": "https://lh3.googleusercontent.com/LzF-w1UZhF8ejzlYtoqDVvZXzTb-CvyayXOWxq6WqO-6yYVkCntnz-3eobMN-Ke8uXET118SwTnWZBABCZ8kT-Fd",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "level": "1",
+            "boss": "",
+            "hatchTime": "2022-10-20T05:15:25Z",
+            "endTime": "2022-10-20T06:00:25Z"
+        }
+    },
+    {
         "id": "0a9f590a-a49b-5c41-bc15-c7eb0b77ab26",
         "name": "Eichenlaubstadion",
         "location": {
@@ -2424,9 +2488,9 @@
         },
         "image": "https://lh3.googleusercontent.com/jtAvvSznxrF2vGJabLIQkiY100nX7yZF69jBxDhaxzmNpSQA6qweT42rMloHKPOjRUePRQ9TGz5Wj0PNfNzKoJKuOdRfinqicqkv-OU",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm716_52f527cba5273a4ef9773b85b41eb2124c61ce6cb35b609e5597c39870c27cef.png",
             "level": "5",
-            "boss": "",
+            "boss": "Xerneas",
             "hatchTime": "2022-10-20T04:11:09Z",
             "endTime": "2022-10-20T04:56:09Z"
         }
@@ -2440,9 +2504,9 @@
         },
         "image": "https://lh3.googleusercontent.com/dWJw-EfUZzqA0eklSG5xi1a-guUyPzRaYZlfx_sRSjKnQbV9xNjAStwh2P-wITxFbYWdMz3CTk5YNzmRe4IYxeOCU_s",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm39_a876f69f435665714b84aac160a404c900403214c4837dea66a001f6a2350230.png",
             "level": "1",
-            "boss": "",
+            "boss": "Jigglypuff",
             "hatchTime": "2022-10-20T04:21:56Z",
             "endTime": "2022-10-20T05:06:56Z"
         }
@@ -2468,16 +2532,6 @@
         "raid": null
     },
     {
-        "id": "b5932049-6fa7-574d-ae81-628d1746adb2",
-        "name": "Jesus Kreuz Osterbrook",
-        "location": {
-            "lat": 52.598941,
-            "lng": 7.315285
-        },
-        "image": "https://lh3.googleusercontent.com/LzF-w1UZhF8ejzlYtoqDVvZXzTb-CvyayXOWxq6WqO-6yYVkCntnz-3eobMN-Ke8uXET118SwTnWZBABCZ8kT-Fd",
-        "raid": null
-    },
-    {
         "id": "54238ef4-c15d-5e1c-af6b-af9d676cd7ec",
         "name": "Kirche St. Isidor",
         "location": {
@@ -2488,6 +2542,22 @@
         "raid": null
     },
     {
+        "id": "d9092880-8a03-5145-adfc-cb8d28c0832d",
+        "name": "Gedenkstein der Gefallenen",
+        "location": {
+            "lat": 52.481931,
+            "lng": 7.545078
+        },
+        "image": "https://lh3.googleusercontent.com/K1MpK6YM3abiNQj_uJoIkTkBUPNNTHYIxjqJKTmPoSV2_FRrYz9h4cmoaYPDNVNwv27NA0adAuEe_rHo364Z7VbHUfE",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "level": "3",
+            "boss": "",
+            "hatchTime": "2022-10-20T05:15:15Z",
+            "endTime": "2022-10-20T06:00:15Z"
+        }
+    },
+    {
         "id": "d1c33af3-8f13-52cf-91df-8cd3af7e0b98",
         "name": "St Andreas",
         "location": {
@@ -2496,9 +2566,9 @@
         },
         "image": "https://lh3.googleusercontent.com/4z7bBKn-VKtWD4_ckCHXYUEWFsl8fO3TA9P51NqiOepJWZ8CFawSdoTokE_W2ud741S6_tV29670SO3VzJRlihJQiwI",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm716_52f527cba5273a4ef9773b85b41eb2124c61ce6cb35b609e5597c39870c27cef.png",
             "level": "5",
-            "boss": "",
+            "boss": "Xerneas",
             "hatchTime": "2022-10-20T04:10:10Z",
             "endTime": "2022-10-20T04:55:10Z"
         }
@@ -2512,9 +2582,9 @@
         },
         "image": "https://lh3.googleusercontent.com/WzXSvAWwILvA0TzXJCcGs8u6wuy2cMVj5Gw6PcQtw1J7BjWE4WV7yfYOVdl_CL2hPTHg2pmwTvVgaHHwRc2r5cTYJzY",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm184_9a34580eed4708a11707cfc51a5437a310c7b56925fb3baa3a866304e588abf3.png",
             "level": "3",
-            "boss": "",
+            "boss": "Azumarill",
             "hatchTime": "2022-10-20T04:14:05Z",
             "endTime": "2022-10-20T04:59:05Z"
         }
@@ -2528,9 +2598,9 @@
         },
         "image": "https://lh3.googleusercontent.com/jtyJKXIZq_H0ncv8Uul_77mICszfMBVEECHKhtjMZCaNHg2b5qjtF4EhAs5W_VWtIptD-Y9cbjjpwwJF2B0lhsHZMg",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm110.fGALARIAN_7b12159bdd42a6f6265f2b0ee311850663b8174265ce9e417e8fc4f929fc0678.png",
             "level": "3",
-            "boss": "",
+            "boss": "Weezing",
             "hatchTime": "2022-10-20T04:16:48Z",
             "endTime": "2022-10-20T05:01:48Z"
         }
@@ -2544,9 +2614,9 @@
         },
         "image": "https://lh3.googleusercontent.com/vCaIBh-8GAkukPH5pHT4R3yPeQaUVgLv5LItS38iyC7sbsb8HnkBw1SHkrwXk3jzptRcWJld8XUkzSIRAMSzbqULAqY",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_3_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm310.fMEGA_539c5e5fce2cff17b97ca127e63d05c03157d5bb93b9514022ecfaf77066cec3.png",
             "level": "6",
-            "boss": "",
+            "boss": "Mega Manectric",
             "hatchTime": "2022-10-20T04:17:13Z",
             "endTime": "2022-10-20T05:02:13Z"
         }
@@ -2708,16 +2778,6 @@
         "raid": null
     },
     {
-        "id": "d9092880-8a03-5145-adfc-cb8d28c0832d",
-        "name": "Gedenkstein der Gefallenen",
-        "location": {
-            "lat": 52.481931,
-            "lng": 7.545078
-        },
-        "image": "https://lh3.googleusercontent.com/K1MpK6YM3abiNQj_uJoIkTkBUPNNTHYIxjqJKTmPoSV2_FRrYz9h4cmoaYPDNVNwv27NA0adAuEe_rHo364Z7VbHUfE",
-        "raid": null
-    },
-    {
         "id": "f6bbad00-785d-55ff-9d10-ed3f14a2eb91",
         "name": "Strasse der Lieder \"Es blies ein Jäger wohl in sein Horn \"",
         "location": {
@@ -2748,6 +2808,22 @@
         "raid": null
     },
     {
+        "id": "2d0516a4-ddcc-57e1-bd21-ee3d5ea56310",
+        "name": "Bramsche Anno 1985",
+        "location": {
+            "lat": 52.458577,
+            "lng": 7.364517
+        },
+        "image": "https://lh3.googleusercontent.com/Lv1YHlBVv9zXedMCOtPJqo4Q-cmJw-e0JfztVCU3ULVyNnTjZc_yQ0Ldazvl7KgM4ncW9w5jf6wVdfkaXFMqRnCEDkJfuiaReZ2-yCCo",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "level": "3",
+            "boss": "",
+            "hatchTime": "2022-10-20T05:03:48Z",
+            "endTime": "2022-10-20T05:48:48Z"
+        }
+    },
+    {
         "id": "b96a4e81-fe78-5bca-8c36-ec5b1c83447e",
         "name": "Jesuskreuz Elbergen",
         "location": {
@@ -2756,9 +2832,9 @@
         },
         "image": "https://lh3.googleusercontent.com/mXG1OCALmqQyvifCd0MWFO0JYMaXsmhOqshvPezOQHE9c6wv5veW6Ar7R6QP2cGpKZtJ2AOUGo65ajILif0H8GsVYw",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm110.fGALARIAN_7b12159bdd42a6f6265f2b0ee311850663b8174265ce9e417e8fc4f929fc0678.png",
             "level": "3",
-            "boss": "",
+            "boss": "Weezing",
             "hatchTime": "2022-10-20T04:14:40Z",
             "endTime": "2022-10-20T04:59:40Z"
         }
@@ -2787,16 +2863,6 @@
             "lng": 7.363322
         },
         "image": "https://lh3.googleusercontent.com/CT_NtsDLsM3rZDFj0RH4uB3JuOtAmhS9TMH2PhjSo0Sm2rFosY2apM9rCMnphSLXtqVqyHS_64oUQjEyNvrQ333_UrA2C6gdT4ovdfKp",
-        "raid": null
-    },
-    {
-        "id": "2d0516a4-ddcc-57e1-bd21-ee3d5ea56310",
-        "name": "Bramsche Anno 1985",
-        "location": {
-            "lat": 52.458577,
-            "lng": 7.364517
-        },
-        "image": "https://lh3.googleusercontent.com/Lv1YHlBVv9zXedMCOtPJqo4Q-cmJw-e0JfztVCU3ULVyNnTjZc_yQ0Ldazvl7KgM4ncW9w5jf6wVdfkaXFMqRnCEDkJfuiaReZ2-yCCo",
         "raid": null
     },
     {
