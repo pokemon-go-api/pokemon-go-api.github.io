@@ -1,5 +1,37 @@
 [
     {
+        "id": "2ec093d4-cd80-5496-bd9d-1506f763d8f0",
+        "name": "Darmer Steine",
+        "location": {
+            "lat": 52.504592,
+            "lng": 7.317681
+        },
+        "image": "https://lh3.googleusercontent.com/CnMdUAxYn3LtoJhk_dvBMFsr-jt-cwKrd6oGsefR6jT7W8XQ343ilwR5QQyHezh5gmlf2b6Gb111i1rH69JMi95a0po",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "level": "3",
+            "boss": "",
+            "hatchTime": "2022-10-23T17:05:15Z",
+            "endTime": "2022-10-23T17:50:15Z"
+        }
+    },
+    {
+        "id": "a508db6c-6fca-5466-bd5c-e68b6055860e",
+        "name": "700 Jahre Darme - Fassade",
+        "location": {
+            "lat": 52.496418,
+            "lng": 7.298321
+        },
+        "image": "https://lh3.googleusercontent.com/SBi6y3Xml5_7hM1GbmYWCyPKfBQOkWZdt9kqDCILtjxFDBE3WAb--PxOHsBqbqwASBeRiTm2PLDjmnqrATE5ogzrf-Y",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm509_14257271c888437496e6170b07ab5fd2f93816bb00ff0a761d12e4e22ef089df.png",
+            "level": "1",
+            "boss": "Purrloin",
+            "hatchTime": "2022-10-23T16:01:19Z",
+            "endTime": "2022-10-23T16:46:19Z"
+        }
+    },
+    {
         "id": "64c5f7eb-7803-5d4b-88dc-48e758803e06",
         "name": "Spielplatz Pfarrtannen",
         "location": {
@@ -120,9 +152,9 @@
         },
         "image": "https://lh3.googleusercontent.com/tjIbFC-gadpvC4wWmYWqWfXOlZ1xq01Mw4udgmlvDQO6Sr_K3Jw_vjGnSWtyGRN2fAoHbefoqdTdJMXk2LvJlvtaAIs",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm487.fALTERED_d77f870be06e397352e194405a8dd642ae6ef38533c000a6e46360633c39378d.png",
             "level": "5",
-            "boss": "",
+            "boss": "Giratina",
             "hatchTime": "2022-10-23T16:06:12Z",
             "endTime": "2022-10-23T16:51:12Z"
         }
@@ -135,13 +167,7 @@
             "lng": 7.28486
         },
         "image": "https://lh3.googleusercontent.com/Fe73dEKieu2lVCEk7Yd_1IYkhKKHDvjyPCjN7PXUbpd61zv5S2Kw_bQ_B1wHgzw4TnhcWK_gVORivwzqhg4wr8tQlT8",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm562_589ff3f7498552ef6c335bfe29d9aaf50adcefe57645f0acb37835130fb911ee.png",
-            "level": "1",
-            "boss": "Yamask",
-            "hatchTime": "2022-10-23T15:15:42Z",
-            "endTime": "2022-10-23T16:00:42Z"
-        }
+        "raid": null
     },
     {
         "id": "60b4d917-3de3-5b17-a2a2-d3b7cc02ac03",
@@ -151,13 +177,7 @@
             "lng": 7.310843
         },
         "image": "https://lh3.googleusercontent.com/jecjivdXv9hjDSbHFR6Pp6Jd_en8s3M-hvMofjaJSSoGqolGEMhyxn9A_lHZgPduP6m6Gb0G3edyJvhJTOGlx4GIaw",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm487.fALTERED_d77f870be06e397352e194405a8dd642ae6ef38533c000a6e46360633c39378d.png",
-            "level": "5",
-            "boss": "Giratina",
-            "hatchTime": "2022-10-23T15:17:05Z",
-            "endTime": "2022-10-23T16:02:05Z"
-        }
+        "raid": null
     },
     {
         "id": "c656f52e-ab5f-5907-a401-be5950d74857",
@@ -334,16 +354,6 @@
         "raid": null
     },
     {
-        "id": "a508db6c-6fca-5466-bd5c-e68b6055860e",
-        "name": "700 Jahre Darme - Fassade",
-        "location": {
-            "lat": 52.496418,
-            "lng": 7.298321
-        },
-        "image": "https://lh3.googleusercontent.com/SBi6y3Xml5_7hM1GbmYWCyPKfBQOkWZdt9kqDCILtjxFDBE3WAb--PxOHsBqbqwASBeRiTm2PLDjmnqrATE5ogzrf-Y",
-        "raid": null
-    },
-    {
         "id": "4382455e-c20d-5472-a375-a324de2a1e91",
         "name": "Dorfbrunnen Schepsdorf",
         "location": {
@@ -361,16 +371,6 @@
             "lng": 7.274849
         },
         "image": "https://lh3.googleusercontent.com/qnQM_N-5991lxxjVJAsZ_ni7UZdy-WHcK0GEHUQJnEzblCpYrCOBxTwMpgEjB66ZqTOzZpp-ped49JJJ5vTveUgwOHI",
-        "raid": null
-    },
-    {
-        "id": "2ec093d4-cd80-5496-bd9d-1506f763d8f0",
-        "name": "Darmer Steine",
-        "location": {
-            "lat": 52.504592,
-            "lng": 7.317681
-        },
-        "image": "https://lh3.googleusercontent.com/CnMdUAxYn3LtoJhk_dvBMFsr-jt-cwKrd6oGsefR6jT7W8XQ343ilwR5QQyHezh5gmlf2b6Gb111i1rH69JMi95a0po",
         "raid": null
     },
     {
@@ -560,9 +560,9 @@
         },
         "image": "https://lh3.googleusercontent.com/np6al6YQmvriEQkLZibIOTZTyiIq34uTIks91Y75kGRKtFFyT0c11b-SJGHVHz4RQsJP0xN3wSBzqHNgyZv_U5lVzg",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm197_3d788786ea4cad926cd14abe1961f3ddbe6bfd829c1f6c44a680af1c7e7833d3.png",
             "level": "3",
-            "boss": "",
+            "boss": "Umbreon",
             "hatchTime": "2022-10-23T16:04:55Z",
             "endTime": "2022-10-23T16:49:55Z"
         }
@@ -601,13 +601,7 @@
             "lng": 7.326751
         },
         "image": "https://lh3.googleusercontent.com/4jenj3_zE5cBmHqBPqlmqu4Gry3CZNvg3VAFM0oSPUacyNPaiiBaN7v3Ck_3SKCiANNMIkqdxHjJ9PS7G7yGpGJ-Lg",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm302_8d7be70c53afc2ec4b7bd3436c8c2ee81411b6ed5476e32d1264abea394896e1.png",
-            "level": "1",
-            "boss": "Sableye",
-            "hatchTime": "2022-10-23T15:09:16Z",
-            "endTime": "2022-10-23T15:54:16Z"
-        }
+        "raid": null
     },
     {
         "id": "3302aa65-7fa4-5e91-ab02-15356d9f2ffe",
@@ -617,13 +611,7 @@
             "lng": 7.339038
         },
         "image": "https://lh3.googleusercontent.com/ne9iMApWWYNV5f_AW1egzeNP9IdwUe130QttJv3B_x6jKswMgCmmcL2dZYkY4i8zip7IRX6paTr12gXNKTFE3LfawWy7",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm487.fALTERED_d77f870be06e397352e194405a8dd642ae6ef38533c000a6e46360633c39378d.png",
-            "level": "5",
-            "boss": "Giratina",
-            "hatchTime": "2022-10-23T15:08:53Z",
-            "endTime": "2022-10-23T15:53:53Z"
-        }
+        "raid": null
     },
     {
         "id": "e75c25c0-af9a-5dad-8a32-2e999e5cad31",
@@ -794,9 +782,9 @@
         },
         "image": "https://lh3.googleusercontent.com/L-vBrCK9xoLbqErl9lhw1Nr2kY-BSNasSAkZJO8PEGY4FJlQm_kKByafphj8XzCvY6VqfHArI4WWaaOkWMcquzutJw",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm487.fALTERED_d77f870be06e397352e194405a8dd642ae6ef38533c000a6e46360633c39378d.png",
             "level": "5",
-            "boss": "",
+            "boss": "Giratina",
             "hatchTime": "2022-10-23T16:01:52Z",
             "endTime": "2022-10-23T16:46:52Z"
         }
@@ -826,9 +814,9 @@
         },
         "image": "https://lh3.googleusercontent.com/VI_NpsAfZkfalxc0090drrCnsSSJ7lG05gukxucxPjZPcvylrwTUfsPprUEo8kZKea70XoxenMMfmMFQqgjttZjQMci-",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_3_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm354.fMEGA_7a39422d819f7e8ed57b7b95e4c96deebad37d4b4b76185fe4230abd667a9e89.png",
             "level": "6",
-            "boss": "",
+            "boss": "Mega Banette",
             "hatchTime": "2022-10-23T16:00:22Z",
             "endTime": "2022-10-23T16:45:22Z"
         }
@@ -858,9 +846,9 @@
         },
         "image": "https://lh3.googleusercontent.com/GImUyYsb3fdOuKWdC_zb_MBumQrmJFz16zGaO9UomyAlcMWQNGzDtZKH_GCYN5jVyn48kfJI5fy3HnOvG-0RYLEpvJA",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm487.fALTERED_d77f870be06e397352e194405a8dd642ae6ef38533c000a6e46360633c39378d.png",
             "level": "5",
-            "boss": "",
+            "boss": "Giratina",
             "hatchTime": "2022-10-23T16:02:29Z",
             "endTime": "2022-10-23T16:47:29Z"
         }
@@ -889,13 +877,7 @@
             "lng": 7.30846
         },
         "image": "https://lh3.googleusercontent.com/_dSZGmd35A0OeGEoLcI7zaovIgcO1x4Pt6zx4iKdc9nOVCg95b-OLmnbsfsGWRtjhM16MgQQBl2OUDsolqf2MHAcyC8",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm452_84c4940746b81ac1aed4723ff8889b15f66b4c9c1298ef5f4e30260b1cb0c174.png",
-            "level": "3",
-            "boss": "Drapion",
-            "hatchTime": "2022-10-23T15:08:33Z",
-            "endTime": "2022-10-23T15:53:33Z"
-        }
+        "raid": null
     },
     {
         "id": "4abdafc1-2a2b-5aa4-b470-98384f9ee7b5",
@@ -953,13 +935,7 @@
             "lng": 7.306538
         },
         "image": "https://lh3.googleusercontent.com/Ga2_jSFU8shTWWBXqBY4ollBYyEyjnzsMVRYHjnm-FWR7u1nI5RvBkNg4teZ7_xpwAZmDN3GGzKRKQT694Lf_PeJfg",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm509_14257271c888437496e6170b07ab5fd2f93816bb00ff0a761d12e4e22ef089df.png",
-            "level": "1",
-            "boss": "Purrloin",
-            "hatchTime": "2022-10-23T15:12:16Z",
-            "endTime": "2022-10-23T15:57:16Z"
-        }
+        "raid": null
     },
     {
         "id": "96eaf1a1-bad8-5be0-b8fd-db35b6b966ec",
@@ -1236,9 +1212,9 @@
         },
         "image": "https://lh3.googleusercontent.com/0r_rgBKHRk2uWz_lzaPKuQqP_dRZ4jXCYxLgfW2NTXceCd9q8HUqEQR2XKYiN7CiBW4doTQdYBLxyCVHqtD3l205D4RD",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm509_14257271c888437496e6170b07ab5fd2f93816bb00ff0a761d12e4e22ef089df.png",
             "level": "1",
-            "boss": "",
+            "boss": "Purrloin",
             "hatchTime": "2022-10-23T16:05:13Z",
             "endTime": "2022-10-23T16:50:13Z"
         }
@@ -1252,9 +1228,9 @@
         },
         "image": "https://lh3.googleusercontent.com/dg5d8nvijcsoO2o9ilE14D-bQkIKaIo0hUlwMp9Y-86-RueLFR_nUNf9TEk0PEefooWDqakzpLiGcwXpTYsj7eFFdHcJN0cRNi4-Pikh",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_3_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm354.fMEGA_7a39422d819f7e8ed57b7b95e4c96deebad37d4b4b76185fe4230abd667a9e89.png",
             "level": "6",
-            "boss": "",
+            "boss": "Mega Banette",
             "hatchTime": "2022-10-23T16:01:27Z",
             "endTime": "2022-10-23T16:46:27Z"
         }
@@ -1277,13 +1253,7 @@
             "lng": 7.324449
         },
         "image": "https://lh3.googleusercontent.com/VEF0K-wyTRUDzU7g2sIhiYCEXYrlWu-OudcjysMemqlixs3qmxlU-LTjp1Q80DWyk4KWprcOThH_uBD_p0tEzrcrLFp1",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm509_14257271c888437496e6170b07ab5fd2f93816bb00ff0a761d12e4e22ef089df.png",
-            "level": "1",
-            "boss": "Purrloin",
-            "hatchTime": "2022-10-23T15:18:12Z",
-            "endTime": "2022-10-23T16:03:12Z"
-        }
+        "raid": null
     },
     {
         "id": "ced4f119-2a74-5362-a442-fafb1bd834b2",
@@ -1325,13 +1295,7 @@
             "lng": 7.339425
         },
         "image": "https://lh3.googleusercontent.com/GhAAwKVHcJPXF3h9W0b4BOSARYUJlx4qgSNObziE2RKdByR2Du-N_PU8vrEsuUN5BGf68dJTPyAy5TOqDhY-6qimzdSp",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm426_fcb31e954f5ecd379967a963b0d572914ae30530c678636462e645defe40a027.png",
-            "level": "3",
-            "boss": "Drifblim",
-            "hatchTime": "2022-10-23T15:13:58Z",
-            "endTime": "2022-10-23T15:58:58Z"
-        }
+        "raid": null
     },
     {
         "id": "414eb391-43af-5f5b-882b-20a5855de5d6",
@@ -1357,13 +1321,7 @@
             "lng": 7.337817
         },
         "image": "https://lh3.googleusercontent.com/mYRo7MO7IXWiCLPp2Rj-rTjb6BqWagUdbv97EiKnp2c5648pj2AcUEDPLvpTQ7tDEBV-O4eeqhY3FldlW_ugwolJQ4oq",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm487.fALTERED_d77f870be06e397352e194405a8dd642ae6ef38533c000a6e46360633c39378d.png",
-            "level": "5",
-            "boss": "Giratina",
-            "hatchTime": "2022-10-23T15:15:58Z",
-            "endTime": "2022-10-23T16:00:58Z"
-        }
+        "raid": null
     },
     {
         "id": "f5ee5441-7967-5535-9854-9590d5f741ce",
@@ -1405,13 +1363,7 @@
             "lng": 7.369066
         },
         "image": "https://lh3.googleusercontent.com/TfHBdZjAmn8PLcbC27RbmaHgNtHtsV_T2VIQEFJmxz1t1fVtI2TwFZ3CC14gyoL139f_vnogsd6ljjzz8z7nodxYr0mDCZm1foXaEBLDcA",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm452_84c4940746b81ac1aed4723ff8889b15f66b4c9c1298ef5f4e30260b1cb0c174.png",
-            "level": "3",
-            "boss": "Drapion",
-            "hatchTime": "2022-10-23T15:18:30Z",
-            "endTime": "2022-10-23T16:03:30Z"
-        }
+        "raid": null
     },
     {
         "id": "586cb039-6457-5605-b0cc-17a1440c1fb8",
@@ -1421,13 +1373,7 @@
             "lng": 7.354369
         },
         "image": "https://lh3.googleusercontent.com/mAxcX_Nf5lMnyn1A3yKMOOgIVLBsUSqoLYdYvCcFD3SdePts70hpp4Nz9BmNGMUcgvxstGB6XTFL7-fWU4xaVodO4B0",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm426_fcb31e954f5ecd379967a963b0d572914ae30530c678636462e645defe40a027.png",
-            "level": "3",
-            "boss": "Drifblim",
-            "hatchTime": "2022-10-23T15:18:45Z",
-            "endTime": "2022-10-23T16:03:45Z"
-        }
+        "raid": null
     },
     {
         "id": "b68d5b56-b692-5c88-b0b3-79a4a2b92503",
@@ -1721,13 +1667,7 @@
             "lng": 7.420459
         },
         "image": "https://lh3.googleusercontent.com/Hxm7nZHh9j_H4UszJZKKCSAnp4VJj6bAEFcnxONyUXZSKvpUreOUp9dATwIOMGcpEhAadRvmfeTY3-HpFrLQCCtjhPQ",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm487.fALTERED_d77f870be06e397352e194405a8dd642ae6ef38533c000a6e46360633c39378d.png",
-            "level": "5",
-            "boss": "Giratina",
-            "hatchTime": "2022-10-23T15:11:43Z",
-            "endTime": "2022-10-23T15:56:43Z"
-        }
+        "raid": null
     },
     {
         "id": "c7bad6c7-5f2b-5ac5-8eef-054738d40c9a",
@@ -1956,9 +1896,9 @@
         },
         "image": "https://lh3.googleusercontent.com/1UlCGjXk3DhjqhWawStoGQVXuLSByLdlFciCJTtZVkPJ2ljxhi4NppNKhHhodCP7hNyYVxjOnKMalup5sh60u3leCg",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm487.fALTERED_d77f870be06e397352e194405a8dd642ae6ef38533c000a6e46360633c39378d.png",
             "level": "5",
-            "boss": "",
+            "boss": "Giratina",
             "hatchTime": "2022-10-23T16:01:23Z",
             "endTime": "2022-10-23T16:46:23Z"
         }
@@ -2127,13 +2067,7 @@
             "lng": 7.469629
         },
         "image": "https://lh3.googleusercontent.com/TZuwgl8WUSv9umYjUsylQLBjGzCjEndx7XaUuK3PWrGRnZtCsWf0ILtP2bexJ0HR_LaYWEBDzpqueF3GapXJB5qojh8",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm452_84c4940746b81ac1aed4723ff8889b15f66b4c9c1298ef5f4e30260b1cb0c174.png",
-            "level": "3",
-            "boss": "Drapion",
-            "hatchTime": "2022-10-23T15:16:58Z",
-            "endTime": "2022-10-23T16:01:58Z"
-        }
+        "raid": null
     },
     {
         "id": "2a5a0119-432a-5ae7-b5f5-9062d2587fbb",
@@ -2229,13 +2163,7 @@
             "lng": 7.288312
         },
         "image": "https://lh3.googleusercontent.com/HfxnaxVqTUjY_I5vV4KmMxcgs8AHukQMBtlsYqAAPQoTxFXVvY7ek3xGi1MVGQLHlJjia2KnkoxWivgZZmMq2UwYKgAo8sk4L7cJ-naP",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm562_589ff3f7498552ef6c335bfe29d9aaf50adcefe57645f0acb37835130fb911ee.png",
-            "level": "1",
-            "boss": "Yamask",
-            "hatchTime": "2022-10-23T15:08:54Z",
-            "endTime": "2022-10-23T15:53:54Z"
-        }
+        "raid": null
     },
     {
         "id": "8ffd780d-57e0-5597-a35b-ac612eb95810",
@@ -2255,13 +2183,7 @@
             "lng": 7.287288
         },
         "image": "https://lh3.googleusercontent.com/pc7XWWERJc-9I0rU2JN0aYikQJFarPNviSyH7p6S4iSYv3tX16qv-2uwl57nWaoUXsggwmOUVkUT1QsY4jkVZ8wifiY",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm94_1eb8f167d64b30ff46f064142d939ae3baa724f682304950b0e5ab511c447bf9.png",
-            "level": "3",
-            "boss": "Gengar",
-            "hatchTime": "2022-10-23T15:15:51Z",
-            "endTime": "2022-10-23T16:00:51Z"
-        }
+        "raid": null
     },
     {
         "id": "6248bc16-d221-5e57-b3e6-0cce4f5c598a",
@@ -2271,13 +2193,7 @@
             "lng": 7.287117
         },
         "image": "https://lh3.googleusercontent.com/hHjmqNAR4qM15y4hgObTM2YBuSgM0_mgZwXhNhDMWf76I3Nz3sIGbFW6I2PSBceUmijAGCXb_ts0tUcBSmQpwloNdA",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm94_1eb8f167d64b30ff46f064142d939ae3baa724f682304950b0e5ab511c447bf9.png",
-            "level": "3",
-            "boss": "Gengar",
-            "hatchTime": "2022-10-23T15:08:06Z",
-            "endTime": "2022-10-23T15:53:06Z"
-        }
+        "raid": null
     },
     {
         "id": "3f878284-8aa2-5477-b7f9-a59e838ae0e5",
@@ -2390,6 +2306,22 @@
         "raid": null
     },
     {
+        "id": "007af4f8-826c-5fcc-bfd3-239aadaa6c97",
+        "name": "Tennisanlage SV Brögbern",
+        "location": {
+            "lat": 52.559532,
+            "lng": 7.371733
+        },
+        "image": "https://lh3.googleusercontent.com/-HsLYumQwy3L4D_uCxBCeWAjevC5t1JLTX_EFdiGGWi7lHgFrZbAKpwa-IXvnWGdiQAD2QIBwaSk4IeQIbg__fyqM4_ebkT_PwaI-yf8",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "level": "5",
+            "boss": "",
+            "hatchTime": "2022-10-23T16:31:56Z",
+            "endTime": "2022-10-23T17:16:56Z"
+        }
+    },
+    {
         "id": "91ae74e3-f0c9-57c4-9e13-25682d502430",
         "name": "Das blaue Pferd",
         "location": {
@@ -2458,16 +2390,6 @@
         "raid": null
     },
     {
-        "id": "007af4f8-826c-5fcc-bfd3-239aadaa6c97",
-        "name": "Tennisanlage SV Brögbern",
-        "location": {
-            "lat": 52.559532,
-            "lng": 7.371733
-        },
-        "image": "https://lh3.googleusercontent.com/-HsLYumQwy3L4D_uCxBCeWAjevC5t1JLTX_EFdiGGWi7lHgFrZbAKpwa-IXvnWGdiQAD2QIBwaSk4IeQIbg__fyqM4_ebkT_PwaI-yf8",
-        "raid": null
-    },
-    {
         "id": "2575ad6e-51cb-5c72-bbfa-87d890d95706",
         "name": "Mein Jesus Barmherziger",
         "location": {
@@ -2486,9 +2408,9 @@
         },
         "image": "https://lh3.googleusercontent.com/-jo_frUorcfcOcc6kCwcxlA4iwQ6zBLpwgiCB2QDX8r4JxJlcv5jXSb5vh69jy5Qltm4UrsBzDwkpTFyMCZkgPPTBLk",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm197_3d788786ea4cad926cd14abe1961f3ddbe6bfd829c1f6c44a680af1c7e7833d3.png",
             "level": "3",
-            "boss": "",
+            "boss": "Umbreon",
             "hatchTime": "2022-10-23T16:01:32Z",
             "endTime": "2022-10-23T16:46:32Z"
         }
@@ -2781,13 +2703,7 @@
             "lng": 7.542568
         },
         "image": "https://lh3.googleusercontent.com/NtXTBILwcpAAE_pEdF9Wn3eBHwK5dEr--qha7aehWG7WIoRfcombjnUgfmKSYzdAAlI4RFAa0fBqa5cAe2lYISqxRrUY",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm708_b10d14d3ef3f51e8ebf3ef14397b656c69fec3a93048aeb027c5a0e234a945d6.png",
-            "level": "1",
-            "boss": "Phantump",
-            "hatchTime": "2022-10-23T15:07:40Z",
-            "endTime": "2022-10-23T15:52:40Z"
-        }
+        "raid": null
     },
     {
         "id": "91bfbcfb-5218-5bc8-9653-fd42e46dd3e9",
