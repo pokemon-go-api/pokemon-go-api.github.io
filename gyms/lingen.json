@@ -1,5 +1,53 @@
 [
     {
+        "id": "3ccae8e6-e821-57f2-b774-a265260b5752",
+        "name": "Neues Rathaus",
+        "location": {
+            "lat": 52.521312,
+            "lng": 7.315864
+        },
+        "image": "https://lh3.googleusercontent.com/pD-52umn4aKuhkBJgEDRb92mRbfshCZ3nvdpn5EihqU5-gTEbWeUVTKIw551o0bWABvvJ-HGMr68Z4UolDLWa6uqNA",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "level": "3",
+            "boss": "",
+            "hatchTime": "2022-10-26T09:14:43Z",
+            "endTime": "2022-10-26T09:59:43Z"
+        }
+    },
+    {
+        "id": "19256076-73c8-5504-a6ed-3c84394b5b5f",
+        "name": "700 Jahre Darme",
+        "location": {
+            "lat": 52.502994,
+            "lng": 7.306586
+        },
+        "image": "https://lh3.googleusercontent.com/_MZbPik62uv1wEQ6JrDPRPm3XMAt8PZ533S9YS0rHNcA7XTK3KMrJdRXSvfFNqKf-3uCNc1kRAvnwa6EPOXlChaomg",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "level": "5",
+            "boss": "",
+            "hatchTime": "2022-10-26T09:09:23Z",
+            "endTime": "2022-10-26T09:54:23Z"
+        }
+    },
+    {
+        "id": "7fc6504b-2ce6-5c55-a22d-4289b3b73e61",
+        "name": "Darmer Kapelle",
+        "location": {
+            "lat": 52.500642,
+            "lng": 7.317548
+        },
+        "image": "https://lh3.googleusercontent.com/6goUFeFQX9QvmIaAdaBBC-Zhw9jxXJvD4a-UudtmZGubVQ05wkrna78mYRImH8JdfVHIvzxjMNK2xXvTGLYPv0UaX0s",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "level": "1",
+            "boss": "",
+            "hatchTime": "2022-10-26T09:00:13Z",
+            "endTime": "2022-10-26T09:45:13Z"
+        }
+    },
+    {
         "id": "60b4d917-3de3-5b17-a2a2-d3b7cc02ac03",
         "name": "Waldstadion Sus Darme",
         "location": {
@@ -135,13 +183,7 @@
             "lng": 7.296088
         },
         "image": "https://lh3.googleusercontent.com/0_n8CS-8pSVeIHjfIs-EpkLFVxrT0X09Kv1i6A6WgjzXeVcV_9k4jQY9ix_Bqwgx5TgTiUk-26fsynpLjEjAgoF5u9k",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm94_1eb8f167d64b30ff46f064142d939ae3baa724f682304950b0e5ab511c447bf9.png",
-            "level": "3",
-            "boss": "Gengar",
-            "hatchTime": "2022-10-26T07:34:51Z",
-            "endTime": "2022-10-26T08:19:51Z"
-        }
+        "raid": null
     },
     {
         "id": "d3f8b643-0f3f-5941-902c-61923e8b2c20",
@@ -234,16 +276,6 @@
         "raid": null
     },
     {
-        "id": "7fc6504b-2ce6-5c55-a22d-4289b3b73e61",
-        "name": "Darmer Kapelle",
-        "location": {
-            "lat": 52.500642,
-            "lng": 7.317548
-        },
-        "image": "https://lh3.googleusercontent.com/6goUFeFQX9QvmIaAdaBBC-Zhw9jxXJvD4a-UudtmZGubVQ05wkrna78mYRImH8JdfVHIvzxjMNK2xXvTGLYPv0UaX0s",
-        "raid": null
-    },
-    {
         "id": "5394f867-2db5-5f6e-8238-16f397a0055c",
         "name": "Alter Brunnen",
         "location": {
@@ -254,16 +286,6 @@
         "raid": null
     },
     {
-        "id": "19256076-73c8-5504-a6ed-3c84394b5b5f",
-        "name": "700 Jahre Darme",
-        "location": {
-            "lat": 52.502994,
-            "lng": 7.306586
-        },
-        "image": "https://lh3.googleusercontent.com/_MZbPik62uv1wEQ6JrDPRPm3XMAt8PZ533S9YS0rHNcA7XTK3KMrJdRXSvfFNqKf-3uCNc1kRAvnwa6EPOXlChaomg",
-        "raid": null
-    },
-    {
         "id": "bd4619c4-aaae-54f7-88a5-a9eccedc1f3d",
         "name": "Brunnen in Darme",
         "location": {
@@ -271,16 +293,6 @@
             "lng": 7.31644
         },
         "image": "https://lh3.googleusercontent.com/gIfk7VAPupwkzl6L4aezXkuWFe-UZtnGmy9-PG9lg0NaHxDxwD4pi0TuMaPMY-yxAmkBYM3EZUOQ-cM87wE6le9cRVc",
-        "raid": null
-    },
-    {
-        "id": "3ccae8e6-e821-57f2-b774-a265260b5752",
-        "name": "Neues Rathaus",
-        "location": {
-            "lat": 52.521312,
-            "lng": 7.315864
-        },
-        "image": "https://lh3.googleusercontent.com/pD-52umn4aKuhkBJgEDRb92mRbfshCZ3nvdpn5EihqU5-gTEbWeUVTKIw551o0bWABvvJ-HGMr68Z4UolDLWa6uqNA",
         "raid": null
     },
     {
@@ -394,6 +406,38 @@
         "raid": null
     },
     {
+        "id": "0d2d608c-5970-5475-a604-062e5cbf3708",
+        "name": "Serbisch-Orthodoxe Kirche",
+        "location": {
+            "lat": 52.520005,
+            "lng": 7.332754
+        },
+        "image": "https://lh3.googleusercontent.com/np6al6YQmvriEQkLZibIOTZTyiIq34uTIks91Y75kGRKtFFyT0c11b-SJGHVHz4RQsJP0xN3wSBzqHNgyZv_U5lVzg",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "level": "3",
+            "boss": "",
+            "hatchTime": "2022-10-26T09:17:07Z",
+            "endTime": "2022-10-26T10:02:07Z"
+        }
+    },
+    {
+        "id": "4e928e5d-5abd-51f6-8137-4d356705fe42",
+        "name": "Stadtteil Darme 700 Jahre",
+        "location": {
+            "lat": 52.499871,
+            "lng": 7.326751
+        },
+        "image": "https://lh3.googleusercontent.com/4jenj3_zE5cBmHqBPqlmqu4Gry3CZNvg3VAFM0oSPUacyNPaiiBaN7v3Ck_3SKCiANNMIkqdxHjJ9PS7G7yGpGJ-Lg",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "level": "1",
+            "boss": "",
+            "hatchTime": "2022-10-26T09:00:11Z",
+            "endTime": "2022-10-26T09:45:11Z"
+        }
+    },
+    {
         "id": "3302aa65-7fa4-5e91-ab02-15356d9f2ffe",
         "name": "Franziskus Kapelle",
         "location": {
@@ -482,9 +526,9 @@
         },
         "image": "https://lh3.googleusercontent.com/9L0AZ1GlodfIS7cqyMknv3I_Rk-nQYOeukWyovcYtVldFTFONFLeYvJjL7nD0XFgT3_N2eR4RRcu4m9Gb5O-Nwt4Xw",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm426_fcb31e954f5ecd379967a963b0d572914ae30530c678636462e645defe40a027.png",
             "level": "3",
-            "boss": "",
+            "boss": "Drifblim",
             "hatchTime": "2022-10-26T08:22:17Z",
             "endTime": "2022-10-26T09:07:17Z"
         }
@@ -513,13 +557,7 @@
             "lng": 7.343663
         },
         "image": "https://lh3.googleusercontent.com/24G4nE4QLLV9d8BMINrPZuLMbsR6NQ-4mZ3A9cD16kDXHD9kEVrCKEU2CF2l2jqBaVd3hxIxlHfz7G4i0iEIYXdxSA",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm487.fALTERED_d77f870be06e397352e194405a8dd642ae6ef38533c000a6e46360633c39378d.png",
-            "level": "5",
-            "boss": "Giratina",
-            "hatchTime": "2022-10-26T07:34:13Z",
-            "endTime": "2022-10-26T08:19:13Z"
-        }
+        "raid": null
     },
     {
         "id": "e746d10c-deeb-5be1-a6d2-9ac2b1194371",
@@ -545,13 +583,7 @@
             "lng": 7.35862
         },
         "image": "https://lh3.googleusercontent.com/yey21lzN7Z1fMNsk7t9CT8L8AfHiTZE5OlifiTAo730ErINjqTYU-5Z7MPazM_lYif2WsjPbK4IOfWmM3EIl9Ds5eRQ",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm487.fALTERED_d77f870be06e397352e194405a8dd642ae6ef38533c000a6e46360633c39378d.png",
-            "level": "5",
-            "boss": "Giratina",
-            "hatchTime": "2022-10-26T07:23:26Z",
-            "endTime": "2022-10-26T08:08:26Z"
-        }
+        "raid": null
     },
     {
         "id": "6556217d-9c7f-5215-b372-74fb0f560df1",
@@ -664,16 +696,6 @@
         "raid": null
     },
     {
-        "id": "0d2d608c-5970-5475-a604-062e5cbf3708",
-        "name": "Serbisch-Orthodoxe Kirche",
-        "location": {
-            "lat": 52.520005,
-            "lng": 7.332754
-        },
-        "image": "https://lh3.googleusercontent.com/np6al6YQmvriEQkLZibIOTZTyiIq34uTIks91Y75kGRKtFFyT0c11b-SJGHVHz4RQsJP0xN3wSBzqHNgyZv_U5lVzg",
-        "raid": null
-    },
-    {
         "id": "fc1c60b8-ad3d-5fdb-9816-cb6b104857dc",
         "name": "700 Jahre Darme - Stein",
         "location": {
@@ -711,16 +733,6 @@
             "lng": 7.321795
         },
         "image": "https://lh3.googleusercontent.com/aKYwVxLgj7uB6Z6LGPcX8ET80N14mk6ebqncaNKgA6c8BmbdtLA7qSSeiuLBjwhesVypVwY4CJvrXq7DC7-EwSsp6EBs",
-        "raid": null
-    },
-    {
-        "id": "4e928e5d-5abd-51f6-8137-4d356705fe42",
-        "name": "Stadtteil Darme 700 Jahre",
-        "location": {
-            "lat": 52.499871,
-            "lng": 7.326751
-        },
-        "image": "https://lh3.googleusercontent.com/4jenj3_zE5cBmHqBPqlmqu4Gry3CZNvg3VAFM0oSPUacyNPaiiBaN7v3Ck_3SKCiANNMIkqdxHjJ9PS7G7yGpGJ-Lg",
         "raid": null
     },
     {
@@ -825,13 +837,7 @@
             "lng": 7.312399
         },
         "image": "https://lh3.googleusercontent.com/MVAhgqo4As2VavmxKpZm_bwh56Fk6ICTC-Lq13MAknRf-YiYvLM68iM8idCy_sw5nUabvgDUNLrKLvN1dONvyrgwJ_qB",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm487.fALTERED_d77f870be06e397352e194405a8dd642ae6ef38533c000a6e46360633c39378d.png",
-            "level": "5",
-            "boss": "Giratina",
-            "hatchTime": "2022-10-26T07:24:44Z",
-            "endTime": "2022-10-26T08:09:44Z"
-        }
+        "raid": null
     },
     {
         "id": "567aad98-7b79-5615-8df8-5dd650ba82d9",
@@ -1054,6 +1060,86 @@
         "raid": null
     },
     {
+        "id": "885f86ec-2233-56a9-9169-3dc23e1a8b89",
+        "name": "Mural Working Man",
+        "location": {
+            "lat": 52.536099,
+            "lng": 7.351098
+        },
+        "image": "https://lh3.googleusercontent.com/siupzSHFLmtSIerNOjGWYhGt_RFrC_Eico1n-Eg46qydZaqfmKLGYO8ERpaWiAvCLoNFEA4pTv5RZx0YLUIJaz1ZuQ",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "level": "3",
+            "boss": "",
+            "hatchTime": "2022-10-26T09:13:23Z",
+            "endTime": "2022-10-26T09:58:23Z"
+        }
+    },
+    {
+        "id": "140e2cba-d2b5-552b-b974-85becfc3c954",
+        "name": "Dieselmotor Deutz",
+        "location": {
+            "lat": 52.550008,
+            "lng": 7.350027
+        },
+        "image": "https://lh3.googleusercontent.com/o-cxjFOsfzjkEH5ejfmBhKmwHATZ35c-tXpEnN012WgvSHe6sPLlfwk5nmuzMWQtEWynqELJLxAELI3fI0xwlj1qt7Hn",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "level": "5",
+            "boss": "",
+            "hatchTime": "2022-10-26T09:03:40Z",
+            "endTime": "2022-10-26T09:48:40Z"
+        }
+    },
+    {
+        "id": "995aa8b8-f8ab-5e93-8b29-02f29124678e",
+        "name": "Springbrunnen am Bürgerzentrum",
+        "location": {
+            "lat": 52.52858,
+            "lng": 7.368666
+        },
+        "image": "https://lh3.googleusercontent.com/ALzxcTZuMDUl8cSl_DWkggZEtewLU3MdzGLZnAWj3lD98iXSrzax8eQKvBSEnRxxkYgII6svaukVLVpE3eOrtkYBrz0",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_3_icon.png",
+            "level": "6",
+            "boss": "",
+            "hatchTime": "2022-10-26T09:10:33Z",
+            "endTime": "2022-10-26T09:55:33Z"
+        }
+    },
+    {
+        "id": "5e6decc2-97f3-5662-964a-cbc0f9323657",
+        "name": "AWO Abenteuerspielplatz",
+        "location": {
+            "lat": 52.53562,
+            "lng": 7.333189
+        },
+        "image": "https://lh3.googleusercontent.com/RI2TIMCIgB_5e-XD8N33htEKZwXwG25DRHjG9Z6GI34GsgKqPmGsB9pRphaf0labrlep3ZjgKbMW2QZAmUrAqstW3Nw",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "level": "1",
+            "boss": "",
+            "hatchTime": "2022-10-26T09:04:01Z",
+            "endTime": "2022-10-26T09:49:01Z"
+        }
+    },
+    {
+        "id": "92adf686-ccb9-5561-a403-ba796de8729a",
+        "name": "Haus der Vereine Damaschke",
+        "location": {
+            "lat": 52.544584,
+            "lng": 7.348504
+        },
+        "image": "https://lh3.googleusercontent.com/eu6pnEg5B-TaNpvZAcvfjhMcfBH9bGSjyqCnSze36wObgzTIcr0Vob1pUarcKaIJ7JkPi25f17nWqE0PpZZ-T_FzabkTg3AaGETbqwc1IA",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "level": "1",
+            "boss": "",
+            "hatchTime": "2022-10-26T09:07:42Z",
+            "endTime": "2022-10-26T09:52:42Z"
+        }
+    },
+    {
         "id": "aea50f90-b13d-5542-bfd0-4744b5944a0a",
         "name": "Kreuz in Damaschke",
         "location": {
@@ -1110,9 +1196,9 @@
         },
         "image": "https://lh3.googleusercontent.com/JTgIMrtY3DXdEtlnPSYGC12iBUJCJ-Vrv6flIIFd2oUjQdjnglA9PodwUftnm13ktdScY5g0X8NfgXEs3En4A00Wzg",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm94_1eb8f167d64b30ff46f064142d939ae3baa724f682304950b0e5ab511c447bf9.png",
             "level": "3",
-            "boss": "",
+            "boss": "Gengar",
             "hatchTime": "2022-10-26T08:14:55Z",
             "endTime": "2022-10-26T08:59:55Z"
         }
@@ -1256,16 +1342,6 @@
         "raid": null
     },
     {
-        "id": "140e2cba-d2b5-552b-b974-85becfc3c954",
-        "name": "Dieselmotor Deutz",
-        "location": {
-            "lat": 52.550008,
-            "lng": 7.350027
-        },
-        "image": "https://lh3.googleusercontent.com/o-cxjFOsfzjkEH5ejfmBhKmwHATZ35c-tXpEnN012WgvSHe6sPLlfwk5nmuzMWQtEWynqELJLxAELI3fI0xwlj1qt7Hn",
-        "raid": null
-    },
-    {
         "id": "4ac228a0-56b8-504b-9286-b0b2d00f66be",
         "name": "Spielplatz Am Birkenhain",
         "location": {
@@ -1356,16 +1432,6 @@
         "raid": null
     },
     {
-        "id": "5e6decc2-97f3-5662-964a-cbc0f9323657",
-        "name": "AWO Abenteuerspielplatz",
-        "location": {
-            "lat": 52.53562,
-            "lng": 7.333189
-        },
-        "image": "https://lh3.googleusercontent.com/RI2TIMCIgB_5e-XD8N33htEKZwXwG25DRHjG9Z6GI34GsgKqPmGsB9pRphaf0labrlep3ZjgKbMW2QZAmUrAqstW3Nw",
-        "raid": null
-    },
-    {
         "id": "e5b8f52d-eb53-5544-84ee-f71f542bff08",
         "name": "St. Trinitatis Kirche",
         "location": {
@@ -1396,26 +1462,6 @@
         "raid": null
     },
     {
-        "id": "92adf686-ccb9-5561-a403-ba796de8729a",
-        "name": "Haus der Vereine Damaschke",
-        "location": {
-            "lat": 52.544584,
-            "lng": 7.348504
-        },
-        "image": "https://lh3.googleusercontent.com/eu6pnEg5B-TaNpvZAcvfjhMcfBH9bGSjyqCnSze36wObgzTIcr0Vob1pUarcKaIJ7JkPi25f17nWqE0PpZZ-T_FzabkTg3AaGETbqwc1IA",
-        "raid": null
-    },
-    {
-        "id": "995aa8b8-f8ab-5e93-8b29-02f29124678e",
-        "name": "Springbrunnen am Bürgerzentrum",
-        "location": {
-            "lat": 52.52858,
-            "lng": 7.368666
-        },
-        "image": "https://lh3.googleusercontent.com/ALzxcTZuMDUl8cSl_DWkggZEtewLU3MdzGLZnAWj3lD98iXSrzax8eQKvBSEnRxxkYgII6svaukVLVpE3eOrtkYBrz0",
-        "raid": null
-    },
-    {
         "id": "eeefae12-4e81-51a4-987b-4f259f83a1c5",
         "name": "Skulptur St.Josef",
         "location": {
@@ -1423,16 +1469,6 @@
             "lng": 7.341804
         },
         "image": "https://lh3.googleusercontent.com/XD4V0NWTjtHZJnxVvxP7NgKaqhUnD4i1BaqvrLr8XZE6WWNzcnKfE6l3nFh8cGsEe2V_pKdNsbvScCt2fquHSdMQND8F",
-        "raid": null
-    },
-    {
-        "id": "885f86ec-2233-56a9-9169-3dc23e1a8b89",
-        "name": "Mural Working Man",
-        "location": {
-            "lat": 52.536099,
-            "lng": 7.351098
-        },
-        "image": "https://lh3.googleusercontent.com/siupzSHFLmtSIerNOjGWYhGt_RFrC_Eico1n-Eg46qydZaqfmKLGYO8ERpaWiAvCLoNFEA4pTv5RZx0YLUIJaz1ZuQ",
         "raid": null
     },
     {
@@ -1530,9 +1566,9 @@
         },
         "image": "https://lh3.googleusercontent.com/lS-CKz0JdZfFuhZPGK17_uOq9preaB_v3ZVxtPkP-fqF1K0CiDwzk8x4Fp5kqKSB9Zdw3eMYtydf_Vbz7SFNKSaXcAXp",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm562.fGALARIAN_43d9bde312565d63735dd2b3b9d116f8988dfcf5756caba1c11136e85449a72d.png",
             "level": "1",
-            "boss": "",
+            "boss": "Yamask",
             "hatchTime": "2022-10-26T08:11:10Z",
             "endTime": "2022-10-26T08:56:10Z"
         }
@@ -1661,13 +1697,7 @@
             "lng": 7.499922
         },
         "image": "https://lh3.googleusercontent.com/9ANvx-_p1mTgTEwidA5EL8U_XK3DbahBbVJiF3yYOdw2MdA6qK1uZqPLlgOQJwcTDtNebfMYt4U6wmJyhMSQh5TNRZ8",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm426_fcb31e954f5ecd379967a963b0d572914ae30530c678636462e645defe40a027.png",
-            "level": "3",
-            "boss": "Drifblim",
-            "hatchTime": "2022-10-26T07:25:19Z",
-            "endTime": "2022-10-26T08:10:19Z"
-        }
+        "raid": null
     },
     {
         "id": "a60fefb7-380e-5c61-8d33-29d335652332",
@@ -1938,9 +1968,9 @@
         },
         "image": "https://lh3.googleusercontent.com/ykBWp80oZ-qWU6tmBs_G5MPeiRYIuA4utPwQqtathZhwqTSYgsKm1NW35beIOq4Uc0Dsnmmv6u5As1aqyFTA7faUSUqW",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_3_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm354.fMEGA_7a39422d819f7e8ed57b7b95e4c96deebad37d4b4b76185fe4230abd667a9e89.png",
             "level": "6",
-            "boss": "",
+            "boss": "Mega Banette",
             "hatchTime": "2022-10-26T08:15:50Z",
             "endTime": "2022-10-26T09:00:50Z"
         }
@@ -2026,6 +2056,22 @@
         "raid": null
     },
     {
+        "id": "672240cd-c0e7-5e4d-abea-e1d3e9ab5b34",
+        "name": "Handwerksbaum",
+        "location": {
+            "lat": 52.566733,
+            "lng": 7.288039
+        },
+        "image": "https://lh3.googleusercontent.com/HaB6znb1mRg-s_muMxuOA2MTp7g_6SXHDucANYwx559Z9INwAaWVwzdai2XrQVIbKBGiOCmOhdCkr4SdPi-ddTmoMQ",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "level": "5",
+            "boss": "",
+            "hatchTime": "2022-10-26T09:13:06Z",
+            "endTime": "2022-10-26T09:58:06Z"
+        }
+    },
+    {
         "id": "711d76c1-765a-5774-9776-30c9a28c21ca",
         "name": "Trainingsplatz Tennis",
         "location": {
@@ -2050,9 +2096,9 @@
         },
         "image": "https://lh3.googleusercontent.com/HfxnaxVqTUjY_I5vV4KmMxcgs8AHukQMBtlsYqAAPQoTxFXVvY7ek3xGi1MVGQLHlJjia2KnkoxWivgZZmMq2UwYKgAo8sk4L7cJ-naP",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm487.fALTERED_d77f870be06e397352e194405a8dd642ae6ef38533c000a6e46360633c39378d.png",
             "level": "5",
-            "boss": "",
+            "boss": "Giratina",
             "hatchTime": "2022-10-26T08:20:39Z",
             "endTime": "2022-10-26T09:05:39Z"
         }
@@ -2138,16 +2184,6 @@
         "raid": null
     },
     {
-        "id": "672240cd-c0e7-5e4d-abea-e1d3e9ab5b34",
-        "name": "Handwerksbaum",
-        "location": {
-            "lat": 52.566733,
-            "lng": 7.288039
-        },
-        "image": "https://lh3.googleusercontent.com/HaB6znb1mRg-s_muMxuOA2MTp7g_6SXHDucANYwx559Z9INwAaWVwzdai2XrQVIbKBGiOCmOhdCkr4SdPi-ddTmoMQ",
-        "raid": null
-    },
-    {
         "id": "d7bdfb57-8f48-59f6-800c-a685095ca83d",
         "name": "Auferstehungskapelle",
         "location": {
@@ -2198,6 +2234,22 @@
         "raid": null
     },
     {
+        "id": "7dbe1264-828e-5f58-b489-d7d66b3fbcad",
+        "name": "Die ganze Familie",
+        "location": {
+            "lat": 52.559616,
+            "lng": 7.363745
+        },
+        "image": "https://lh3.googleusercontent.com/O408pJW13Fm9RjtNGwEvwptr2uJmZoe5m9Zph3-7bAUvYSr0b1N5ddAU56LtRaX_kL3XXZj4ksR8G47qadgdXe_ZQpI",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_3_icon.png",
+            "level": "6",
+            "boss": "",
+            "hatchTime": "2022-10-26T09:15:34Z",
+            "endTime": "2022-10-26T10:00:34Z"
+        }
+    },
+    {
         "id": "91ae74e3-f0c9-57c4-9e13-25682d502430",
         "name": "Das blaue Pferd",
         "location": {
@@ -2225,16 +2277,6 @@
             "lng": 7.369524
         },
         "image": "https://lh3.googleusercontent.com/EekH933bzO14A8fvhhQM-4EN1e5K9byXgXJ4_Xoa9E9EkqSaz_uTyhJDToLSJVZW-wzAN0tkuVftvFArmg7UH5wgsF6e",
-        "raid": null
-    },
-    {
-        "id": "7dbe1264-828e-5f58-b489-d7d66b3fbcad",
-        "name": "Die ganze Familie",
-        "location": {
-            "lat": 52.559616,
-            "lng": 7.363745
-        },
-        "image": "https://lh3.googleusercontent.com/O408pJW13Fm9RjtNGwEvwptr2uJmZoe5m9Zph3-7bAUvYSr0b1N5ddAU56LtRaX_kL3XXZj4ksR8G47qadgdXe_ZQpI",
         "raid": null
     },
     {
@@ -2305,13 +2347,7 @@
             "lng": 7.281646
         },
         "image": "https://lh3.googleusercontent.com/cLD8zt9c3fjMmmNfT1Er_z7UkJdcQRvJ9bMbt92MYG9W6JuXFrcLLTgeMrt0gWx1P6lV1wbBceCWCsMrkQ7A8_GL36k",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm487.fALTERED_d77f870be06e397352e194405a8dd642ae6ef38533c000a6e46360633c39378d.png",
-            "level": "5",
-            "boss": "Giratina",
-            "hatchTime": "2022-10-26T07:30:54Z",
-            "endTime": "2022-10-26T08:15:54Z"
-        }
+        "raid": null
     },
     {
         "id": "291f4eae-a42b-54be-b344-4ff7859dcbd4",
@@ -2411,13 +2447,7 @@
             "lng": 7.315459
         },
         "image": "https://lh3.googleusercontent.com/9XM6_mEHxx4Xn0g2PUGJTXjXRnVgstyDRDBLd75uj1M3S3V8CM_RnljyQ2RumJfCP6z1QIvcJ61oX8okn4-63c2swjs",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm452_84c4940746b81ac1aed4723ff8889b15f66b4c9c1298ef5f4e30260b1cb0c174.png",
-            "level": "3",
-            "boss": "Drapion",
-            "hatchTime": "2022-10-26T07:35:56Z",
-            "endTime": "2022-10-26T08:20:56Z"
-        }
+        "raid": null
     },
     {
         "id": "a9c123f2-7a20-5893-bb23-32b2a66d62c5",
@@ -2470,6 +2500,22 @@
         "raid": null
     },
     {
+        "id": "c875e7eb-c733-5814-89e7-657d940aaaa6",
+        "name": "Kreuz am Kirchwall",
+        "location": {
+            "lat": 52.48563,
+            "lng": 7.546279
+        },
+        "image": "https://lh3.googleusercontent.com/LXrW5DZSQ-O2E0Bvcdd45EU43kZYhUsgxUUfabs9ALX8itCGB2ygA3_SdHs97QPRKZkCORZIDcCCaasxOQRLoAlQAeU",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "level": "3",
+            "boss": "",
+            "hatchTime": "2022-10-26T09:05:15Z",
+            "endTime": "2022-10-26T09:50:15Z"
+        }
+    },
+    {
         "id": "e9cc3e2a-1832-5f7b-9af7-8066282ec98a",
         "name": "Spielplatz an der Finkenstraße",
         "location": {
@@ -2509,13 +2555,7 @@
             "lng": 7.545145
         },
         "image": "https://lh3.googleusercontent.com/KMVDIsYXYIyp9I14bOLpHMrAsaCleSxkevwmFcG2kclstr1LzIIz94b_MphZV70UZXTuvFKZvXb1DKHZQcMU_IVs-vI",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm354.fMEGA_7a39422d819f7e8ed57b7b95e4c96deebad37d4b4b76185fe4230abd667a9e89.png",
-            "level": "6",
-            "boss": "Mega Banette",
-            "hatchTime": "2022-10-26T07:36:51Z",
-            "endTime": "2022-10-26T08:21:51Z"
-        }
+        "raid": null
     },
     {
         "id": "154c4772-e88c-56f6-8eb3-fedb97c481f8",
@@ -2535,13 +2575,7 @@
             "lng": 7.499922
         },
         "image": "https://lh3.googleusercontent.com/9ANvx-_p1mTgTEwidA5EL8U_XK3DbahBbVJiF3yYOdw2MdA6qK1uZqPLlgOQJwcTDtNebfMYt4U6wmJyhMSQh5TNRZ8",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm426_fcb31e954f5ecd379967a963b0d572914ae30530c678636462e645defe40a027.png",
-            "level": "3",
-            "boss": "Drifblim",
-            "hatchTime": "2022-10-26T07:25:19Z",
-            "endTime": "2022-10-26T08:10:19Z"
-        }
+        "raid": null
     },
     {
         "id": "a60fefb7-380e-5c61-8d33-29d335652332",
@@ -2661,16 +2695,6 @@
             "lng": 7.489477
         },
         "image": "https://lh3.googleusercontent.com/xHdWiS7YP5pbdGnwIwpBLX_CDh6olJwftPpXvi2T0PCJzXW7EG60W_TxtpcylKncUlV0TEl52wMaEg-MLWpGL7G2_Er9",
-        "raid": null
-    },
-    {
-        "id": "c875e7eb-c733-5814-89e7-657d940aaaa6",
-        "name": "Kreuz am Kirchwall",
-        "location": {
-            "lat": 52.48563,
-            "lng": 7.546279
-        },
-        "image": "https://lh3.googleusercontent.com/LXrW5DZSQ-O2E0Bvcdd45EU43kZYhUsgxUUfabs9ALX8itCGB2ygA3_SdHs97QPRKZkCORZIDcCCaasxOQRLoAlQAeU",
         "raid": null
     },
     {
