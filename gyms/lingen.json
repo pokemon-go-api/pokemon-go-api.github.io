@@ -1,5 +1,53 @@
 [
     {
+        "id": "5394f867-2db5-5f6e-8238-16f397a0055c",
+        "name": "Alter Brunnen",
+        "location": {
+            "lat": 52.500654,
+            "lng": 7.310748
+        },
+        "image": "https://lh3.googleusercontent.com/OGQpJArEviVBLN-Ig2ZLbl4q0bn6QB8vIwsA4NHWGBgYobNQwhgZE9RPvw622qCPJOf67ruxlspSE-VKZwUuUHwr2V0",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_3_icon.png",
+            "level": "6",
+            "boss": "",
+            "hatchTime": "2022-11-01T17:44:09Z",
+            "endTime": "2022-11-01T18:29:09Z"
+        }
+    },
+    {
+        "id": "19256076-73c8-5504-a6ed-3c84394b5b5f",
+        "name": "700 Jahre Darme",
+        "location": {
+            "lat": 52.502994,
+            "lng": 7.306586
+        },
+        "image": "https://lh3.googleusercontent.com/_MZbPik62uv1wEQ6JrDPRPm3XMAt8PZ533S9YS0rHNcA7XTK3KMrJdRXSvfFNqKf-3uCNc1kRAvnwa6EPOXlChaomg",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "level": "1",
+            "boss": "",
+            "hatchTime": "2022-11-01T17:29:06Z",
+            "endTime": "2022-11-01T18:14:06Z"
+        }
+    },
+    {
+        "id": "f962528b-db4d-5c22-850b-94b66f270f20",
+        "name": "Bolzplatz Schückingstraße",
+        "location": {
+            "lat": 52.52165,
+            "lng": 7.299433
+        },
+        "image": "https://lh3.googleusercontent.com/n10R34sP_E1iaVBVw0nNgDrd4lEFNPg5XXgVUgYay3GFReT4Q1Z3mP7YlCSulxpFU8vhrZGk7AZbu81JGnWxYgzupks",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_3_icon.png",
+            "level": "6",
+            "boss": "",
+            "hatchTime": "2022-11-01T17:03:17Z",
+            "endTime": "2022-11-01T17:48:17Z"
+        }
+    },
+    {
         "id": "b12d808b-86e3-5f15-af1d-f4890bca5426",
         "name": "Skulptur Wolkenflugkoffer",
         "location": {
@@ -104,9 +152,9 @@
         },
         "image": "https://lh3.googleusercontent.com/kXkJa3OBqD6gWgdbp4zCelHrQaaVA6sx3mhokn3PEj09UXueRtViu418qB0_nBWlvy-_Wx_NkuYVcCXPi_hJYa5csVVP",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm355.cFALL_2022_NOEVOLVE_5c1dd13c386483bbd86cf1ad24b660a28bb128d0a75fa679c14d6f1ae3531a84.png",
             "level": "1",
-            "boss": "",
+            "boss": "Duskull",
             "hatchTime": "2022-11-01T16:38:25Z",
             "endTime": "2022-11-01T17:23:25Z"
         }
@@ -151,13 +199,7 @@
             "lng": 7.295249
         },
         "image": "https://lh3.googleusercontent.com/tjIbFC-gadpvC4wWmYWqWfXOlZ1xq01Mw4udgmlvDQO6Sr_K3Jw_vjGnSWtyGRN2fAoHbefoqdTdJMXk2LvJlvtaAIs",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm355.cFALL_2022_NOEVOLVE_5c1dd13c386483bbd86cf1ad24b660a28bb128d0a75fa679c14d6f1ae3531a84.png",
-            "level": "1",
-            "boss": "Duskull",
-            "hatchTime": "2022-11-01T16:00:08Z",
-            "endTime": "2022-11-01T16:45:08Z"
-        }
+        "raid": null
     },
     {
         "id": "915aada7-9c0b-5904-95c4-9bfe29b4c11d",
@@ -227,16 +269,6 @@
             "lng": 7.317681
         },
         "image": "https://lh3.googleusercontent.com/CnMdUAxYn3LtoJhk_dvBMFsr-jt-cwKrd6oGsefR6jT7W8XQ343ilwR5QQyHezh5gmlf2b6Gb111i1rH69JMi95a0po",
-        "raid": null
-    },
-    {
-        "id": "f962528b-db4d-5c22-850b-94b66f270f20",
-        "name": "Bolzplatz Schückingstraße",
-        "location": {
-            "lat": 52.52165,
-            "lng": 7.299433
-        },
-        "image": "https://lh3.googleusercontent.com/n10R34sP_E1iaVBVw0nNgDrd4lEFNPg5XXgVUgYay3GFReT4Q1Z3mP7YlCSulxpFU8vhrZGk7AZbu81JGnWxYgzupks",
         "raid": null
     },
     {
@@ -310,16 +342,6 @@
         "raid": null
     },
     {
-        "id": "19256076-73c8-5504-a6ed-3c84394b5b5f",
-        "name": "700 Jahre Darme",
-        "location": {
-            "lat": 52.502994,
-            "lng": 7.306586
-        },
-        "image": "https://lh3.googleusercontent.com/_MZbPik62uv1wEQ6JrDPRPm3XMAt8PZ533S9YS0rHNcA7XTK3KMrJdRXSvfFNqKf-3uCNc1kRAvnwa6EPOXlChaomg",
-        "raid": null
-    },
-    {
         "id": "bd5b0992-3bac-5aa5-9cc7-ad98b4d6cec6",
         "name": "St. Alexander",
         "location": {
@@ -347,16 +369,6 @@
             "lng": 7.31644
         },
         "image": "https://lh3.googleusercontent.com/gIfk7VAPupwkzl6L4aezXkuWFe-UZtnGmy9-PG9lg0NaHxDxwD4pi0TuMaPMY-yxAmkBYM3EZUOQ-cM87wE6le9cRVc",
-        "raid": null
-    },
-    {
-        "id": "5394f867-2db5-5f6e-8238-16f397a0055c",
-        "name": "Alter Brunnen",
-        "location": {
-            "lat": 52.500654,
-            "lng": 7.310748
-        },
-        "image": "https://lh3.googleusercontent.com/OGQpJArEviVBLN-Ig2ZLbl4q0bn6QB8vIwsA4NHWGBgYobNQwhgZE9RPvw622qCPJOf67ruxlspSE-VKZwUuUHwr2V0",
         "raid": null
     },
     {
@@ -472,9 +484,9 @@
         },
         "image": "https://lh3.googleusercontent.com/35--px4HGNUzhPy6f_a9D_FoTo4hTWgmlS3PpPP1h7QSiT3tOJ12yForbA_-gp7p8BkXo6YP1M14TLLuJ4XVjvx3xTY",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm355.cFALL_2022_NOEVOLVE_5c1dd13c386483bbd86cf1ad24b660a28bb128d0a75fa679c14d6f1ae3531a84.png",
             "level": "1",
-            "boss": "",
+            "boss": "Duskull",
             "hatchTime": "2022-11-01T16:44:29Z",
             "endTime": "2022-11-01T17:29:29Z"
         }
@@ -535,13 +547,7 @@
             "lng": 7.334862
         },
         "image": "https://lh3.googleusercontent.com/9L0AZ1GlodfIS7cqyMknv3I_Rk-nQYOeukWyovcYtVldFTFONFLeYvJjL7nD0XFgT3_N2eR4RRcu4m9Gb5O-Nwt4Xw",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm355.cFALL_2022_NOEVOLVE_5c1dd13c386483bbd86cf1ad24b660a28bb128d0a75fa679c14d6f1ae3531a84.png",
-            "level": "1",
-            "boss": "Duskull",
-            "hatchTime": "2022-11-01T16:01:23Z",
-            "endTime": "2022-11-01T16:46:23Z"
-        }
+        "raid": null
     },
     {
         "id": "07881ea7-cd17-561e-90e3-c5d58ea8e007",
@@ -744,6 +750,38 @@
         "raid": null
     },
     {
+        "id": "0b696dd3-cbe8-5fdd-88a8-c7da17c72e0a",
+        "name": "Sandstein Käfer",
+        "location": {
+            "lat": 52.531932,
+            "lng": 7.30492
+        },
+        "image": "https://lh3.googleusercontent.com/GImUyYsb3fdOuKWdC_zb_MBumQrmJFz16zGaO9UomyAlcMWQNGzDtZKH_GCYN5jVyn48kfJI5fy3HnOvG-0RYLEpvJA",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_3_icon.png",
+            "level": "6",
+            "boss": "",
+            "hatchTime": "2022-11-01T17:40:52Z",
+            "endTime": "2022-11-01T18:25:52Z"
+        }
+    },
+    {
+        "id": "60f39bfd-0d77-57cc-ac2e-aea83b03a2cb",
+        "name": "Fachwerk-Bemalung",
+        "location": {
+            "lat": 52.522532,
+            "lng": 7.318391
+        },
+        "image": "https://lh3.googleusercontent.com/wz41OHJjjTTFGG1hvA16zEJ_r1xxdNjVd3_eq7h9Uu8TrpzgEC3hX0B7bd01cQPVB99nA13uUvtWClOvPP24VUvuoUE",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_3_icon.png",
+            "level": "6",
+            "boss": "",
+            "hatchTime": "2022-11-01T17:41:08Z",
+            "endTime": "2022-11-01T18:26:08Z"
+        }
+    },
+    {
         "id": "4996ed79-475d-5cc0-b6c9-45bca4cfaf03",
         "name": "Altes Rathaus",
         "location": {
@@ -799,13 +837,7 @@
             "lng": 7.312399
         },
         "image": "https://lh3.googleusercontent.com/MVAhgqo4As2VavmxKpZm_bwh56Fk6ICTC-Lq13MAknRf-YiYvLM68iM8idCy_sw5nUabvgDUNLrKLvN1dONvyrgwJ_qB",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm149_1c746e7cd4dbe5b626714d411036ecbbed616fa35926ebeea7a319b9102b4dc6.png",
-            "level": "3",
-            "boss": "Dragonite",
-            "hatchTime": "2022-11-01T16:07:28Z",
-            "endTime": "2022-11-01T16:52:28Z"
-        }
+        "raid": null
     },
     {
         "id": "17995c1a-bd04-5527-9007-be92ca0e667e",
@@ -930,16 +962,6 @@
         "raid": null
     },
     {
-        "id": "0b696dd3-cbe8-5fdd-88a8-c7da17c72e0a",
-        "name": "Sandstein Käfer",
-        "location": {
-            "lat": 52.531932,
-            "lng": 7.30492
-        },
-        "image": "https://lh3.googleusercontent.com/GImUyYsb3fdOuKWdC_zb_MBumQrmJFz16zGaO9UomyAlcMWQNGzDtZKH_GCYN5jVyn48kfJI5fy3HnOvG-0RYLEpvJA",
-        "raid": null
-    },
-    {
         "id": "96eaf1a1-bad8-5be0-b8fd-db35b6b966ec",
         "name": "Sandstein Hafen Altenlingen",
         "location": {
@@ -967,16 +989,6 @@
             "lng": 7.309031
         },
         "image": "https://lh3.googleusercontent.com/VI_NpsAfZkfalxc0090drrCnsSSJ7lG05gukxucxPjZPcvylrwTUfsPprUEo8kZKea70XoxenMMfmMFQqgjttZjQMci-",
-        "raid": null
-    },
-    {
-        "id": "60f39bfd-0d77-57cc-ac2e-aea83b03a2cb",
-        "name": "Fachwerk-Bemalung",
-        "location": {
-            "lat": 52.522532,
-            "lng": 7.318391
-        },
-        "image": "https://lh3.googleusercontent.com/wz41OHJjjTTFGG1hvA16zEJ_r1xxdNjVd3_eq7h9Uu8TrpzgEC3hX0B7bd01cQPVB99nA13uUvtWClOvPP24VUvuoUE",
         "raid": null
     },
     {
@@ -1058,6 +1070,38 @@
         },
         "image": "https://lh3.googleusercontent.com/Ts3PMdLmVYFA60x5ofALgp4-6bi43-xYxgaS6bvGdyxJ0yvyuy6QpqQ15BGUv8EQjTomgGalXRYD_BMlNs9AenQgqQ",
         "raid": null
+    },
+    {
+        "id": "6c2d562f-9bed-547a-8096-f083eaf8d919",
+        "name": "Eingang zum Trimmpfad Damaschke",
+        "location": {
+            "lat": 52.545101,
+            "lng": 7.355295
+        },
+        "image": "https://lh3.googleusercontent.com/6kezS2P82XvE9lIAAnuFVIojN1LkYfxE1bRc5IaMvNpWU5nWChzvFth5LKUeTV-HqCTo2H5uIT_qbmUclBXraEWVWwU",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "level": "3",
+            "boss": "",
+            "hatchTime": "2022-11-01T17:39:24Z",
+            "endTime": "2022-11-01T18:24:24Z"
+        }
+    },
+    {
+        "id": "f4294f38-03e2-59f7-8dc5-38dbe580adb1",
+        "name": "Gedenkstein Schützenverein",
+        "location": {
+            "lat": 52.531585,
+            "lng": 7.337817
+        },
+        "image": "https://lh3.googleusercontent.com/mYRo7MO7IXWiCLPp2Rj-rTjb6BqWagUdbv97EiKnp2c5648pj2AcUEDPLvpTQ7tDEBV-O4eeqhY3FldlW_ugwolJQ4oq",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "level": "5",
+            "boss": "",
+            "hatchTime": "2022-11-01T17:38:18Z",
+            "endTime": "2022-11-01T18:23:18Z"
+        }
     },
     {
         "id": "6f5c0c43-6228-5681-bc2f-e24451c23a5c",
@@ -1180,9 +1224,9 @@
         },
         "image": "https://lh3.googleusercontent.com/5ek9tdZOkQgV54abEpH5ULkrD-N18OzalDOkyTBc5GGjOtZua6b-hoz9N5OwEIBL4INGhFhMSSW_alWMcl7dYF9-2_k",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm355.cFALL_2022_NOEVOLVE_5c1dd13c386483bbd86cf1ad24b660a28bb128d0a75fa679c14d6f1ae3531a84.png",
             "level": "1",
-            "boss": "",
+            "boss": "Duskull",
             "hatchTime": "2022-11-01T16:44:27Z",
             "endTime": "2022-11-01T17:29:27Z"
         }
@@ -1426,16 +1470,6 @@
         "raid": null
     },
     {
-        "id": "6c2d562f-9bed-547a-8096-f083eaf8d919",
-        "name": "Eingang zum Trimmpfad Damaschke",
-        "location": {
-            "lat": 52.545101,
-            "lng": 7.355295
-        },
-        "image": "https://lh3.googleusercontent.com/6kezS2P82XvE9lIAAnuFVIojN1LkYfxE1bRc5IaMvNpWU5nWChzvFth5LKUeTV-HqCTo2H5uIT_qbmUclBXraEWVWwU",
-        "raid": null
-    },
-    {
         "id": "77181596-23f0-5df4-9821-0e680a8348db",
         "name": "Schützenhaus Laxten",
         "location": {
@@ -1473,16 +1507,6 @@
             "lng": 7.324449
         },
         "image": "https://lh3.googleusercontent.com/VEF0K-wyTRUDzU7g2sIhiYCEXYrlWu-OudcjysMemqlixs3qmxlU-LTjp1Q80DWyk4KWprcOThH_uBD_p0tEzrcrLFp1",
-        "raid": null
-    },
-    {
-        "id": "f4294f38-03e2-59f7-8dc5-38dbe580adb1",
-        "name": "Gedenkstein Schützenverein",
-        "location": {
-            "lat": 52.531585,
-            "lng": 7.337817
-        },
-        "image": "https://lh3.googleusercontent.com/mYRo7MO7IXWiCLPp2Rj-rTjb6BqWagUdbv97EiKnp2c5648pj2AcUEDPLvpTQ7tDEBV-O4eeqhY3FldlW_ugwolJQ4oq",
         "raid": null
     },
     {
@@ -2127,13 +2151,7 @@
             "lng": 7.287117
         },
         "image": "https://lh3.googleusercontent.com/hHjmqNAR4qM15y4hgObTM2YBuSgM0_mgZwXhNhDMWf76I3Nz3sIGbFW6I2PSBceUmijAGCXb_ts0tUcBSmQpwloNdA",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm355.cFALL_2022_NOEVOLVE_5c1dd13c386483bbd86cf1ad24b660a28bb128d0a75fa679c14d6f1ae3531a84.png",
-            "level": "1",
-            "boss": "Duskull",
-            "hatchTime": "2022-11-01T16:00:11Z",
-            "endTime": "2022-11-01T16:45:11Z"
-        }
+        "raid": null
     },
     {
         "id": "8ffd780d-57e0-5597-a35b-ac612eb95810",
@@ -2525,13 +2543,7 @@
             "lng": 7.315285
         },
         "image": "https://lh3.googleusercontent.com/LzF-w1UZhF8ejzlYtoqDVvZXzTb-CvyayXOWxq6WqO-6yYVkCntnz-3eobMN-Ke8uXET118SwTnWZBABCZ8kT-Fd",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm354.fMEGA_7a39422d819f7e8ed57b7b95e4c96deebad37d4b4b76185fe4230abd667a9e89.png",
-            "level": "6",
-            "boss": "Mega Banette",
-            "hatchTime": "2022-11-01T16:00:24Z",
-            "endTime": "2022-11-01T16:45:24Z"
-        }
+        "raid": null
     },
     {
         "id": "65097733-611a-56ec-a82d-71a5fb4179a0",
@@ -2541,13 +2553,7 @@
             "lng": 7.316692
         },
         "image": "https://lh3.googleusercontent.com/Nxo1CVB2vfM0hGmDgpX_eEuByexJPRsDae01vg3cIxAFcM4TrXLeiu11R9Vofk0BN-_aUh3nUuIFEM_nlz7A176rEV1H",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm149_1c746e7cd4dbe5b626714d411036ecbbed616fa35926ebeea7a319b9102b4dc6.png",
-            "level": "3",
-            "boss": "Dragonite",
-            "hatchTime": "2022-11-01T16:00:41Z",
-            "endTime": "2022-11-01T16:45:41Z"
-        }
+        "raid": null
     },
     {
         "id": "54238ef4-c15d-5e1c-af6b-af9d676cd7ec",
@@ -2648,9 +2654,9 @@
         },
         "image": "https://lh3.googleusercontent.com/DJXLrFZuCcuy8Xk_wlZ0DCtPJgBGP0mN-h8FX0032Z2ROsC7qStThcdZl-tI6gC6zu23Dd2MvVq4KTpfhwx3pCBbMDE",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm355.cFALL_2022_NOEVOLVE_5c1dd13c386483bbd86cf1ad24b660a28bb128d0a75fa679c14d6f1ae3531a84.png",
             "level": "1",
-            "boss": "",
+            "boss": "Duskull",
             "hatchTime": "2022-11-01T16:39:23Z",
             "endTime": "2022-11-01T17:24:23Z"
         }
@@ -2881,13 +2887,7 @@
             "lng": 7.363322
         },
         "image": "https://lh3.googleusercontent.com/CT_NtsDLsM3rZDFj0RH4uB3JuOtAmhS9TMH2PhjSo0Sm2rFosY2apM9rCMnphSLXtqVqyHS_64oUQjEyNvrQ333_UrA2C6gdT4ovdfKp",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm621_af810454e16cb42587fd663117b2acd071a496a5a165c492d845563f8ede8648.png",
-            "level": "3",
-            "boss": "Druddigon",
-            "hatchTime": "2022-11-01T16:04:21Z",
-            "endTime": "2022-11-01T16:49:21Z"
-        }
+        "raid": null
     },
     {
         "id": "8d486837-6eaf-5b1b-9c87-4db40d08f8dc",
@@ -2897,13 +2897,7 @@
             "lng": 7.368494
         },
         "image": "https://lh3.googleusercontent.com/1NgE7-MMQZcUoCrtQpgWKxdsQDPO8JTCJOrDTawhxHz5iEsp-l_i2m3b4DsZPY6Pv65rrb3R11Q3QzluKrCfBm7nKqoiCfcYTlbVkJaj",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm354.fMEGA_7a39422d819f7e8ed57b7b95e4c96deebad37d4b4b76185fe4230abd667a9e89.png",
-            "level": "6",
-            "boss": "Mega Banette",
-            "hatchTime": "2022-11-01T16:05:29Z",
-            "endTime": "2022-11-01T16:50:29Z"
-        }
+        "raid": null
     },
     {
         "id": "a8558ba8-5db8-5fb3-85b7-f98344b25f27",
