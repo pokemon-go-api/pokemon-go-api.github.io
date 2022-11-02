@@ -1,5 +1,21 @@
 [
     {
+        "id": "64c5f7eb-7803-5d4b-88dc-48e758803e06",
+        "name": "Spielplatz Pfarrtannen",
+        "location": {
+            "lat": 52.509094,
+            "lng": 7.283818
+        },
+        "image": "https://lh3.googleusercontent.com/7Jp30daWdFQvSUtbS_1584qlfDSG7ZP2V5kodAaC_Ix5MWM-gWn70nJHdAIU8y5w5IUs0PU3z_8eEY_POEYBmN94DQ",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "level": "3",
+            "boss": "",
+            "hatchTime": "2022-11-02T16:27:40Z",
+            "endTime": "2022-11-02T17:12:40Z"
+        }
+    },
+    {
         "id": "bd4619c4-aaae-54f7-88a5-a9eccedc1f3d",
         "name": "Brunnen in Darme",
         "location": {
@@ -88,9 +104,9 @@
         },
         "image": "https://lh3.googleusercontent.com/ixZlN0ngzM0LsZts0z0L9epYrS1wBToSkGvyPNxiazFA7FC4hXh-kK66_UKUolI1TH_-uim8ocTX5hUrbusEwsAoDg",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_3_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm354.fMEGA_7a39422d819f7e8ed57b7b95e4c96deebad37d4b4b76185fe4230abd667a9e89.png",
             "level": "6",
-            "boss": "",
+            "boss": "Mega Banette",
             "hatchTime": "2022-11-02T15:38:01Z",
             "endTime": "2022-11-02T16:23:01Z"
         }
@@ -136,9 +152,9 @@
         },
         "image": "https://lh3.googleusercontent.com/tjIbFC-gadpvC4wWmYWqWfXOlZ1xq01Mw4udgmlvDQO6Sr_K3Jw_vjGnSWtyGRN2fAoHbefoqdTdJMXk2LvJlvtaAIs",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm355.cFALL_2022_NOEVOLVE_5c1dd13c386483bbd86cf1ad24b660a28bb128d0a75fa679c14d6f1ae3531a84.png",
             "level": "1",
-            "boss": "",
+            "boss": "Duskull",
             "hatchTime": "2022-11-02T15:41:29Z",
             "endTime": "2022-11-02T16:26:29Z"
         }
@@ -152,9 +168,9 @@
         },
         "image": "https://lh3.googleusercontent.com/PlUpj7VZPjMWnSdQjB_1M_Z5zAVUZRbHaBPh6zf-FIccRCuu0p0xl-dDt7MXzvLmBhgW4abvErFchxkhEdsSc3QcfF0",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm487.fORIGIN_0ca1a1305600857e5010dfb57cf3a2f027d4f027bde5f98222849a6b06b5b860.png",
             "level": "5",
-            "boss": "",
+            "boss": "Giratina",
             "hatchTime": "2022-11-02T15:38:10Z",
             "endTime": "2022-11-02T16:23:10Z"
         }
@@ -183,13 +199,7 @@
             "lng": 7.299433
         },
         "image": "https://lh3.googleusercontent.com/n10R34sP_E1iaVBVw0nNgDrd4lEFNPg5XXgVUgYay3GFReT4Q1Z3mP7YlCSulxpFU8vhrZGk7AZbu81JGnWxYgzupks",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm487.fORIGIN_0ca1a1305600857e5010dfb57cf3a2f027d4f027bde5f98222849a6b06b5b860.png",
-            "level": "5",
-            "boss": "Giratina",
-            "hatchTime": "2022-11-02T15:00:08Z",
-            "endTime": "2022-11-02T15:45:08Z"
-        }
+        "raid": null
     },
     {
         "id": "19256076-73c8-5504-a6ed-3c84394b5b5f",
@@ -312,16 +322,6 @@
         "raid": null
     },
     {
-        "id": "64c5f7eb-7803-5d4b-88dc-48e758803e06",
-        "name": "Spielplatz Pfarrtannen",
-        "location": {
-            "lat": 52.509094,
-            "lng": 7.283818
-        },
-        "image": "https://lh3.googleusercontent.com/7Jp30daWdFQvSUtbS_1584qlfDSG7ZP2V5kodAaC_Ix5MWM-gWn70nJHdAIU8y5w5IUs0PU3z_8eEY_POEYBmN94DQ",
-        "raid": null
-    },
-    {
         "id": "7d359257-ef3b-521a-8c7a-fe6f7ac5ee52",
         "name": "Wetterstation Lingen",
         "location": {
@@ -412,6 +412,22 @@
         "raid": null
     },
     {
+        "id": "116db52c-9bf8-560c-a6be-a7c7212466e0",
+        "name": "Klettern",
+        "location": {
+            "lat": 52.504068,
+            "lng": 7.339417
+        },
+        "image": "https://lh3.googleusercontent.com/TIq_IuuNVl1uT45nIOIu64-MRKB855-IzDxLwZyRQKPEIqcFxNWVwSwkeh4v-_ay-gow7yE4RCAYddtx_8lNegaWyA",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "level": "5",
+            "boss": "",
+            "hatchTime": "2022-11-02T16:12:58Z",
+            "endTime": "2022-11-02T16:57:58Z"
+        }
+    },
+    {
         "id": "6d60cb8b-5289-5983-acb7-c2b192ca8817",
         "name": "Ich Bin Die Auferstehung Und Das Leben",
         "location": {
@@ -468,9 +484,9 @@
         },
         "image": "https://lh3.googleusercontent.com/35--px4HGNUzhPy6f_a9D_FoTo4hTWgmlS3PpPP1h7QSiT3tOJ12yForbA_-gp7p8BkXo6YP1M14TLLuJ4XVjvx3xTY",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_3_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm354.fMEGA_7a39422d819f7e8ed57b7b95e4c96deebad37d4b4b76185fe4230abd667a9e89.png",
             "level": "6",
-            "boss": "",
+            "boss": "Mega Banette",
             "hatchTime": "2022-11-02T15:38:00Z",
             "endTime": "2022-11-02T16:23:00Z"
         }
@@ -483,13 +499,7 @@
             "lng": 7.32382
         },
         "image": "https://lh3.googleusercontent.com/Iai0x0ocwIZIwCCgtxHVaGMZt5IZJLNVA5JYQCrbSM0haRzh3oPK0ay91nqXPAV_-xAp0Gw_NgGEvl5fdhyZf0wDPtBY",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm354.fMEGA_7a39422d819f7e8ed57b7b95e4c96deebad37d4b4b76185fe4230abd667a9e89.png",
-            "level": "6",
-            "boss": "Mega Banette",
-            "hatchTime": "2022-11-02T15:05:43Z",
-            "endTime": "2022-11-02T15:50:43Z"
-        }
+        "raid": null
     },
     {
         "id": "e75c25c0-af9a-5dad-8a32-2e999e5cad31",
@@ -662,16 +672,6 @@
         "raid": null
     },
     {
-        "id": "116db52c-9bf8-560c-a6be-a7c7212466e0",
-        "name": "Klettern",
-        "location": {
-            "lat": 52.504068,
-            "lng": 7.339417
-        },
-        "image": "https://lh3.googleusercontent.com/TIq_IuuNVl1uT45nIOIu64-MRKB855-IzDxLwZyRQKPEIqcFxNWVwSwkeh4v-_ay-gow7yE4RCAYddtx_8lNegaWyA",
-        "raid": null
-    },
-    {
         "id": "af9f83e5-28e3-53f3-9024-9885e31a5a99",
         "name": "Drei Gedenksteine",
         "location": {
@@ -730,6 +730,22 @@
         },
         "image": "https://lh3.googleusercontent.com/9L0AZ1GlodfIS7cqyMknv3I_Rk-nQYOeukWyovcYtVldFTFONFLeYvJjL7nD0XFgT3_N2eR4RRcu4m9Gb5O-Nwt4Xw",
         "raid": null
+    },
+    {
+        "id": "0b696dd3-cbe8-5fdd-88a8-c7da17c72e0a",
+        "name": "Sandstein Käfer",
+        "location": {
+            "lat": 52.531932,
+            "lng": 7.30492
+        },
+        "image": "https://lh3.googleusercontent.com/GImUyYsb3fdOuKWdC_zb_MBumQrmJFz16zGaO9UomyAlcMWQNGzDtZKH_GCYN5jVyn48kfJI5fy3HnOvG-0RYLEpvJA",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "level": "1",
+            "boss": "",
+            "hatchTime": "2022-11-02T16:41:28Z",
+            "endTime": "2022-11-02T17:26:28Z"
+        }
     },
     {
         "id": "51d0a6a1-c18a-58d2-9291-db2b957a4983",
@@ -916,16 +932,6 @@
         "raid": null
     },
     {
-        "id": "0b696dd3-cbe8-5fdd-88a8-c7da17c72e0a",
-        "name": "Sandstein Käfer",
-        "location": {
-            "lat": 52.531932,
-            "lng": 7.30492
-        },
-        "image": "https://lh3.googleusercontent.com/GImUyYsb3fdOuKWdC_zb_MBumQrmJFz16zGaO9UomyAlcMWQNGzDtZKH_GCYN5jVyn48kfJI5fy3HnOvG-0RYLEpvJA",
-        "raid": null
-    },
-    {
         "id": "567aad98-7b79-5615-8df8-5dd650ba82d9",
         "name": "Füttern Sie keine Wasservögel",
         "location": {
@@ -1034,6 +1040,54 @@
         },
         "image": "https://lh3.googleusercontent.com/Ts3PMdLmVYFA60x5ofALgp4-6bi43-xYxgaS6bvGdyxJ0yvyuy6QpqQ15BGUv8EQjTomgGalXRYD_BMlNs9AenQgqQ",
         "raid": null
+    },
+    {
+        "id": "9c33ec47-ff40-55a5-a43e-de7ace988515",
+        "name": "Haus des Handwerks",
+        "location": {
+            "lat": 52.53507,
+            "lng": 7.339425
+        },
+        "image": "https://lh3.googleusercontent.com/GhAAwKVHcJPXF3h9W0b4BOSARYUJlx4qgSNObziE2RKdByR2Du-N_PU8vrEsuUN5BGf68dJTPyAy5TOqDhY-6qimzdSp",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "level": "3",
+            "boss": "",
+            "hatchTime": "2022-11-02T16:06:23Z",
+            "endTime": "2022-11-02T16:51:23Z"
+        }
+    },
+    {
+        "id": "5e6decc2-97f3-5662-964a-cbc0f9323657",
+        "name": "AWO Abenteuerspielplatz",
+        "location": {
+            "lat": 52.53562,
+            "lng": 7.333189
+        },
+        "image": "https://lh3.googleusercontent.com/RI2TIMCIgB_5e-XD8N33htEKZwXwG25DRHjG9Z6GI34GsgKqPmGsB9pRphaf0labrlep3ZjgKbMW2QZAmUrAqstW3Nw",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "level": "5",
+            "boss": "",
+            "hatchTime": "2022-11-02T16:27:54Z",
+            "endTime": "2022-11-02T17:12:54Z"
+        }
+    },
+    {
+        "id": "4d79537a-ed86-5d61-883a-58552b0d02cb",
+        "name": "Beachvolleyball Feld",
+        "location": {
+            "lat": 52.533252,
+            "lng": 7.369066
+        },
+        "image": "https://lh3.googleusercontent.com/TfHBdZjAmn8PLcbC27RbmaHgNtHtsV_T2VIQEFJmxz1t1fVtI2TwFZ3CC14gyoL139f_vnogsd6ljjzz8z7nodxYr0mDCZm1foXaEBLDcA",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "level": "5",
+            "boss": "",
+            "hatchTime": "2022-11-02T16:42:15Z",
+            "endTime": "2022-11-02T17:27:15Z"
+        }
     },
     {
         "id": "3d0d62bd-3601-5156-94b2-346860d9974f",
@@ -1235,13 +1289,7 @@
             "lng": 7.369783
         },
         "image": "https://lh3.googleusercontent.com/gPwudrEFSr78ofiA84n8y48c7BkKxezzVzaIK79ovcnNNZ2uryUEVsXxy0k-El5jIvJoP5ol_OdNSJikQvETTey8rb9mnmwmWiroRFDx",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm355.cFALL_2022_NOEVOLVE_5c1dd13c386483bbd86cf1ad24b660a28bb128d0a75fa679c14d6f1ae3531a84.png",
-            "level": "1",
-            "boss": "Duskull",
-            "hatchTime": "2022-11-02T15:03:02Z",
-            "endTime": "2022-11-02T15:48:02Z"
-        }
+        "raid": null
     },
     {
         "id": "dcf8665b-2b44-511f-aec9-6de588a96952",
@@ -1299,13 +1347,7 @@
             "lng": 7.328462
         },
         "image": "https://lh3.googleusercontent.com/5ek9tdZOkQgV54abEpH5ULkrD-N18OzalDOkyTBc5GGjOtZua6b-hoz9N5OwEIBL4INGhFhMSSW_alWMcl7dYF9-2_k",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm354.fMEGA_7a39422d819f7e8ed57b7b95e4c96deebad37d4b4b76185fe4230abd667a9e89.png",
-            "level": "6",
-            "boss": "Mega Banette",
-            "hatchTime": "2022-11-02T15:01:46Z",
-            "endTime": "2022-11-02T15:46:46Z"
-        }
+        "raid": null
     },
     {
         "id": "d4b0d938-3d85-5c06-bcf8-87645f02bf80",
@@ -1418,26 +1460,6 @@
         "raid": null
     },
     {
-        "id": "5e6decc2-97f3-5662-964a-cbc0f9323657",
-        "name": "AWO Abenteuerspielplatz",
-        "location": {
-            "lat": 52.53562,
-            "lng": 7.333189
-        },
-        "image": "https://lh3.googleusercontent.com/RI2TIMCIgB_5e-XD8N33htEKZwXwG25DRHjG9Z6GI34GsgKqPmGsB9pRphaf0labrlep3ZjgKbMW2QZAmUrAqstW3Nw",
-        "raid": null
-    },
-    {
-        "id": "9c33ec47-ff40-55a5-a43e-de7ace988515",
-        "name": "Haus des Handwerks",
-        "location": {
-            "lat": 52.53507,
-            "lng": 7.339425
-        },
-        "image": "https://lh3.googleusercontent.com/GhAAwKVHcJPXF3h9W0b4BOSARYUJlx4qgSNObziE2RKdByR2Du-N_PU8vrEsuUN5BGf68dJTPyAy5TOqDhY-6qimzdSp",
-        "raid": null
-    },
-    {
         "id": "f4294f38-03e2-59f7-8dc5-38dbe580adb1",
         "name": "Gedenkstein Schützenverein",
         "location": {
@@ -1515,16 +1537,6 @@
             "lng": 7.349158
         },
         "image": "https://lh3.googleusercontent.com/d7DoYFQUm7Gz12HNRYs9hKP4_FT7jvJ-qYKE0lDyahH3X3TKOnXJ9FkirSmSovZfEaTkvqmNd04QmOqxIWf9k1Zj06Q",
-        "raid": null
-    },
-    {
-        "id": "4d79537a-ed86-5d61-883a-58552b0d02cb",
-        "name": "Beachvolleyball Feld",
-        "location": {
-            "lat": 52.533252,
-            "lng": 7.369066
-        },
-        "image": "https://lh3.googleusercontent.com/TfHBdZjAmn8PLcbC27RbmaHgNtHtsV_T2VIQEFJmxz1t1fVtI2TwFZ3CC14gyoL139f_vnogsd6ljjzz8z7nodxYr0mDCZm1foXaEBLDcA",
         "raid": null
     },
     {
@@ -1696,6 +1708,22 @@
         "raid": null
     },
     {
+        "id": "f1293e5f-fec0-5fb8-ace1-483c9708b675",
+        "name": "Zum Felsberg",
+        "location": {
+            "lat": 52.506778,
+            "lng": 7.478886
+        },
+        "image": "https://lh3.googleusercontent.com/h5NM0uppBnxYdEuFtkSiGhFrsvEdwg0lBHZS2aFjK-jgi6iVFMzy2_WI5Z3Dx5gyeWpeODkQ-c3BvxZDqydkN4PkD0s",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "level": "3",
+            "boss": "",
+            "hatchTime": "2022-11-02T16:37:56Z",
+            "endTime": "2022-11-02T17:22:56Z"
+        }
+    },
+    {
         "id": "e9b34dfc-8f77-5900-b2ab-7fdf246269d7",
         "name": "Strasse der Lieder \"Vater Kolping\"",
         "location": {
@@ -1801,16 +1829,6 @@
             "lng": 7.479152
         },
         "image": "https://lh3.googleusercontent.com/EJoLjJLAkgMAUFQ6Vho10USuwY6Pi8GAVtWDVznvs4n3LaekI_2OTFnDQw3WflTO0JvCDA4Rv9QZxE0HlG-smVMUzw",
-        "raid": null
-    },
-    {
-        "id": "f1293e5f-fec0-5fb8-ace1-483c9708b675",
-        "name": "Zum Felsberg",
-        "location": {
-            "lat": 52.506778,
-            "lng": 7.478886
-        },
-        "image": "https://lh3.googleusercontent.com/h5NM0uppBnxYdEuFtkSiGhFrsvEdwg0lBHZS2aFjK-jgi6iVFMzy2_WI5Z3Dx5gyeWpeODkQ-c3BvxZDqydkN4PkD0s",
         "raid": null
     },
     {
@@ -1996,6 +2014,54 @@
         "raid": null
     },
     {
+        "id": "95b68524-2635-5eef-b6df-27bedaf3e2a2",
+        "name": "Barmherzigkeit mein Jesus",
+        "location": {
+            "lat": 52.529729,
+            "lng": 7.467436
+        },
+        "image": "https://lh3.googleusercontent.com/J2Vckhq2e9OZA7Ycj7hDZzUnoevH7PzdtHknt0Z1Cn3BXXvpiBZ_U7CS9YQxPPQqsVfED5o3afcHE9GhJFmMHY8-Bw",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "level": "1",
+            "boss": "",
+            "hatchTime": "2022-11-02T16:22:07Z",
+            "endTime": "2022-11-02T17:07:07Z"
+        }
+    },
+    {
+        "id": "c1bb3df7-7ad7-5383-a1d2-ee2be86a6c92",
+        "name": "Spielplatz Burte",
+        "location": {
+            "lat": 52.542092,
+            "lng": 7.463631
+        },
+        "image": "https://lh3.googleusercontent.com/ykBWp80oZ-qWU6tmBs_G5MPeiRYIuA4utPwQqtathZhwqTSYgsKm1NW35beIOq4Uc0Dsnmmv6u5As1aqyFTA7faUSUqW",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "level": "3",
+            "boss": "",
+            "hatchTime": "2022-11-02T16:05:12Z",
+            "endTime": "2022-11-02T16:50:12Z"
+        }
+    },
+    {
+        "id": "1fdfb08d-f6f3-54c3-8c2b-08402c00cbe6",
+        "name": "Wappen der Gemeinde Langen",
+        "location": {
+            "lat": 52.540759,
+            "lng": 7.46476
+        },
+        "image": "https://lh3.googleusercontent.com/X7HuSJe8QtTvoEgtrhtokBLlIWsAX6RWa_nSjH3hePAK1-KQN67HHxrYgxF163y3EOnud7yQH4ofxBk1P6wcu1Ph37g",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "level": "5",
+            "boss": "",
+            "hatchTime": "2022-11-02T16:36:46Z",
+            "endTime": "2022-11-02T17:21:46Z"
+        }
+    },
+    {
         "id": "9e3e723f-7a84-5173-bf79-428f819791fe",
         "name": "Spielplatz Josefstraße",
         "location": {
@@ -2019,32 +2085,6 @@
             "lng": 7.469629
         },
         "image": "https://lh3.googleusercontent.com/TZuwgl8WUSv9umYjUsylQLBjGzCjEndx7XaUuK3PWrGRnZtCsWf0ILtP2bexJ0HR_LaYWEBDzpqueF3GapXJB5qojh8",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm621_af810454e16cb42587fd663117b2acd071a496a5a165c492d845563f8ede8648.png",
-            "level": "3",
-            "boss": "Druddigon",
-            "hatchTime": "2022-11-02T15:00:12Z",
-            "endTime": "2022-11-02T15:45:12Z"
-        }
-    },
-    {
-        "id": "c1bb3df7-7ad7-5383-a1d2-ee2be86a6c92",
-        "name": "Spielplatz Burte",
-        "location": {
-            "lat": 52.542092,
-            "lng": 7.463631
-        },
-        "image": "https://lh3.googleusercontent.com/ykBWp80oZ-qWU6tmBs_G5MPeiRYIuA4utPwQqtathZhwqTSYgsKm1NW35beIOq4Uc0Dsnmmv6u5As1aqyFTA7faUSUqW",
-        "raid": null
-    },
-    {
-        "id": "1fdfb08d-f6f3-54c3-8c2b-08402c00cbe6",
-        "name": "Wappen der Gemeinde Langen",
-        "location": {
-            "lat": 52.540759,
-            "lng": 7.46476
-        },
-        "image": "https://lh3.googleusercontent.com/X7HuSJe8QtTvoEgtrhtokBLlIWsAX6RWa_nSjH3hePAK1-KQN67HHxrYgxF163y3EOnud7yQH4ofxBk1P6wcu1Ph37g",
         "raid": null
     },
     {
@@ -2088,14 +2128,68 @@
         "raid": null
     },
     {
-        "id": "95b68524-2635-5eef-b6df-27bedaf3e2a2",
-        "name": "Barmherzigkeit mein Jesus",
+        "id": "672240cd-c0e7-5e4d-abea-e1d3e9ab5b34",
+        "name": "Handwerksbaum",
         "location": {
-            "lat": 52.529729,
-            "lng": 7.467436
+            "lat": 52.566733,
+            "lng": 7.288039
         },
-        "image": "https://lh3.googleusercontent.com/J2Vckhq2e9OZA7Ycj7hDZzUnoevH7PzdtHknt0Z1Cn3BXXvpiBZ_U7CS9YQxPPQqsVfED5o3afcHE9GhJFmMHY8-Bw",
-        "raid": null
+        "image": "https://lh3.googleusercontent.com/HaB6znb1mRg-s_muMxuOA2MTp7g_6SXHDucANYwx559Z9INwAaWVwzdai2XrQVIbKBGiOCmOhdCkr4SdPi-ddTmoMQ",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "level": "3",
+            "boss": "",
+            "hatchTime": "2022-11-02T16:38:53Z",
+            "endTime": "2022-11-02T17:23:53Z"
+        }
+    },
+    {
+        "id": "6248bc16-d221-5e57-b3e6-0cce4f5c598a",
+        "name": "War Memorial",
+        "location": {
+            "lat": 52.569614,
+            "lng": 7.287117
+        },
+        "image": "https://lh3.googleusercontent.com/hHjmqNAR4qM15y4hgObTM2YBuSgM0_mgZwXhNhDMWf76I3Nz3sIGbFW6I2PSBceUmijAGCXb_ts0tUcBSmQpwloNdA",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "level": "3",
+            "boss": "",
+            "hatchTime": "2022-11-02T16:06:07Z",
+            "endTime": "2022-11-02T16:51:07Z"
+        }
+    },
+    {
+        "id": "e212a16d-8afd-5c06-ba06-af02ac0b6f86",
+        "name": "Spielplatz am Immenhook",
+        "location": {
+            "lat": 52.567575,
+            "lng": 7.28901
+        },
+        "image": "https://lh3.googleusercontent.com/2uh2i3xsiPnWVbaPH3hjN56VTU3vbMGDe2625eerchOAVfXcohSawlCC3eexJaL6_9ZjvIsTuOmDX-ybzu-LtvdxodA",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "level": "3",
+            "boss": "",
+            "hatchTime": "2022-11-02T16:06:26Z",
+            "endTime": "2022-11-02T16:51:26Z"
+        }
+    },
+    {
+        "id": "3f878284-8aa2-5477-b7f9-a59e838ae0e5",
+        "name": "Fussballplatz Holthausen-Biene",
+        "location": {
+            "lat": 52.578771,
+            "lng": 7.305032
+        },
+        "image": "https://lh3.googleusercontent.com/rEQlxnxCYMBqBdcC_f9ub_WEcHQnFFL3qayde-XkQzSQAdjxxB5WO7tyPrJj0c0Udtvvt3AYbJOQrOPpgcL64jWTyg",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "level": "5",
+            "boss": "",
+            "hatchTime": "2022-11-02T16:06:43Z",
+            "endTime": "2022-11-02T16:51:43Z"
+        }
     },
     {
         "id": "186a08a3-f655-5b93-9c94-72329b235aca",
@@ -2105,13 +2199,7 @@
             "lng": 7.286396
         },
         "image": "https://lh3.googleusercontent.com/L44Xqv2jx44aOGpB1QcKl8QAEzwQaZagYdJQViSPfFDh4sEMsmXWjGDkDos6CRLMdXLWBvy-Ze55_FnNySAyCfX_OHk",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm487.fORIGIN_0ca1a1305600857e5010dfb57cf3a2f027d4f027bde5f98222849a6b06b5b860.png",
-            "level": "5",
-            "boss": "Giratina",
-            "hatchTime": "2022-11-02T15:02:14Z",
-            "endTime": "2022-11-02T15:47:14Z"
-        }
+        "raid": null
     },
     {
         "id": "89999fce-0a5a-5b4d-9de9-9bf0cb4aa58e",
@@ -2166,16 +2254,6 @@
         "raid": null
     },
     {
-        "id": "3f878284-8aa2-5477-b7f9-a59e838ae0e5",
-        "name": "Fussballplatz Holthausen-Biene",
-        "location": {
-            "lat": 52.578771,
-            "lng": 7.305032
-        },
-        "image": "https://lh3.googleusercontent.com/rEQlxnxCYMBqBdcC_f9ub_WEcHQnFFL3qayde-XkQzSQAdjxxB5WO7tyPrJj0c0Udtvvt3AYbJOQrOPpgcL64jWTyg",
-        "raid": null
-    },
-    {
         "id": "718779d6-eb31-5015-9aa9-57b6a2407fcd",
         "name": "Ludwig Windhorst Haus",
         "location": {
@@ -2183,26 +2261,6 @@
             "lng": 7.286187
         },
         "image": "https://lh3.googleusercontent.com/ATCybl9B8YpSrcJRlr-9fD36HPDqsrz8iGZL2rOtqdY2ZbJqD2Fw4z8Rx3iTufYMlYOjwHUGlSIb1kc_amTuIP81CLQ",
-        "raid": null
-    },
-    {
-        "id": "6248bc16-d221-5e57-b3e6-0cce4f5c598a",
-        "name": "War Memorial",
-        "location": {
-            "lat": 52.569614,
-            "lng": 7.287117
-        },
-        "image": "https://lh3.googleusercontent.com/hHjmqNAR4qM15y4hgObTM2YBuSgM0_mgZwXhNhDMWf76I3Nz3sIGbFW6I2PSBceUmijAGCXb_ts0tUcBSmQpwloNdA",
-        "raid": null
-    },
-    {
-        "id": "e212a16d-8afd-5c06-ba06-af02ac0b6f86",
-        "name": "Spielplatz am Immenhook",
-        "location": {
-            "lat": 52.567575,
-            "lng": 7.28901
-        },
-        "image": "https://lh3.googleusercontent.com/2uh2i3xsiPnWVbaPH3hjN56VTU3vbMGDe2625eerchOAVfXcohSawlCC3eexJaL6_9ZjvIsTuOmDX-ybzu-LtvdxodA",
         "raid": null
     },
     {
@@ -2243,16 +2301,6 @@
             "lng": 7.265648
         },
         "image": "https://lh3.googleusercontent.com/jpoclzluVNLhRDuwQ4QwP9DPo7ouN6L58JeO3V3r-r1yHGQGcqLKUxj1gk_uLE1p95qcL0QB7Yyr3s5kJk37ZIdA8dU",
-        "raid": null
-    },
-    {
-        "id": "672240cd-c0e7-5e4d-abea-e1d3e9ab5b34",
-        "name": "Handwerksbaum",
-        "location": {
-            "lat": 52.566733,
-            "lng": 7.288039
-        },
-        "image": "https://lh3.googleusercontent.com/HaB6znb1mRg-s_muMxuOA2MTp7g_6SXHDucANYwx559Z9INwAaWVwzdai2XrQVIbKBGiOCmOhdCkr4SdPi-ddTmoMQ",
         "raid": null
     },
     {
@@ -2315,13 +2363,7 @@
             "lng": 7.359918
         },
         "image": "https://lh3.googleusercontent.com/oRqqhD9oSspNIBbeLCDoH-GODW0s2rR5t2SDom1nXpj9tlo9Dj56ICKEupse3poPmraQuHj98u_LNhWMyBKDpErMXw",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm302_8d7be70c53afc2ec4b7bd3436c8c2ee81411b6ed5476e32d1264abea394896e1.png",
-            "level": "3",
-            "boss": "Sableye",
-            "hatchTime": "2022-11-02T15:05:08Z",
-            "endTime": "2022-11-02T15:50:08Z"
-        }
+        "raid": null
     },
     {
         "id": "9e47a572-1a9f-5d95-84b6-75a683bf343f",
@@ -2374,6 +2416,54 @@
         },
         "image": "https://lh3.googleusercontent.com/ZLg6DMt-sUWgk65ppHrNUSRM_5y24cwzTSCRkGeMu82qRrmcw5QXonkWBdfFvIIPPUoDQtuVoKWeLSRTCHkrHZEb4gc",
         "raid": null
+    },
+    {
+        "id": "da6a3522-6ea3-5eba-a70b-d54b69ebb787",
+        "name": "Königin der armen Seelen",
+        "location": {
+            "lat": 52.600395,
+            "lng": 7.263582
+        },
+        "image": "https://lh3.googleusercontent.com/BkNoWIoWDreQOHAu7E3hY0dcntX2VI7-8huwYdrhfyQX2e2O6NDvxAMeJfqHLdZukMjXpkDVmlntqJDCsmyRzebd_A",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_3_icon.png",
+            "level": "6",
+            "boss": "",
+            "hatchTime": "2022-11-02T16:12:01Z",
+            "endTime": "2022-11-02T16:57:01Z"
+        }
+    },
+    {
+        "id": "21e3d936-9e57-5986-8284-59aa2cbfb424",
+        "name": "Jesus Statue",
+        "location": {
+            "lat": 52.599807,
+            "lng": 7.266016
+        },
+        "image": "https://lh3.googleusercontent.com/-jo_frUorcfcOcc6kCwcxlA4iwQ6zBLpwgiCB2QDX8r4JxJlcv5jXSb5vh69jy5Qltm4UrsBzDwkpTFyMCZkgPPTBLk",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "level": "1",
+            "boss": "",
+            "hatchTime": "2022-11-02T16:16:03Z",
+            "endTime": "2022-11-02T17:01:03Z"
+        }
+    },
+    {
+        "id": "6b1e96dd-a9db-535e-9a6e-8aa3f55a86c1",
+        "name": "Aufforstung 1983",
+        "location": {
+            "lat": 52.598561,
+            "lng": 7.281646
+        },
+        "image": "https://lh3.googleusercontent.com/cLD8zt9c3fjMmmNfT1Er_z7UkJdcQRvJ9bMbt92MYG9W6JuXFrcLLTgeMrt0gWx1P6lV1wbBceCWCsMrkQ7A8_GL36k",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "level": "3",
+            "boss": "",
+            "hatchTime": "2022-11-02T16:23:10Z",
+            "endTime": "2022-11-02T17:08:10Z"
+        }
     },
     {
         "id": "5551ef37-d5f0-5c6d-be02-02ca350640e7",
@@ -2438,26 +2528,6 @@
         "raid": null
     },
     {
-        "id": "21e3d936-9e57-5986-8284-59aa2cbfb424",
-        "name": "Jesus Statue",
-        "location": {
-            "lat": 52.599807,
-            "lng": 7.266016
-        },
-        "image": "https://lh3.googleusercontent.com/-jo_frUorcfcOcc6kCwcxlA4iwQ6zBLpwgiCB2QDX8r4JxJlcv5jXSb5vh69jy5Qltm4UrsBzDwkpTFyMCZkgPPTBLk",
-        "raid": null
-    },
-    {
-        "id": "6b1e96dd-a9db-535e-9a6e-8aa3f55a86c1",
-        "name": "Aufforstung 1983",
-        "location": {
-            "lat": 52.598561,
-            "lng": 7.281646
-        },
-        "image": "https://lh3.googleusercontent.com/cLD8zt9c3fjMmmNfT1Er_z7UkJdcQRvJ9bMbt92MYG9W6JuXFrcLLTgeMrt0gWx1P6lV1wbBceCWCsMrkQ7A8_GL36k",
-        "raid": null
-    },
-    {
         "id": "291f4eae-a42b-54be-b344-4ff7859dcbd4",
         "name": "Temnis SV DJK Geeste",
         "location": {
@@ -2465,16 +2535,6 @@
             "lng": 7.271917
         },
         "image": "https://lh3.googleusercontent.com/GV8JkVMoFTuuAKbtI56Xoo_zHG5anMgJAcuoTRvK-2FpibHlPhhPeGBy613yvffz8pa3MroOiC0Je-0lFTyJtK2LdeLLfbix0f9Izl9T",
-        "raid": null
-    },
-    {
-        "id": "da6a3522-6ea3-5eba-a70b-d54b69ebb787",
-        "name": "Königin der armen Seelen",
-        "location": {
-            "lat": 52.600395,
-            "lng": 7.263582
-        },
-        "image": "https://lh3.googleusercontent.com/BkNoWIoWDreQOHAu7E3hY0dcntX2VI7-8huwYdrhfyQX2e2O6NDvxAMeJfqHLdZukMjXpkDVmlntqJDCsmyRzebd_A",
         "raid": null
     },
     {
@@ -2518,6 +2578,22 @@
         "raid": null
     },
     {
+        "id": "b5932049-6fa7-574d-ae81-628d1746adb2",
+        "name": "Jesus Kreuz Osterbrook",
+        "location": {
+            "lat": 52.598941,
+            "lng": 7.315285
+        },
+        "image": "https://lh3.googleusercontent.com/LzF-w1UZhF8ejzlYtoqDVvZXzTb-CvyayXOWxq6WqO-6yYVkCntnz-3eobMN-Ke8uXET118SwTnWZBABCZ8kT-Fd",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "level": "5",
+            "boss": "",
+            "hatchTime": "2022-11-02T16:34:43Z",
+            "endTime": "2022-11-02T17:19:43Z"
+        }
+    },
+    {
         "id": "8a909edd-88b5-5e11-8b22-b877831ebd1a",
         "name": "der Bogen",
         "location": {
@@ -2525,13 +2601,7 @@
             "lng": 7.321354
         },
         "image": "https://lh3.googleusercontent.com/qD9vApaXTkezHWF2K5d26kWpiuORnlUWN_48FhN7iS2UT6vumCNNSSDc8ANgvNTFYzzkELOoM9o2Z_01kC9LPR3iClYe",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm355.cFALL_2022_NOEVOLVE_5c1dd13c386483bbd86cf1ad24b660a28bb128d0a75fa679c14d6f1ae3531a84.png",
-            "level": "1",
-            "boss": "Duskull",
-            "hatchTime": "2022-11-02T15:06:35Z",
-            "endTime": "2022-11-02T15:51:35Z"
-        }
+        "raid": null
     },
     {
         "id": "65097733-611a-56ec-a82d-71a5fb4179a0",
@@ -2541,16 +2611,6 @@
             "lng": 7.316692
         },
         "image": "https://lh3.googleusercontent.com/Nxo1CVB2vfM0hGmDgpX_eEuByexJPRsDae01vg3cIxAFcM4TrXLeiu11R9Vofk0BN-_aUh3nUuIFEM_nlz7A176rEV1H",
-        "raid": null
-    },
-    {
-        "id": "b5932049-6fa7-574d-ae81-628d1746adb2",
-        "name": "Jesus Kreuz Osterbrook",
-        "location": {
-            "lat": 52.598941,
-            "lng": 7.315285
-        },
-        "image": "https://lh3.googleusercontent.com/LzF-w1UZhF8ejzlYtoqDVvZXzTb-CvyayXOWxq6WqO-6yYVkCntnz-3eobMN-Ke8uXET118SwTnWZBABCZ8kT-Fd",
         "raid": null
     },
     {
@@ -2582,6 +2642,38 @@
         },
         "image": "https://lh3.googleusercontent.com/jtAvvSznxrF2vGJabLIQkiY100nX7yZF69jBxDhaxzmNpSQA6qweT42rMloHKPOjRUePRQ9TGz5Wj0PNfNzKoJKuOdRfinqicqkv-OU",
         "raid": null
+    },
+    {
+        "id": "ce9883db-422d-55d2-8abb-0fa9492e8ab6",
+        "name": "Jubiläumsstein Stadt Freren",
+        "location": {
+            "lat": 52.481499,
+            "lng": 7.542568
+        },
+        "image": "https://lh3.googleusercontent.com/NtXTBILwcpAAE_pEdF9Wn3eBHwK5dEr--qha7aehWG7WIoRfcombjnUgfmKSYzdAAlI4RFAa0fBqa5cAe2lYISqxRrUY",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "level": "1",
+            "boss": "",
+            "hatchTime": "2022-11-02T16:39:11Z",
+            "endTime": "2022-11-02T17:24:11Z"
+        }
+    },
+    {
+        "id": "9168333a-9eda-5e84-807e-4da2ecbdaaea",
+        "name": "Das Kaufmannshaus Pott-Holtmann",
+        "location": {
+            "lat": 52.486856,
+            "lng": 7.545145
+        },
+        "image": "https://lh3.googleusercontent.com/KMVDIsYXYIyp9I14bOLpHMrAsaCleSxkevwmFcG2kclstr1LzIIz94b_MphZV70UZXTuvFKZvXb1DKHZQcMU_IVs-vI",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "level": "1",
+            "boss": "",
+            "hatchTime": "2022-11-02T16:35:15Z",
+            "endTime": "2022-11-02T17:20:15Z"
+        }
     },
     {
         "id": "ba1a71a6-4943-5739-ab60-e85ddb6ee1cc",
@@ -2781,26 +2873,6 @@
             "lng": 7.500676
         },
         "image": "https://lh3.googleusercontent.com/_cBeY99m3v2LyIjf73A_prqOQwWiEGnUit0DaWFq1mCE2KcrOPi-Z7O_4gg7JeBxunYVAyeFgn4PATwVYajMb2Frow",
-        "raid": null
-    },
-    {
-        "id": "ce9883db-422d-55d2-8abb-0fa9492e8ab6",
-        "name": "Jubiläumsstein Stadt Freren",
-        "location": {
-            "lat": 52.481499,
-            "lng": 7.542568
-        },
-        "image": "https://lh3.googleusercontent.com/NtXTBILwcpAAE_pEdF9Wn3eBHwK5dEr--qha7aehWG7WIoRfcombjnUgfmKSYzdAAlI4RFAa0fBqa5cAe2lYISqxRrUY",
-        "raid": null
-    },
-    {
-        "id": "9168333a-9eda-5e84-807e-4da2ecbdaaea",
-        "name": "Das Kaufmannshaus Pott-Holtmann",
-        "location": {
-            "lat": 52.486856,
-            "lng": 7.545145
-        },
-        "image": "https://lh3.googleusercontent.com/KMVDIsYXYIyp9I14bOLpHMrAsaCleSxkevwmFcG2kclstr1LzIIz94b_MphZV70UZXTuvFKZvXb1DKHZQcMU_IVs-vI",
         "raid": null
     },
     {
