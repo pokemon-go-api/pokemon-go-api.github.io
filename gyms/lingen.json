@@ -1,5 +1,53 @@
 [
     {
+        "id": "8057b210-2cdb-55c2-b502-98734ef6f9d3",
+        "name": "Evangelische Freikirche",
+        "location": {
+            "lat": 52.50867,
+            "lng": 7.288067
+        },
+        "image": "https://lh3.googleusercontent.com/FkdM5XnF0dpiU5wL80xOeaXhBqpOFQAUp44m7S6GEpfhtLFLL5IF0HWxdKOCv163c70fNyQ6QzPo7x0hw-ny-FIudbY",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_3_icon.png",
+            "level": "6",
+            "boss": "",
+            "hatchTime": "2022-11-05T06:43:02Z",
+            "endTime": "2022-11-05T07:28:02Z"
+        }
+    },
+    {
+        "id": "a233ab80-36dd-5415-9475-2e87e99b143b",
+        "name": "St. Alexander Schepsdorf",
+        "location": {
+            "lat": 52.509666,
+            "lng": 7.295249
+        },
+        "image": "https://lh3.googleusercontent.com/tjIbFC-gadpvC4wWmYWqWfXOlZ1xq01Mw4udgmlvDQO6Sr_K3Jw_vjGnSWtyGRN2fAoHbefoqdTdJMXk2LvJlvtaAIs",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "level": "1",
+            "boss": "",
+            "hatchTime": "2022-11-05T06:30:03Z",
+            "endTime": "2022-11-05T07:15:03Z"
+        }
+    },
+    {
+        "id": "8f6016dc-0514-5f61-aaf1-0ad0619daff7",
+        "name": "Gedenkstein",
+        "location": {
+            "lat": 52.510622,
+            "lng": 7.28965
+        },
+        "image": "https://lh3.googleusercontent.com/PlUpj7VZPjMWnSdQjB_1M_Z5zAVUZRbHaBPh6zf-FIccRCuu0p0xl-dDt7MXzvLmBhgW4abvErFchxkhEdsSc3QcfF0",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "level": "5",
+            "boss": "",
+            "hatchTime": "2022-11-05T06:40:20Z",
+            "endTime": "2022-11-05T07:25:20Z"
+        }
+    },
+    {
         "id": "3ccae8e6-e821-57f2-b774-a265260b5752",
         "name": "Neues Rathaus",
         "location": {
@@ -40,9 +88,9 @@
         },
         "image": "https://lh3.googleusercontent.com/ixZlN0ngzM0LsZts0z0L9epYrS1wBToSkGvyPNxiazFA7FC4hXh-kK66_UKUolI1TH_-uim8ocTX5hUrbusEwsAoDg",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm149_1c746e7cd4dbe5b626714d411036ecbbed616fa35926ebeea7a319b9102b4dc6.png",
             "level": "3",
-            "boss": "",
+            "boss": "Dragonite",
             "hatchTime": "2022-11-05T05:42:02Z",
             "endTime": "2022-11-05T06:27:02Z"
         }
@@ -55,13 +103,7 @@
             "lng": 7.28486
         },
         "image": "https://lh3.googleusercontent.com/Fe73dEKieu2lVCEk7Yd_1IYkhKKHDvjyPCjN7PXUbpd61zv5S2Kw_bQ_B1wHgzw4TnhcWK_gVORivwzqhg4wr8tQlT8",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm302_8d7be70c53afc2ec4b7bd3436c8c2ee81411b6ed5476e32d1264abea394896e1.png",
-            "level": "3",
-            "boss": "Sableye",
-            "hatchTime": "2022-11-05T05:03:52Z",
-            "endTime": "2022-11-05T05:48:52Z"
-        }
+        "raid": null
     },
     {
         "id": "c656f52e-ab5f-5907-a401-be5950d74857",
@@ -152,16 +194,6 @@
         "raid": null
     },
     {
-        "id": "8057b210-2cdb-55c2-b502-98734ef6f9d3",
-        "name": "Evangelische Freikirche",
-        "location": {
-            "lat": 52.50867,
-            "lng": 7.288067
-        },
-        "image": "https://lh3.googleusercontent.com/FkdM5XnF0dpiU5wL80xOeaXhBqpOFQAUp44m7S6GEpfhtLFLL5IF0HWxdKOCv163c70fNyQ6QzPo7x0hw-ny-FIudbY",
-        "raid": null
-    },
-    {
         "id": "28955d5b-1e55-5489-a59c-43547a3cefdf",
         "name": "RGIV",
         "location": {
@@ -219,16 +251,6 @@
             "lng": 7.289831
         },
         "image": "https://lh3.googleusercontent.com/btuJ_rXTGdRxwmzTx-3QFaErvCb4ujd2RNis2CIBwuybuT3mCzA5lOHwNJtJhrRvRH1GbuVAZ_DbVMqko-aE8fzlqvul",
-        "raid": null
-    },
-    {
-        "id": "a233ab80-36dd-5415-9475-2e87e99b143b",
-        "name": "St. Alexander Schepsdorf",
-        "location": {
-            "lat": 52.509666,
-            "lng": 7.295249
-        },
-        "image": "https://lh3.googleusercontent.com/tjIbFC-gadpvC4wWmYWqWfXOlZ1xq01Mw4udgmlvDQO6Sr_K3Jw_vjGnSWtyGRN2fAoHbefoqdTdJMXk2LvJlvtaAIs",
         "raid": null
     },
     {
@@ -309,16 +331,6 @@
             "lng": 7.298321
         },
         "image": "https://lh3.googleusercontent.com/SBi6y3Xml5_7hM1GbmYWCyPKfBQOkWZdt9kqDCILtjxFDBE3WAb--PxOHsBqbqwASBeRiTm2PLDjmnqrATE5ogzrf-Y",
-        "raid": null
-    },
-    {
-        "id": "8f6016dc-0514-5f61-aaf1-0ad0619daff7",
-        "name": "Gedenkstein",
-        "location": {
-            "lat": 52.510622,
-            "lng": 7.28965
-        },
-        "image": "https://lh3.googleusercontent.com/PlUpj7VZPjMWnSdQjB_1M_Z5zAVUZRbHaBPh6zf-FIccRCuu0p0xl-dDt7MXzvLmBhgW4abvErFchxkhEdsSc3QcfF0",
         "raid": null
     },
     {
@@ -469,13 +481,7 @@
             "lng": 7.34128
         },
         "image": "https://lh3.googleusercontent.com/BVyc8wmPxu_nqak8AitpSlK0RNj5Qmc-9ou1SbGZNbZ7FW5Fh4v8c5VegWRnYhiVTzhzRC276FTJmx2L9n_xzPmd2Q",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm149_1c746e7cd4dbe5b626714d411036ecbbed616fa35926ebeea7a319b9102b4dc6.png",
-            "level": "3",
-            "boss": "Dragonite",
-            "hatchTime": "2022-11-05T05:07:08Z",
-            "endTime": "2022-11-05T05:52:08Z"
-        }
+        "raid": null
     },
     {
         "id": "c4b33d86-8658-5d53-8aa7-cc5278bd1990",
@@ -533,13 +539,7 @@
             "lng": 7.330433
         },
         "image": "https://lh3.googleusercontent.com/Xv5Z7vVCEsL4SlJZbPlRpzGztihx0jBqMq8HokWiIShLGGy3cxsxVQAO1orhRRgCqj2YOm5ULcTu0cIcd9ZDLNdLMcS_",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm622_1861bd157d38c99d18acb828fe37154fe87474a7e5a95b7325fed30b8ac8c943.png",
-            "level": "1",
-            "boss": "Golett",
-            "hatchTime": "2022-11-05T05:01:13Z",
-            "endTime": "2022-11-05T05:46:13Z"
-        }
+        "raid": null
     },
     {
         "id": "da913aaf-16f2-598f-85a5-78f741d5d282",
@@ -549,13 +549,7 @@
             "lng": 7.328617
         },
         "image": "https://lh3.googleusercontent.com/LRgGqX-pib7sZo7C7JSyJTnFE_pXnbo-caxotgWoWE6JBmbTdYH3_rUDy6PZfaOxPQH0xjpC7AbQqNb9N8b41nNguw",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm302_8d7be70c53afc2ec4b7bd3436c8c2ee81411b6ed5476e32d1264abea394896e1.png",
-            "level": "3",
-            "boss": "Sableye",
-            "hatchTime": "2022-11-05T05:04:19Z",
-            "endTime": "2022-11-05T05:49:19Z"
-        }
+        "raid": null
     },
     {
         "id": "bb2e5445-b379-540b-b8e1-e5c7d4a95e6f",
@@ -738,6 +732,86 @@
         "raid": null
     },
     {
+        "id": "60f39bfd-0d77-57cc-ac2e-aea83b03a2cb",
+        "name": "Fachwerk-Bemalung",
+        "location": {
+            "lat": 52.522532,
+            "lng": 7.318391
+        },
+        "image": "https://lh3.googleusercontent.com/wz41OHJjjTTFGG1hvA16zEJ_r1xxdNjVd3_eq7h9Uu8TrpzgEC3hX0B7bd01cQPVB99nA13uUvtWClOvPP24VUvuoUE",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "level": "5",
+            "boss": "",
+            "hatchTime": "2022-11-05T06:40:41Z",
+            "endTime": "2022-11-05T07:25:41Z"
+        }
+    },
+    {
+        "id": "ddf152c9-b92f-5ad0-bb04-dcc1d65aaff8",
+        "name": "Du, Unsere Mutter",
+        "location": {
+            "lat": 52.530319,
+            "lng": 7.317439
+        },
+        "image": "https://lh3.googleusercontent.com/KvempzFPw-8g-8UyMw_Tr4Idw4xJnrDr73Y4SJr0Wzl5F0uVNRSUp2AwJuY8xxx8jMDy3oiQ5MjNhAbDQHNBJmRRBhwB",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_3_icon.png",
+            "level": "6",
+            "boss": "",
+            "hatchTime": "2022-11-05T06:42:15Z",
+            "endTime": "2022-11-05T07:27:15Z"
+        }
+    },
+    {
+        "id": "567aad98-7b79-5615-8df8-5dd650ba82d9",
+        "name": "Füttern Sie keine Wasservögel",
+        "location": {
+            "lat": 52.535353,
+            "lng": 7.316751
+        },
+        "image": "https://lh3.googleusercontent.com/PUKvmF_LRfRveqcREzS4lRskdcCrlIyMO8EY0DSIKDYTwfoxgjgax70wF4ZoYDPHOTvbou8jPKwqD_L9DSm0-0EtyW8",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "level": "5",
+            "boss": "",
+            "hatchTime": "2022-11-05T06:41:42Z",
+            "endTime": "2022-11-05T07:26:42Z"
+        }
+    },
+    {
+        "id": "17995c1a-bd04-5527-9007-be92ca0e667e",
+        "name": "Pylone Ortseingang Altenlingen",
+        "location": {
+            "lat": 52.540678,
+            "lng": 7.294371
+        },
+        "image": "https://lh3.googleusercontent.com/4BHR4_zNzv2P8cxa2ICyOhnUxxuoNOXeST2J9D56GY7X2wWkSLPGs_nltM8Mto2N_eciTlbyO2n4o2jwqHmZy_Bke_c",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "level": "3",
+            "boss": "",
+            "hatchTime": "2022-11-05T06:32:45Z",
+            "endTime": "2022-11-05T07:17:45Z"
+        }
+    },
+    {
+        "id": "d6d85bdb-827d-53fa-80d9-85a4cd35914d",
+        "name": "Spielplatz am Silbergrasweg",
+        "location": {
+            "lat": 52.537248,
+            "lng": 7.301998
+        },
+        "image": "https://lh3.googleusercontent.com/Lau5fLMvy5PkMYSAFpxPViOB2nVV4Ao3FnfoArL7tl0GqdLsTEi-6WjHuLm95nUoaOXXREm2qKq_Yja1t8Px-7heYoA",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "level": "5",
+            "boss": "",
+            "hatchTime": "2022-11-05T06:27:09Z",
+            "endTime": "2022-11-05T07:12:09Z"
+        }
+    },
+    {
         "id": "763b523e-4ee1-5d2c-ab23-c2632cba34b4",
         "name": "Zwangsarbeiterlager. 1942-1945",
         "location": {
@@ -810,9 +884,9 @@
         },
         "image": "https://lh3.googleusercontent.com/lOrjqAWGYNBqV6TB7WSYN6bGzgq69P8dtGZjBbFPzBguzEAPz9C-lFi5AvA5UNYYNEXjH7_7DHkfapBzrX8CeoUvViQ",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm425_89c7d521ba00d1844614568d2d85217dc383902c9b2d260dfba9e422c2b4aa1a.png",
             "level": "1",
-            "boss": "",
+            "boss": "Drifloon",
             "hatchTime": "2022-11-05T05:41:48Z",
             "endTime": "2022-11-05T06:26:48Z"
         }
@@ -825,13 +899,7 @@
             "lng": 7.312063
         },
         "image": "https://lh3.googleusercontent.com/L-vBrCK9xoLbqErl9lhw1Nr2kY-BSNasSAkZJO8PEGY4FJlQm_kKByafphj8XzCvY6VqfHArI4WWaaOkWMcquzutJw",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm354.fMEGA_7a39422d819f7e8ed57b7b95e4c96deebad37d4b4b76185fe4230abd667a9e89.png",
-            "level": "6",
-            "boss": "Mega Banette",
-            "hatchTime": "2022-11-05T05:06:10Z",
-            "endTime": "2022-11-05T05:51:10Z"
-        }
+        "raid": null
     },
     {
         "id": "6d8b358b-78e5-5ad4-8136-0536043f43a8",
@@ -873,13 +941,7 @@
             "lng": 7.300871
         },
         "image": "https://lh3.googleusercontent.com/4AaOEqDkU9ilu_rYxc8T_sW3na5m1aOhjoMAIUmyjCcAndhHyJ6-995t44QGNHNjEaM8fsIsAfwChIbNyD5zt4NtWA",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm487.fORIGIN_0ca1a1305600857e5010dfb57cf3a2f027d4f027bde5f98222849a6b06b5b860.png",
-            "level": "5",
-            "boss": "Giratina",
-            "hatchTime": "2022-11-05T05:00:06Z",
-            "endTime": "2022-11-05T05:45:06Z"
-        }
+        "raid": null
     },
     {
         "id": "51d0a6a1-c18a-58d2-9291-db2b957a4983",
@@ -921,13 +983,7 @@
             "lng": 7.308852
         },
         "image": "https://lh3.googleusercontent.com/m8qsw7N81nK68HCWGzmMf-6k8kslY_RzYD8z0fl7cp7Iq83JHdIj4R6bxiefqjL8t6XGTGXp8_lhCQbZQkxyizYiuA",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm487.fORIGIN_0ca1a1305600857e5010dfb57cf3a2f027d4f027bde5f98222849a6b06b5b860.png",
-            "level": "5",
-            "boss": "Giratina",
-            "hatchTime": "2022-11-05T05:00:23Z",
-            "endTime": "2022-11-05T05:45:23Z"
-        }
+        "raid": null
     },
     {
         "id": "6b62d22b-fb3f-5d79-9cab-83b5753f4a91",
@@ -970,16 +1026,6 @@
         "raid": null
     },
     {
-        "id": "17995c1a-bd04-5527-9007-be92ca0e667e",
-        "name": "Pylone Ortseingang Altenlingen",
-        "location": {
-            "lat": 52.540678,
-            "lng": 7.294371
-        },
-        "image": "https://lh3.googleusercontent.com/4BHR4_zNzv2P8cxa2ICyOhnUxxuoNOXeST2J9D56GY7X2wWkSLPGs_nltM8Mto2N_eciTlbyO2n4o2jwqHmZy_Bke_c",
-        "raid": null
-    },
-    {
         "id": "96eaf1a1-bad8-5be0-b8fd-db35b6b966ec",
         "name": "Sandstein Hafen Altenlingen",
         "location": {
@@ -987,26 +1033,6 @@
             "lng": 7.29587
         },
         "image": "https://lh3.googleusercontent.com/ULVCeCPCuz-TvR2HlaaZhRYUU0TvAe4SRDWCixM0u6KaMkppw9Simlrc4CO0gDlZZgTeqJZ19ROQ--3WDOU4s32z33UX",
-        "raid": null
-    },
-    {
-        "id": "60f39bfd-0d77-57cc-ac2e-aea83b03a2cb",
-        "name": "Fachwerk-Bemalung",
-        "location": {
-            "lat": 52.522532,
-            "lng": 7.318391
-        },
-        "image": "https://lh3.googleusercontent.com/wz41OHJjjTTFGG1hvA16zEJ_r1xxdNjVd3_eq7h9Uu8TrpzgEC3hX0B7bd01cQPVB99nA13uUvtWClOvPP24VUvuoUE",
-        "raid": null
-    },
-    {
-        "id": "d6d85bdb-827d-53fa-80d9-85a4cd35914d",
-        "name": "Spielplatz am Silbergrasweg",
-        "location": {
-            "lat": 52.537248,
-            "lng": 7.301998
-        },
-        "image": "https://lh3.googleusercontent.com/Lau5fLMvy5PkMYSAFpxPViOB2nVV4Ao3FnfoArL7tl0GqdLsTEi-6WjHuLm95nUoaOXXREm2qKq_Yja1t8Px-7heYoA",
         "raid": null
     },
     {
@@ -1060,26 +1086,6 @@
         "raid": null
     },
     {
-        "id": "567aad98-7b79-5615-8df8-5dd650ba82d9",
-        "name": "Füttern Sie keine Wasservögel",
-        "location": {
-            "lat": 52.535353,
-            "lng": 7.316751
-        },
-        "image": "https://lh3.googleusercontent.com/PUKvmF_LRfRveqcREzS4lRskdcCrlIyMO8EY0DSIKDYTwfoxgjgax70wF4ZoYDPHOTvbou8jPKwqD_L9DSm0-0EtyW8",
-        "raid": null
-    },
-    {
-        "id": "ddf152c9-b92f-5ad0-bb04-dcc1d65aaff8",
-        "name": "Du, Unsere Mutter",
-        "location": {
-            "lat": 52.530319,
-            "lng": 7.317439
-        },
-        "image": "https://lh3.googleusercontent.com/KvempzFPw-8g-8UyMw_Tr4Idw4xJnrDr73Y4SJr0Wzl5F0uVNRSUp2AwJuY8xxx8jMDy3oiQ5MjNhAbDQHNBJmRRBhwB",
-        "raid": null
-    },
-    {
         "id": "b152bc0f-d1e2-52d7-b3ca-b3a200035934",
         "name": "Jesus Am Kreuz",
         "location": {
@@ -1088,6 +1094,22 @@
         },
         "image": "https://lh3.googleusercontent.com/7YAiMg7hVl9_EmGKk9b-Htlmtoku7PDMIOGcnPxhAMSTAwOE3rRbnT5iltNiJIZMdWonipeyxxFKdde7VK5JPePppuTr",
         "raid": null
+    },
+    {
+        "id": "586cb039-6457-5605-b0cc-17a1440c1fb8",
+        "name": "Super Mario unter Strom",
+        "location": {
+            "lat": 52.543021,
+            "lng": 7.354369
+        },
+        "image": "https://lh3.googleusercontent.com/mAxcX_Nf5lMnyn1A3yKMOOgIVLBsUSqoLYdYvCcFD3SdePts70hpp4Nz9BmNGMUcgvxstGB6XTFL7-fWU4xaVodO4B0",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "level": "5",
+            "boss": "",
+            "hatchTime": "2022-11-05T06:07:27Z",
+            "endTime": "2022-11-05T06:52:27Z"
+        }
     },
     {
         "id": "9f7b6b74-0837-5a43-8c6b-20eada357e4f",
@@ -1209,13 +1231,7 @@
             "lng": 7.34733
         },
         "image": "https://lh3.googleusercontent.com/PJaPh1eDlQEHgsgOqSw7nTEkoBjnPxtBSKuapAyU9UY0A_tgm5CWI9dJ3n-vwjWNi4_4_-oyRurhkRaXCra0fXWh_w",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm487.fORIGIN_0ca1a1305600857e5010dfb57cf3a2f027d4f027bde5f98222849a6b06b5b860.png",
-            "level": "5",
-            "boss": "Giratina",
-            "hatchTime": "2022-11-05T05:02:28Z",
-            "endTime": "2022-11-05T05:47:28Z"
-        }
+        "raid": null
     },
     {
         "id": "eeefae12-4e81-51a4-987b-4f259f83a1c5",
@@ -1257,13 +1273,7 @@
             "lng": 7.337817
         },
         "image": "https://lh3.googleusercontent.com/mYRo7MO7IXWiCLPp2Rj-rTjb6BqWagUdbv97EiKnp2c5648pj2AcUEDPLvpTQ7tDEBV-O4eeqhY3FldlW_ugwolJQ4oq",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm487.fORIGIN_0ca1a1305600857e5010dfb57cf3a2f027d4f027bde5f98222849a6b06b5b860.png",
-            "level": "5",
-            "boss": "Giratina",
-            "hatchTime": "2022-11-05T05:06:03Z",
-            "endTime": "2022-11-05T05:51:03Z"
-        }
+        "raid": null
     },
     {
         "id": "77181596-23f0-5df4-9821-0e680a8348db",
@@ -1493,16 +1503,6 @@
             "lng": 7.368666
         },
         "image": "https://lh3.googleusercontent.com/ALzxcTZuMDUl8cSl_DWkggZEtewLU3MdzGLZnAWj3lD98iXSrzax8eQKvBSEnRxxkYgII6svaukVLVpE3eOrtkYBrz0",
-        "raid": null
-    },
-    {
-        "id": "586cb039-6457-5605-b0cc-17a1440c1fb8",
-        "name": "Super Mario unter Strom",
-        "location": {
-            "lat": 52.543021,
-            "lng": 7.354369
-        },
-        "image": "https://lh3.googleusercontent.com/mAxcX_Nf5lMnyn1A3yKMOOgIVLBsUSqoLYdYvCcFD3SdePts70hpp4Nz9BmNGMUcgvxstGB6XTFL7-fWU4xaVodO4B0",
         "raid": null
     },
     {
@@ -1824,6 +1824,22 @@
         "raid": null
     },
     {
+        "id": "0e928882-f375-5f78-86d1-e4600ed45270",
+        "name": "Infotafeln Lingen und Umgebung",
+        "location": {
+            "lat": 52.524909,
+            "lng": 7.377688
+        },
+        "image": "https://lh3.googleusercontent.com/cnM-my3JDQwyv6cZgwQK6IdfL4x04fVSvNQvYelX344JXKB2E08IGEB-2OQpZ_YD51YRAM7wTj6IKV-cmLmYyNSci-7a",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "level": "1",
+            "boss": "",
+            "hatchTime": "2022-11-05T06:43:06Z",
+            "endTime": "2022-11-05T07:28:06Z"
+        }
+    },
+    {
         "id": "ba65f664-96dc-5cb9-9891-7cda10d55782",
         "name": "Hinweistafel 7",
         "location": {
@@ -1851,16 +1867,6 @@
             "lng": 7.389112
         },
         "image": "https://lh3.googleusercontent.com/r-0pMk_NZSHh2UDJKdjBll1X-35NoXtge6sIqi5SeYJlE3y0pA12ya8m52qrMbkj7b1rZ1QP6Sq_fzck19639Zkg_G3b",
-        "raid": null
-    },
-    {
-        "id": "0e928882-f375-5f78-86d1-e4600ed45270",
-        "name": "Infotafeln Lingen und Umgebung",
-        "location": {
-            "lat": 52.524909,
-            "lng": 7.377688
-        },
-        "image": "https://lh3.googleusercontent.com/cnM-my3JDQwyv6cZgwQK6IdfL4x04fVSvNQvYelX344JXKB2E08IGEB-2OQpZ_YD51YRAM7wTj6IKV-cmLmYyNSci-7a",
         "raid": null
     },
     {
@@ -2129,13 +2135,7 @@
             "lng": 7.29666
         },
         "image": "https://lh3.googleusercontent.com/IW_ePzKFcpdS99Kv1EC2Rq3_UkKffq37Gliu3jTWCZPw1Rx28SsOajt-gUPH0INIYmNqR-hist4l2XofAex5_KJ8YdmP",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm487.fORIGIN_0ca1a1305600857e5010dfb57cf3a2f027d4f027bde5f98222849a6b06b5b860.png",
-            "level": "5",
-            "boss": "Giratina",
-            "hatchTime": "2022-11-05T05:01:41Z",
-            "endTime": "2022-11-05T05:46:41Z"
-        }
+        "raid": null
     },
     {
         "id": "0c1a9760-c9dd-514a-9797-27637de85286",
@@ -2342,9 +2342,9 @@
         },
         "image": "https://lh3.googleusercontent.com/cLD8zt9c3fjMmmNfT1Er_z7UkJdcQRvJ9bMbt92MYG9W6JuXFrcLLTgeMrt0gWx1P6lV1wbBceCWCsMrkQ7A8_GL36k",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_3_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm354.fMEGA_7a39422d819f7e8ed57b7b95e4c96deebad37d4b4b76185fe4230abd667a9e89.png",
             "level": "6",
-            "boss": "",
+            "boss": "Mega Banette",
             "hatchTime": "2022-11-05T05:39:32Z",
             "endTime": "2022-11-05T06:24:32Z"
         }
@@ -2494,9 +2494,9 @@
         },
         "image": "https://lh3.googleusercontent.com/jtAvvSznxrF2vGJabLIQkiY100nX7yZF69jBxDhaxzmNpSQA6qweT42rMloHKPOjRUePRQ9TGz5Wj0PNfNzKoJKuOdRfinqicqkv-OU",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm200_69f27c89c1ba32515987bf2f0224977b214ffb66c7bfb1745d1023274f251720.png",
             "level": "1",
-            "boss": "",
+            "boss": "Misdreavus",
             "hatchTime": "2022-11-05T05:39:34Z",
             "endTime": "2022-11-05T06:24:34Z"
         }
@@ -2540,6 +2540,22 @@
         },
         "image": "https://lh3.googleusercontent.com/Nxo1CVB2vfM0hGmDgpX_eEuByexJPRsDae01vg3cIxAFcM4TrXLeiu11R9Vofk0BN-_aUh3nUuIFEM_nlz7A176rEV1H",
         "raid": null
+    },
+    {
+        "id": "91bfbcfb-5218-5bc8-9653-fd42e46dd3e9",
+        "name": "Wasserspiel Andervenne West",
+        "location": {
+            "lat": 52.486559,
+            "lng": 7.545903
+        },
+        "image": "https://lh3.googleusercontent.com/DJXLrFZuCcuy8Xk_wlZ0DCtPJgBGP0mN-h8FX0032Z2ROsC7qStThcdZl-tI6gC6zu23Dd2MvVq4KTpfhwx3pCBbMDE",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "level": "3",
+            "boss": "",
+            "hatchTime": "2022-11-05T06:08:31Z",
+            "endTime": "2022-11-05T06:53:31Z"
+        }
     },
     {
         "id": "85811b52-b54e-5ef5-bdea-944fc7cc5ab8",
@@ -2597,13 +2613,7 @@
             "lng": 7.543516
         },
         "image": "https://lh3.googleusercontent.com/2MnhadOzXibxfM39v1KwdxKu1rVumQWmLpi-I3sFTakle5EzgQ4YJsooiYUrGxjAYTDo6toeLExGnqKAhsLHIX9r650d",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm354.fMEGA_7a39422d819f7e8ed57b7b95e4c96deebad37d4b4b76185fe4230abd667a9e89.png",
-            "level": "6",
-            "boss": "Mega Banette",
-            "hatchTime": "2022-11-05T05:07:24Z",
-            "endTime": "2022-11-05T05:52:24Z"
-        }
+        "raid": null
     },
     {
         "id": "65d12336-d53f-56e4-81df-cb2f46f31a1c",
@@ -2613,22 +2623,6 @@
             "lng": 7.547607
         },
         "image": "https://lh3.googleusercontent.com/LSkWODXRxXOsPg_G4o1alu__ce87rsBbS8dZpuqzTg1QuCRJlcq0UITHOfsZoJBYxg3IOgJRfLbugugYPNQenw5mN0g",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm302_8d7be70c53afc2ec4b7bd3436c8c2ee81411b6ed5476e32d1264abea394896e1.png",
-            "level": "3",
-            "boss": "Sableye",
-            "hatchTime": "2022-11-05T05:04:51Z",
-            "endTime": "2022-11-05T05:49:51Z"
-        }
-    },
-    {
-        "id": "91bfbcfb-5218-5bc8-9653-fd42e46dd3e9",
-        "name": "Wasserspiel Andervenne West",
-        "location": {
-            "lat": 52.486559,
-            "lng": 7.545903
-        },
-        "image": "https://lh3.googleusercontent.com/DJXLrFZuCcuy8Xk_wlZ0DCtPJgBGP0mN-h8FX0032Z2ROsC7qStThcdZl-tI6gC6zu23Dd2MvVq4KTpfhwx3pCBbMDE",
         "raid": null
     },
     {
