@@ -1,5 +1,21 @@
 [
     {
+        "id": "7fc6504b-2ce6-5c55-a22d-4289b3b73e61",
+        "name": "Darmer Kapelle",
+        "location": {
+            "lat": 52.500642,
+            "lng": 7.317548
+        },
+        "image": "https://lh3.googleusercontent.com/6goUFeFQX9QvmIaAdaBBC-Zhw9jxXJvD4a-UudtmZGubVQ05wkrna78mYRImH8JdfVHIvzxjMNK2xXvTGLYPv0UaX0s",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "level": "1",
+            "boss": "",
+            "hatchTime": "2022-11-06T18:20:13Z",
+            "endTime": "2022-11-06T19:05:13Z"
+        }
+    },
+    {
         "id": "da94de32-9a15-5515-a7a9-b7895c0a2013",
         "name": "Beintrainer",
         "location": {
@@ -199,13 +215,7 @@
             "lng": 7.310086
         },
         "image": "https://lh3.googleusercontent.com/kXkJa3OBqD6gWgdbp4zCelHrQaaVA6sx3mhokn3PEj09UXueRtViu418qB0_nBWlvy-_Wx_NkuYVcCXPi_hJYa5csVVP",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm371_65ab29d32be7f9e87fa72b58004b65aefd90deebac2a46b166e768c1540d7941.png",
-            "level": "1",
-            "boss": "Bagon",
-            "hatchTime": "2022-11-06T17:00:10Z",
-            "endTime": "2022-11-06T17:45:10Z"
-        }
+        "raid": null
     },
     {
         "id": "19256076-73c8-5504-a6ed-3c84394b5b5f",
@@ -285,16 +295,6 @@
             "lng": 7.28486
         },
         "image": "https://lh3.googleusercontent.com/Fe73dEKieu2lVCEk7Yd_1IYkhKKHDvjyPCjN7PXUbpd61zv5S2Kw_bQ_B1wHgzw4TnhcWK_gVORivwzqhg4wr8tQlT8",
-        "raid": null
-    },
-    {
-        "id": "7fc6504b-2ce6-5c55-a22d-4289b3b73e61",
-        "name": "Darmer Kapelle",
-        "location": {
-            "lat": 52.500642,
-            "lng": 7.317548
-        },
-        "image": "https://lh3.googleusercontent.com/6goUFeFQX9QvmIaAdaBBC-Zhw9jxXJvD4a-UudtmZGubVQ05wkrna78mYRImH8JdfVHIvzxjMNK2xXvTGLYPv0UaX0s",
         "raid": null
     },
     {
@@ -458,9 +458,9 @@
         },
         "image": "https://lh3.googleusercontent.com/FDpPfA3y9dFtu6mWXPEd5QX2s7rGFzWiZBCzEw_fFFi7O_3HLQ79KbuRmmIpE_vqfVjskkJxHbkS0EDCxc5p7aKT0rw",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm487.fORIGIN_0ca1a1305600857e5010dfb57cf3a2f027d4f027bde5f98222849a6b06b5b860.png",
             "level": "5",
-            "boss": "",
+            "boss": "Giratina",
             "hatchTime": "2022-11-06T17:37:51Z",
             "endTime": "2022-11-06T18:22:51Z"
         }
@@ -848,9 +848,9 @@
         },
         "image": "https://lh3.googleusercontent.com/4LH_8oMu9rq4MoBPH9SbsylJymSPnzD-iT96XaWqG3r0MsGCNLyASeIj1VV7U0u-eWJuCvNDeNeawhsIdxo5ejiYkvw",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm302_8d7be70c53afc2ec4b7bd3436c8c2ee81411b6ed5476e32d1264abea394896e1.png",
             "level": "3",
-            "boss": "",
+            "boss": "Sableye",
             "hatchTime": "2022-11-06T17:39:28Z",
             "endTime": "2022-11-06T18:24:28Z"
         }
@@ -911,13 +911,7 @@
             "lng": 7.287835
         },
         "image": "https://lh3.googleusercontent.com/W_igtABJjZYi_TLGQ0y24u1Db37usXzb0jAznN6ctXIF02T0RbitxD7PUArcUTGT73jemyTibHsbxtuNCNcLnNaVNwo",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm302_8d7be70c53afc2ec4b7bd3436c8c2ee81411b6ed5476e32d1264abea394896e1.png",
-            "level": "3",
-            "boss": "Sableye",
-            "hatchTime": "2022-11-06T17:02:25Z",
-            "endTime": "2022-11-06T17:47:25Z"
-        }
+        "raid": null
     },
     {
         "id": "51d0a6a1-c18a-58d2-9291-db2b957a4983",
@@ -1090,6 +1084,54 @@
         "raid": null
     },
     {
+        "id": "140e2cba-d2b5-552b-b974-85becfc3c954",
+        "name": "Dieselmotor Deutz",
+        "location": {
+            "lat": 52.550008,
+            "lng": 7.350027
+        },
+        "image": "https://lh3.googleusercontent.com/o-cxjFOsfzjkEH5ejfmBhKmwHATZ35c-tXpEnN012WgvSHe6sPLlfwk5nmuzMWQtEWynqELJLxAELI3fI0xwlj1qt7Hn",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "level": "5",
+            "boss": "",
+            "hatchTime": "2022-11-06T18:34:15Z",
+            "endTime": "2022-11-06T19:19:15Z"
+        }
+    },
+    {
+        "id": "dcf8665b-2b44-511f-aec9-6de588a96952",
+        "name": "TPZ- Bühne",
+        "location": {
+            "lat": 52.533542,
+            "lng": 7.350747
+        },
+        "image": "https://lh3.googleusercontent.com/qasCC8hkLwcJ2JPKT18_Fuj7BFnkoVgBnLVhQm3KRmy8uRdykcsEVAG4-3U_xWDESYXIQr991i95PJBsxSt6yCmBlg",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "level": "5",
+            "boss": "",
+            "hatchTime": "2022-11-06T18:33:28Z",
+            "endTime": "2022-11-06T19:18:28Z"
+        }
+    },
+    {
+        "id": "4d79537a-ed86-5d61-883a-58552b0d02cb",
+        "name": "Beachvolleyball Feld",
+        "location": {
+            "lat": 52.533252,
+            "lng": 7.369066
+        },
+        "image": "https://lh3.googleusercontent.com/TfHBdZjAmn8PLcbC27RbmaHgNtHtsV_T2VIQEFJmxz1t1fVtI2TwFZ3CC14gyoL139f_vnogsd6ljjzz8z7nodxYr0mDCZm1foXaEBLDcA",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "level": "3",
+            "boss": "",
+            "hatchTime": "2022-11-06T18:34:50Z",
+            "endTime": "2022-11-06T19:19:50Z"
+        }
+    },
+    {
         "id": "995aa8b8-f8ab-5e93-8b29-02f29124678e",
         "name": "Springbrunnen am Bürgerzentrum",
         "location": {
@@ -1178,9 +1220,9 @@
         },
         "image": "https://lh3.googleusercontent.com/M3rpMI86YJDoGHb3n1ob1rOe9g2MkOfHrCEb95SKrVHRLMEEfI51Vu7sP41ZbhdpWA_waAOhR5IsN5sZ9WUFWUvBOqk",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm302_8d7be70c53afc2ec4b7bd3436c8c2ee81411b6ed5476e32d1264abea394896e1.png",
             "level": "3",
-            "boss": "",
+            "boss": "Sableye",
             "hatchTime": "2022-11-06T17:42:25Z",
             "endTime": "2022-11-06T18:27:25Z"
         }
@@ -1337,16 +1379,6 @@
             "lng": 7.324518
         },
         "image": "https://lh3.googleusercontent.com/a2tgyl5DsibWTey3X7NHMz_awSVMjaYDDZWkoaFlRP4etXPF9SqjjSW-UzFJdcaN8v8AmlAigqlMVC8AcPIeknF4iA",
-        "raid": null
-    },
-    {
-        "id": "dcf8665b-2b44-511f-aec9-6de588a96952",
-        "name": "TPZ- Bühne",
-        "location": {
-            "lat": 52.533542,
-            "lng": 7.350747
-        },
-        "image": "https://lh3.googleusercontent.com/qasCC8hkLwcJ2JPKT18_Fuj7BFnkoVgBnLVhQm3KRmy8uRdykcsEVAG4-3U_xWDESYXIQr991i95PJBsxSt6yCmBlg",
         "raid": null
     },
     {
@@ -1530,16 +1562,6 @@
         "raid": null
     },
     {
-        "id": "4d79537a-ed86-5d61-883a-58552b0d02cb",
-        "name": "Beachvolleyball Feld",
-        "location": {
-            "lat": 52.533252,
-            "lng": 7.369066
-        },
-        "image": "https://lh3.googleusercontent.com/TfHBdZjAmn8PLcbC27RbmaHgNtHtsV_T2VIQEFJmxz1t1fVtI2TwFZ3CC14gyoL139f_vnogsd6ljjzz8z7nodxYr0mDCZm1foXaEBLDcA",
-        "raid": null
-    },
-    {
         "id": "e467adbc-72c2-5cb6-924a-331353c50b38",
         "name": "Kletterseile",
         "location": {
@@ -1550,14 +1572,20 @@
         "raid": null
     },
     {
-        "id": "140e2cba-d2b5-552b-b974-85becfc3c954",
-        "name": "Dieselmotor Deutz",
+        "id": "4a134022-73f8-541e-a717-d4d5bc097723",
+        "name": "Gebetsschrein Jesus",
         "location": {
-            "lat": 52.550008,
-            "lng": 7.350027
+            "lat": 52.514913,
+            "lng": 7.412154
         },
-        "image": "https://lh3.googleusercontent.com/o-cxjFOsfzjkEH5ejfmBhKmwHATZ35c-tXpEnN012WgvSHe6sPLlfwk5nmuzMWQtEWynqELJLxAELI3fI0xwlj1qt7Hn",
-        "raid": null
+        "image": "https://lh3.googleusercontent.com/7-t1-Bq-_JsiPEd8B3-g4Y7kLQyVdlTQK81pNB0YeZU29FsnGIStRtw32-Lv1Swfuf2opCn7VFSTItVDimxfVgRyKQ",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "level": "5",
+            "boss": "",
+            "hatchTime": "2022-11-06T18:27:24Z",
+            "endTime": "2022-11-06T19:12:24Z"
+        }
     },
     {
         "id": "5bbb0ac9-cbc5-5ffb-b585-35460e66bd95",
@@ -1658,16 +1686,6 @@
         "raid": null
     },
     {
-        "id": "4a134022-73f8-541e-a717-d4d5bc097723",
-        "name": "Gebetsschrein Jesus",
-        "location": {
-            "lat": 52.514913,
-            "lng": 7.412154
-        },
-        "image": "https://lh3.googleusercontent.com/7-t1-Bq-_JsiPEd8B3-g4Y7kLQyVdlTQK81pNB0YeZU29FsnGIStRtw32-Lv1Swfuf2opCn7VFSTItVDimxfVgRyKQ",
-        "raid": null
-    },
-    {
         "id": "fc6d17d5-0091-504e-87d9-7ae3c2bc0706",
         "name": "Artenreichtum Am Waldesaum",
         "location": {
@@ -1716,6 +1734,38 @@
         },
         "image": "https://lh3.googleusercontent.com/WfL2meE7lqXlknXeNM2uW1X0epV4BEyL8Ko_1pW-2XAu6eax6j0diKUGoul16_S673UXpF_JOORqt_Y3wZmkao4I3A",
         "raid": null
+    },
+    {
+        "id": "78dd432d-336f-5b08-8685-39dc2576a0d3",
+        "name": "Thuiner Hochzeitsbäume",
+        "location": {
+            "lat": 52.495613,
+            "lng": 7.481485
+        },
+        "image": "https://lh3.googleusercontent.com/IyM_6LIBkFEXprpQEOm3KO75YiI3tW56WvSgOO1zDXp8wsiDSa584LD6NHhNMmGbqcmA_rGb9gtbmQdPeQB1-xUndJtD",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "level": "3",
+            "boss": "",
+            "hatchTime": "2022-11-06T18:36:33Z",
+            "endTime": "2022-11-06T19:21:33Z"
+        }
+    },
+    {
+        "id": "c6e3d220-69a3-5a72-a62f-48c4af7a22c5",
+        "name": "St. Elisabeth",
+        "location": {
+            "lat": 52.497724,
+            "lng": 7.48963
+        },
+        "image": "https://lh3.googleusercontent.com/XpB_ekxkm_tPAJs7wCFuyT3gzu_FCGmqySCyL-FjWhYHg13fRD6Lz6tHyTjxJmZICoQLPv-YT5YZJJ66cCGkVg15ZQ",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "level": "5",
+            "boss": "",
+            "hatchTime": "2022-11-06T18:30:43Z",
+            "endTime": "2022-11-06T19:15:43Z"
+        }
     },
     {
         "id": "a60fefb7-380e-5c61-8d33-29d335652332",
@@ -1814,16 +1864,6 @@
         }
     },
     {
-        "id": "78dd432d-336f-5b08-8685-39dc2576a0d3",
-        "name": "Thuiner Hochzeitsbäume",
-        "location": {
-            "lat": 52.495613,
-            "lng": 7.481485
-        },
-        "image": "https://lh3.googleusercontent.com/IyM_6LIBkFEXprpQEOm3KO75YiI3tW56WvSgOO1zDXp8wsiDSa584LD6NHhNMmGbqcmA_rGb9gtbmQdPeQB1-xUndJtD",
-        "raid": null
-    },
-    {
         "id": "2bc0c5d9-faf3-56d2-bf1a-03cef43f21ad",
         "name": "Knapp Gerds Tatort",
         "location": {
@@ -1831,16 +1871,6 @@
             "lng": 7.479152
         },
         "image": "https://lh3.googleusercontent.com/EJoLjJLAkgMAUFQ6Vho10USuwY6Pi8GAVtWDVznvs4n3LaekI_2OTFnDQw3WflTO0JvCDA4Rv9QZxE0HlG-smVMUzw",
-        "raid": null
-    },
-    {
-        "id": "c6e3d220-69a3-5a72-a62f-48c4af7a22c5",
-        "name": "St. Elisabeth",
-        "location": {
-            "lat": 52.497724,
-            "lng": 7.48963
-        },
-        "image": "https://lh3.googleusercontent.com/XpB_ekxkm_tPAJs7wCFuyT3gzu_FCGmqySCyL-FjWhYHg13fRD6Lz6tHyTjxJmZICoQLPv-YT5YZJJ66cCGkVg15ZQ",
         "raid": null
     },
     {
@@ -2138,6 +2168,22 @@
         "raid": null
     },
     {
+        "id": "8ffd780d-57e0-5597-a35b-ac612eb95810",
+        "name": "Spielplatz Osterkampstrasse",
+        "location": {
+            "lat": 52.576289,
+            "lng": 7.29666
+        },
+        "image": "https://lh3.googleusercontent.com/IW_ePzKFcpdS99Kv1EC2Rq3_UkKffq37Gliu3jTWCZPw1Rx28SsOajt-gUPH0INIYmNqR-hist4l2XofAex5_KJ8YdmP",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "level": "5",
+            "boss": "",
+            "hatchTime": "2022-11-06T18:42:22Z",
+            "endTime": "2022-11-06T19:27:22Z"
+        }
+    },
+    {
         "id": "4212698f-4940-5e09-a118-9196647c565d",
         "name": "skulptur",
         "location": {
@@ -2236,16 +2282,6 @@
         "raid": null
     },
     {
-        "id": "8ffd780d-57e0-5597-a35b-ac612eb95810",
-        "name": "Spielplatz Osterkampstrasse",
-        "location": {
-            "lat": 52.576289,
-            "lng": 7.29666
-        },
-        "image": "https://lh3.googleusercontent.com/IW_ePzKFcpdS99Kv1EC2Rq3_UkKffq37Gliu3jTWCZPw1Rx28SsOajt-gUPH0INIYmNqR-hist4l2XofAex5_KJ8YdmP",
-        "raid": null
-    },
-    {
         "id": "2dce5e51-fa58-57f8-8ef4-44118c5c3abd",
         "name": "Infotafel Der Baum Mittelpunkt",
         "location": {
@@ -2316,6 +2352,22 @@
         "raid": null
     },
     {
+        "id": "91ae74e3-f0c9-57c4-9e13-25682d502430",
+        "name": "Das blaue Pferd",
+        "location": {
+            "lat": 52.558568,
+            "lng": 7.359918
+        },
+        "image": "https://lh3.googleusercontent.com/oRqqhD9oSspNIBbeLCDoH-GODW0s2rR5t2SDom1nXpj9tlo9Dj56ICKEupse3poPmraQuHj98u_LNhWMyBKDpErMXw",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "level": "1",
+            "boss": "",
+            "hatchTime": "2022-11-06T18:18:35Z",
+            "endTime": "2022-11-06T19:03:35Z"
+        }
+    },
+    {
         "id": "007af4f8-826c-5fcc-bfd3-239aadaa6c97",
         "name": "Tennisanlage SV Brögbern",
         "location": {
@@ -2346,16 +2398,6 @@
             "hatchTime": "2022-11-06T17:12:32Z",
             "endTime": "2022-11-06T17:57:32Z"
         }
-    },
-    {
-        "id": "91ae74e3-f0c9-57c4-9e13-25682d502430",
-        "name": "Das blaue Pferd",
-        "location": {
-            "lat": 52.558568,
-            "lng": 7.359918
-        },
-        "image": "https://lh3.googleusercontent.com/oRqqhD9oSspNIBbeLCDoH-GODW0s2rR5t2SDom1nXpj9tlo9Dj56ICKEupse3poPmraQuHj98u_LNhWMyBKDpErMXw",
-        "raid": null
     },
     {
         "id": "7dbe1264-828e-5f58-b489-d7d66b3fbcad",
@@ -2396,6 +2438,22 @@
         },
         "image": "https://lh3.googleusercontent.com/EekH933bzO14A8fvhhQM-4EN1e5K9byXgXJ4_Xoa9E9EkqSaz_uTyhJDToLSJVZW-wzAN0tkuVftvFArmg7UH5wgsF6e",
         "raid": null
+    },
+    {
+        "id": "c2504881-e0c1-5bfa-b10e-532d11366487",
+        "name": "Deichkrone",
+        "location": {
+            "lat": 52.594314,
+            "lng": 7.279064
+        },
+        "image": "https://lh3.googleusercontent.com/L-XVGNKhGVGhDp9K3dUN8eCU_sbh5xyv5VDQy8jiZmLSALD8oAdx1zCuGudkwVCZLEmFUczvytfYAQw-ZQI33hxPaQA",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "level": "1",
+            "boss": "",
+            "hatchTime": "2022-11-06T18:30:06Z",
+            "endTime": "2022-11-06T19:15:06Z"
+        }
     },
     {
         "id": "7dd1bd15-2e1d-5905-b546-22456a0d4183",
@@ -2473,16 +2531,6 @@
             "lng": 7.300909
         },
         "image": "https://lh3.googleusercontent.com/qgg91IHuzFPM83MS-bAlOzQnK8BnK50lK85bBsvitx8t_gj7tK_yykL32qVaGV65pxEuj5Up_E4DlemuQlayvi2G9Bh7vl4GTaw-b-2x",
-        "raid": null
-    },
-    {
-        "id": "c2504881-e0c1-5bfa-b10e-532d11366487",
-        "name": "Deichkrone",
-        "location": {
-            "lat": 52.594314,
-            "lng": 7.279064
-        },
-        "image": "https://lh3.googleusercontent.com/L-XVGNKhGVGhDp9K3dUN8eCU_sbh5xyv5VDQy8jiZmLSALD8oAdx1zCuGudkwVCZLEmFUczvytfYAQw-ZQI33hxPaQA",
         "raid": null
     },
     {
@@ -2624,6 +2672,22 @@
         "raid": null
     },
     {
+        "id": "c6e3d220-69a3-5a72-a62f-48c4af7a22c5",
+        "name": "St. Elisabeth",
+        "location": {
+            "lat": 52.497724,
+            "lng": 7.48963
+        },
+        "image": "https://lh3.googleusercontent.com/XpB_ekxkm_tPAJs7wCFuyT3gzu_FCGmqySCyL-FjWhYHg13fRD6Lz6tHyTjxJmZICoQLPv-YT5YZJJ66cCGkVg15ZQ",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "level": "5",
+            "boss": "",
+            "hatchTime": "2022-11-06T18:30:43Z",
+            "endTime": "2022-11-06T19:15:43Z"
+        }
+    },
+    {
         "id": "a60fefb7-380e-5c61-8d33-29d335652332",
         "name": "Dörfer bei Thuine",
         "location": {
@@ -2679,13 +2743,7 @@
             "lng": 7.566311
         },
         "image": "https://lh3.googleusercontent.com/WzXSvAWwILvA0TzXJCcGs8u6wuy2cMVj5Gw6PcQtw1J7BjWE4WV7yfYOVdl_CL2hPTHg2pmwTvVgaHHwRc2r5cTYJzY",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm371_65ab29d32be7f9e87fa72b58004b65aefd90deebac2a46b166e768c1540d7941.png",
-            "level": "1",
-            "boss": "Bagon",
-            "hatchTime": "2022-11-06T17:05:06Z",
-            "endTime": "2022-11-06T17:50:06Z"
-        }
+        "raid": null
     },
     {
         "id": "65d12336-d53f-56e4-81df-cb2f46f31a1c",
@@ -2696,9 +2754,9 @@
         },
         "image": "https://lh3.googleusercontent.com/LSkWODXRxXOsPg_G4o1alu__ce87rsBbS8dZpuqzTg1QuCRJlcq0UITHOfsZoJBYxg3IOgJRfLbugugYPNQenw5mN0g",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm200_69f27c89c1ba32515987bf2f0224977b214ffb66c7bfb1745d1023274f251720.png",
             "level": "1",
-            "boss": "",
+            "boss": "Misdreavus",
             "hatchTime": "2022-11-06T17:41:10Z",
             "endTime": "2022-11-06T18:26:10Z"
         }
@@ -2759,13 +2817,7 @@
             "lng": 7.544795
         },
         "image": "https://lh3.googleusercontent.com/xrKOg6idtuF6ywXTawK3oOtU8ErFcav7sXyQckT4g3b-zINBWxZ3fnIRVW2-SHb0WLNm6rxz4jT3gXpEu-xzEjA01HKt",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm302_8d7be70c53afc2ec4b7bd3436c8c2ee81411b6ed5476e32d1264abea394896e1.png",
-            "level": "3",
-            "boss": "Sableye",
-            "hatchTime": "2022-11-06T17:02:37Z",
-            "endTime": "2022-11-06T17:47:37Z"
-        }
+        "raid": null
     },
     {
         "id": "91bfbcfb-5218-5bc8-9653-fd42e46dd3e9",
@@ -2845,16 +2897,6 @@
             "lng": 7.542568
         },
         "image": "https://lh3.googleusercontent.com/NtXTBILwcpAAE_pEdF9Wn3eBHwK5dEr--qha7aehWG7WIoRfcombjnUgfmKSYzdAAlI4RFAa0fBqa5cAe2lYISqxRrUY",
-        "raid": null
-    },
-    {
-        "id": "c6e3d220-69a3-5a72-a62f-48c4af7a22c5",
-        "name": "St. Elisabeth",
-        "location": {
-            "lat": 52.497724,
-            "lng": 7.48963
-        },
-        "image": "https://lh3.googleusercontent.com/XpB_ekxkm_tPAJs7wCFuyT3gzu_FCGmqySCyL-FjWhYHg13fRD6Lz6tHyTjxJmZICoQLPv-YT5YZJJ66cCGkVg15ZQ",
         "raid": null
     },
     {
@@ -2958,9 +3000,9 @@
         },
         "image": "https://lh3.googleusercontent.com/OksjqLlYNVrka2kEc82kgLEq1PFLLqGdjmi_kV9Cx4AHPhddT-7A-gdNtWSw1zKY9jKkeTI6y_smFuju_iHcyHXJp-o",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm425_89c7d521ba00d1844614568d2d85217dc383902c9b2d260dfba9e422c2b4aa1a.png",
             "level": "1",
-            "boss": "",
+            "boss": "Drifloon",
             "hatchTime": "2022-11-06T17:42:29Z",
             "endTime": "2022-11-06T18:27:29Z"
         }
