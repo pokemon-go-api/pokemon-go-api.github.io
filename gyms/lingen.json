@@ -1,5 +1,21 @@
 [
     {
+        "id": "bd4619c4-aaae-54f7-88a5-a9eccedc1f3d",
+        "name": "Brunnen in Darme",
+        "location": {
+            "lat": 52.501669,
+            "lng": 7.31644
+        },
+        "image": "https://lh3.googleusercontent.com/gIfk7VAPupwkzl6L4aezXkuWFe-UZtnGmy9-PG9lg0NaHxDxwD4pi0TuMaPMY-yxAmkBYM3EZUOQ-cM87wE6le9cRVc",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "level": "5",
+            "boss": "",
+            "hatchTime": "2022-11-07T08:11:51Z",
+            "endTime": "2022-11-07T08:56:51Z"
+        }
+    },
+    {
         "id": "5394f867-2db5-5f6e-8238-16f397a0055c",
         "name": "Alter Brunnen",
         "location": {
@@ -8,9 +24,9 @@
         },
         "image": "https://lh3.googleusercontent.com/OGQpJArEviVBLN-Ig2ZLbl4q0bn6QB8vIwsA4NHWGBgYobNQwhgZE9RPvw622qCPJOf67ruxlspSE-VKZwUuUHwr2V0",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm355_dab042b20cef6aa42bfa81915d5f804e8943ff506ae5a03595e9e2f6c5ebb87a.png",
             "level": "1",
-            "boss": "",
+            "boss": "Duskull",
             "hatchTime": "2022-11-07T07:14:41Z",
             "endTime": "2022-11-07T07:59:41Z"
         }
@@ -65,13 +81,7 @@
             "lng": 7.268038
         },
         "image": "https://lh3.googleusercontent.com/NsgSX-zLAW-W2EE-HdHNT2HqDgPDtwMYqBKblIjvbK91AC4H2gIeFvfcErogI1w0oU3Ip1X2PbTLF5u-Ejce-s6JZ4E",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm354.fMEGA_7a39422d819f7e8ed57b7b95e4c96deebad37d4b4b76185fe4230abd667a9e89.png",
-            "level": "6",
-            "boss": "Mega Banette",
-            "hatchTime": "2022-11-07T06:23:41Z",
-            "endTime": "2022-11-07T07:08:41Z"
-        }
+        "raid": null
     },
     {
         "id": "932f8cb0-7792-517a-8cea-af09070af77f",
@@ -81,13 +91,7 @@
             "lng": 7.289831
         },
         "image": "https://lh3.googleusercontent.com/btuJ_rXTGdRxwmzTx-3QFaErvCb4ujd2RNis2CIBwuybuT3mCzA5lOHwNJtJhrRvRH1GbuVAZ_DbVMqko-aE8fzlqvul",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm354.fMEGA_7a39422d819f7e8ed57b7b95e4c96deebad37d4b4b76185fe4230abd667a9e89.png",
-            "level": "6",
-            "boss": "Mega Banette",
-            "hatchTime": "2022-11-07T06:33:04Z",
-            "endTime": "2022-11-07T07:18:04Z"
-        }
+        "raid": null
     },
     {
         "id": "4382455e-c20d-5472-a375-a324de2a1e91",
@@ -97,13 +101,7 @@
             "lng": 7.294977
         },
         "image": "https://lh3.googleusercontent.com/pdNH30i-IKyxirIqFfWCpdOVURiDQQzwkA0_yDj9qmhNKp1PeB27uR8_BKVPy447exhCWtWP9YeEeVnSwoT-II1j1ug",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm487.fORIGIN_0ca1a1305600857e5010dfb57cf3a2f027d4f027bde5f98222849a6b06b5b860.png",
-            "level": "5",
-            "boss": "Giratina",
-            "hatchTime": "2022-11-07T06:29:27Z",
-            "endTime": "2022-11-07T07:14:27Z"
-        }
+        "raid": null
     },
     {
         "id": "0103817a-a495-5ac4-a104-4a8788a36d00",
@@ -316,16 +314,6 @@
         "raid": null
     },
     {
-        "id": "bd4619c4-aaae-54f7-88a5-a9eccedc1f3d",
-        "name": "Brunnen in Darme",
-        "location": {
-            "lat": 52.501669,
-            "lng": 7.31644
-        },
-        "image": "https://lh3.googleusercontent.com/gIfk7VAPupwkzl6L4aezXkuWFe-UZtnGmy9-PG9lg0NaHxDxwD4pi0TuMaPMY-yxAmkBYM3EZUOQ-cM87wE6le9cRVc",
-        "raid": null
-    },
-    {
         "id": "974c49f3-caf3-5a1b-b781-4b49a5aeacf0",
         "name": "Infotafeln Lingen",
         "location": {
@@ -376,6 +364,22 @@
         "raid": null
     },
     {
+        "id": "6360f57d-e6d2-559e-be61-c22c30cd901d",
+        "name": "Theo-Lingen-Platz",
+        "location": {
+            "lat": 52.520587,
+            "lng": 7.321795
+        },
+        "image": "https://lh3.googleusercontent.com/aKYwVxLgj7uB6Z6LGPcX8ET80N14mk6ebqncaNKgA6c8BmbdtLA7qSSeiuLBjwhesVypVwY4CJvrXq7DC7-EwSsp6EBs",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "level": "1",
+            "boss": "",
+            "hatchTime": "2022-11-07T08:13:28Z",
+            "endTime": "2022-11-07T08:58:28Z"
+        }
+    },
+    {
         "id": "c555d975-b9fb-527e-b648-7eb1e0db0af7",
         "name": "Spielplatz Strauchweg",
         "location": {
@@ -416,9 +420,9 @@
         },
         "image": "https://lh3.googleusercontent.com/YiSpreSFELEFXQuS5oSDvBy7y1Ktpkb66F-KIydw6iFJ_rg8GqJHsuZF7DG4pDnOuT63I52vr-gP9EVvTO51NwMMug",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm355_dab042b20cef6aa42bfa81915d5f804e8943ff506ae5a03595e9e2f6c5ebb87a.png",
             "level": "1",
-            "boss": "",
+            "boss": "Duskull",
             "hatchTime": "2022-11-07T07:10:41Z",
             "endTime": "2022-11-07T07:55:41Z"
         }
@@ -652,16 +656,6 @@
         "raid": null
     },
     {
-        "id": "6360f57d-e6d2-559e-be61-c22c30cd901d",
-        "name": "Theo-Lingen-Platz",
-        "location": {
-            "lat": 52.520587,
-            "lng": 7.321795
-        },
-        "image": "https://lh3.googleusercontent.com/aKYwVxLgj7uB6Z6LGPcX8ET80N14mk6ebqncaNKgA6c8BmbdtLA7qSSeiuLBjwhesVypVwY4CJvrXq7DC7-EwSsp6EBs",
-        "raid": null
-    },
-    {
         "id": "3302aa65-7fa4-5e91-ab02-15356d9f2ffe",
         "name": "Franziskus Kapelle",
         "location": {
@@ -702,6 +696,22 @@
         "raid": null
     },
     {
+        "id": "b2f92076-9f19-5188-99d3-3d65f476f4d2",
+        "name": "Insektenhotel der Stiftung Herzog v. Arenberg",
+        "location": {
+            "lat": 52.541137,
+            "lng": 7.295316
+        },
+        "image": "https://lh3.googleusercontent.com/sReX1vG_FrOD3MFc3com45Ir-OXJnBCKrJzJx3KBnmXjpDGuo59l38rcfy5PydHC8AKuA75ucu1n1zod1p0MPWKZ5i15",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "level": "3",
+            "boss": "",
+            "hatchTime": "2022-11-07T08:15:06Z",
+            "endTime": "2022-11-07T09:00:06Z"
+        }
+    },
+    {
         "id": "092aa103-afc8-5fb2-a3e7-0147607f5f2c",
         "name": "Spielplatz am Hagebuttenweg",
         "location": {
@@ -710,9 +720,9 @@
         },
         "image": "https://lh3.googleusercontent.com/S4Q_JhCZ03P5uxt5N9sDBgk4pZ4ijCHephC3RzE64JD0vBpB4Nc-wUjvStE3CkcVdZxnKWrS-655oBY9dw9jzJNAlg",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm622_1861bd157d38c99d18acb828fe37154fe87474a7e5a95b7325fed30b8ac8c943.png",
             "level": "1",
-            "boss": "",
+            "boss": "Golett",
             "hatchTime": "2022-11-07T07:08:13Z",
             "endTime": "2022-11-07T07:53:13Z"
         }
@@ -726,9 +736,9 @@
         },
         "image": "https://lh3.googleusercontent.com/ULVCeCPCuz-TvR2HlaaZhRYUU0TvAe4SRDWCixM0u6KaMkppw9Simlrc4CO0gDlZZgTeqJZ19ROQ--3WDOU4s32z33UX",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm355_dab042b20cef6aa42bfa81915d5f804e8943ff506ae5a03595e9e2f6c5ebb87a.png",
             "level": "1",
-            "boss": "",
+            "boss": "Duskull",
             "hatchTime": "2022-11-07T07:13:13Z",
             "endTime": "2022-11-07T07:58:13Z"
         }
@@ -789,13 +799,7 @@
             "lng": 7.298676
         },
         "image": "https://lh3.googleusercontent.com/gITmM271Q9bzUHtUmOof88fscF672Uq1pH8T4reQsSe6EWnShxQUvcr6FfiK56rUxhQJ3Prm6QNcc4KKQmtgLaq2piom4y0RzjKpvVY",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm149_1c746e7cd4dbe5b626714d411036ecbbed616fa35926ebeea7a319b9102b4dc6.png",
-            "level": "3",
-            "boss": "Dragonite",
-            "hatchTime": "2022-11-07T06:36:45Z",
-            "endTime": "2022-11-07T07:21:45Z"
-        }
+        "raid": null
     },
     {
         "id": "4abdafc1-2a2b-5aa4-b470-98384f9ee7b5",
@@ -805,13 +809,7 @@
             "lng": 7.300871
         },
         "image": "https://lh3.googleusercontent.com/4AaOEqDkU9ilu_rYxc8T_sW3na5m1aOhjoMAIUmyjCcAndhHyJ6-995t44QGNHNjEaM8fsIsAfwChIbNyD5zt4NtWA",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm354.fMEGA_7a39422d819f7e8ed57b7b95e4c96deebad37d4b4b76185fe4230abd667a9e89.png",
-            "level": "6",
-            "boss": "Mega Banette",
-            "hatchTime": "2022-11-07T06:29:48Z",
-            "endTime": "2022-11-07T07:14:48Z"
-        }
+        "raid": null
     },
     {
         "id": "576e84d6-3800-5644-8f22-23bb464fa2e9",
@@ -984,16 +982,6 @@
         "raid": null
     },
     {
-        "id": "b2f92076-9f19-5188-99d3-3d65f476f4d2",
-        "name": "Insektenhotel der Stiftung Herzog v. Arenberg",
-        "location": {
-            "lat": 52.541137,
-            "lng": 7.295316
-        },
-        "image": "https://lh3.googleusercontent.com/sReX1vG_FrOD3MFc3com45Ir-OXJnBCKrJzJx3KBnmXjpDGuo59l38rcfy5PydHC8AKuA75ucu1n1zod1p0MPWKZ5i15",
-        "raid": null
-    },
-    {
         "id": "b480b5f5-f355-514f-97f5-62287944fe7d",
         "name": "Golf-Club Emstal",
         "location": {
@@ -1024,6 +1012,22 @@
         "raid": null
     },
     {
+        "id": "da850e2d-888f-58ac-9601-4e4a46339388",
+        "name": "Spielplatz Von Stauffenberg Straße",
+        "location": {
+            "lat": 52.531127,
+            "lng": 7.330101
+        },
+        "image": "https://lh3.googleusercontent.com/ntaqfzd4G6Mx8-VMU8NWWorE8QRcyaAM8r3l30_zcNfIAIDbebMv9gydfeKZiqXQtaCwW0qEi9CNxVLI4b_1sCdj-g",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "level": "3",
+            "boss": "",
+            "hatchTime": "2022-11-07T08:13:12Z",
+            "endTime": "2022-11-07T08:58:12Z"
+        }
+    },
+    {
         "id": "885f86ec-2233-56a9-9169-3dc23e1a8b89",
         "name": "Mural Working Man",
         "location": {
@@ -1048,9 +1052,9 @@
         },
         "image": "https://lh3.googleusercontent.com/RI2TIMCIgB_5e-XD8N33htEKZwXwG25DRHjG9Z6GI34GsgKqPmGsB9pRphaf0labrlep3ZjgKbMW2QZAmUrAqstW3Nw",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm200_69f27c89c1ba32515987bf2f0224977b214ffb66c7bfb1745d1023274f251720.png",
             "level": "1",
-            "boss": "",
+            "boss": "Misdreavus",
             "hatchTime": "2022-11-07T07:10:56Z",
             "endTime": "2022-11-07T07:55:56Z"
         }
@@ -1064,9 +1068,9 @@
         },
         "image": "https://lh3.googleusercontent.com/PJaPh1eDlQEHgsgOqSw7nTEkoBjnPxtBSKuapAyU9UY0A_tgm5CWI9dJ3n-vwjWNi4_4_-oyRurhkRaXCra0fXWh_w",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_3_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm354.fMEGA_7a39422d819f7e8ed57b7b95e4c96deebad37d4b4b76185fe4230abd667a9e89.png",
             "level": "6",
-            "boss": "",
+            "boss": "Mega Banette",
             "hatchTime": "2022-11-07T07:08:27Z",
             "endTime": "2022-11-07T07:53:27Z"
         }
@@ -1080,9 +1084,9 @@
         },
         "image": "https://lh3.googleusercontent.com/eP1HHhGL07PRk-b19r_imEnCv_Raz4MI14EDpT4CDX8VDQetEiAG-TpisxT3EpfVGqT4oaeLVz61biTp7DQ_Zaf5A2Y",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm200_69f27c89c1ba32515987bf2f0224977b214ffb66c7bfb1745d1023274f251720.png",
             "level": "1",
-            "boss": "",
+            "boss": "Misdreavus",
             "hatchTime": "2022-11-07T07:08:46Z",
             "endTime": "2022-11-07T07:53:46Z"
         }
@@ -1105,13 +1109,7 @@
             "lng": 7.354369
         },
         "image": "https://lh3.googleusercontent.com/mAxcX_Nf5lMnyn1A3yKMOOgIVLBsUSqoLYdYvCcFD3SdePts70hpp4Nz9BmNGMUcgvxstGB6XTFL7-fWU4xaVodO4B0",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm487.fORIGIN_0ca1a1305600857e5010dfb57cf3a2f027d4f027bde5f98222849a6b06b5b860.png",
-            "level": "5",
-            "boss": "Giratina",
-            "hatchTime": "2022-11-07T06:36:59Z",
-            "endTime": "2022-11-07T07:21:59Z"
-        }
+        "raid": null
     },
     {
         "id": "e5b8f52d-eb53-5544-84ee-f71f542bff08",
@@ -1189,13 +1187,7 @@
             "lng": 7.346642
         },
         "image": "https://lh3.googleusercontent.com/oWYbABoal2fsEhB7ghHnRC30dgld0F6CEhj8-3ULnMnbIC6E-ssRvlZBGl401bos9vlvPWo7aL5se9GUygFjSfYEyxcy",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm622_1861bd157d38c99d18acb828fe37154fe87474a7e5a95b7325fed30b8ac8c943.png",
-            "level": "1",
-            "boss": "Golett",
-            "hatchTime": "2022-11-07T06:27:25Z",
-            "endTime": "2022-11-07T07:12:25Z"
-        }
+        "raid": null
     },
     {
         "id": "1eb99684-9d9c-5263-8c73-5fede9d70af7",
@@ -1215,13 +1207,7 @@
             "lng": 7.35927
         },
         "image": "https://lh3.googleusercontent.com/Rrtab0ky9sqcmpCidynRqtsseryyOaRbF9XKvY5p6ll0BHVt3knXkFlQlIY5AEdaC_Nhxex042_XKGU-EbEtcfh0Aw",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm354.fMEGA_7a39422d819f7e8ed57b7b95e4c96deebad37d4b4b76185fe4230abd667a9e89.png",
-            "level": "6",
-            "boss": "Mega Banette",
-            "hatchTime": "2022-11-07T06:29:31Z",
-            "endTime": "2022-11-07T07:14:31Z"
-        }
+        "raid": null
     },
     {
         "id": "3f58b308-e210-5ff5-83b5-148d3fe53689",
@@ -1231,13 +1217,7 @@
             "lng": 7.348666
         },
         "image": "https://lh3.googleusercontent.com/cx7mGkV2TIOa7k8kmG6KZdDAXD89EI4H15P2QsXxuR8bwgugP1UZU2WPtr-HBvUtEcFycJ2qMOKOBUVuEcKzNeq5yxMD",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm354.fMEGA_7a39422d819f7e8ed57b7b95e4c96deebad37d4b4b76185fe4230abd667a9e89.png",
-            "level": "6",
-            "boss": "Mega Banette",
-            "hatchTime": "2022-11-07T06:24:09Z",
-            "endTime": "2022-11-07T07:09:09Z"
-        }
+        "raid": null
     },
     {
         "id": "9f7b6b74-0837-5a43-8c6b-20eada357e4f",
@@ -1247,13 +1227,7 @@
             "lng": 7.370135
         },
         "image": "https://lh3.googleusercontent.com/sEZeXLWQlB7Jdl4mWWl2208JxYEbBZiNNVC0rCyyJbu7Xxjtl1doSWecfoMLc1LK4opRyNsTUNK8YnJKLJLuEsrw_h4jSBV3pwivpE4",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm354.fMEGA_7a39422d819f7e8ed57b7b95e4c96deebad37d4b4b76185fe4230abd667a9e89.png",
-            "level": "6",
-            "boss": "Mega Banette",
-            "hatchTime": "2022-11-07T06:24:18Z",
-            "endTime": "2022-11-07T07:09:18Z"
-        }
+        "raid": null
     },
     {
         "id": "6f5c0c43-6228-5681-bc2f-e24451c23a5c",
@@ -1456,16 +1430,6 @@
         "raid": null
     },
     {
-        "id": "da850e2d-888f-58ac-9601-4e4a46339388",
-        "name": "Spielplatz Von Stauffenberg Straße",
-        "location": {
-            "lat": 52.531127,
-            "lng": 7.330101
-        },
-        "image": "https://lh3.googleusercontent.com/ntaqfzd4G6Mx8-VMU8NWWorE8QRcyaAM8r3l30_zcNfIAIDbebMv9gydfeKZiqXQtaCwW0qEi9CNxVLI4b_1sCdj-g",
-        "raid": null
-    },
-    {
         "id": "6c2d562f-9bed-547a-8096-f083eaf8d919",
         "name": "Eingang zum Trimmpfad Damaschke",
         "location": {
@@ -1562,9 +1526,9 @@
         },
         "image": "https://lh3.googleusercontent.com/E3HQ42zyuwDIVi270X3ydVUosin_F2F_KbDww75Ei9h5FNLLrR_EzzmV3H_HDwOFZXu37t2QWdLR80EjMkm0uFJpVYCY",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm149_1c746e7cd4dbe5b626714d411036ecbbed616fa35926ebeea7a319b9102b4dc6.png",
             "level": "3",
-            "boss": "",
+            "boss": "Dragonite",
             "hatchTime": "2022-11-07T07:21:24Z",
             "endTime": "2022-11-07T08:06:24Z"
         }
@@ -1812,9 +1776,9 @@
         },
         "image": "https://lh3.googleusercontent.com/BZN7GVPTlxOUWoB3wP_2AOTgaht_SfYqgOMCuQftTsIFxjUsllMVPDfZnRw3JoaX4-BC_nW7an-iLjCNZ8LK08I-2g",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm302_8d7be70c53afc2ec4b7bd3436c8c2ee81411b6ed5476e32d1264abea394896e1.png",
             "level": "3",
-            "boss": "",
+            "boss": "Sableye",
             "hatchTime": "2022-11-07T07:16:58Z",
             "endTime": "2022-11-07T08:01:58Z"
         }
@@ -2118,9 +2082,9 @@
         },
         "image": "https://lh3.googleusercontent.com/pc7XWWERJc-9I0rU2JN0aYikQJFarPNviSyH7p6S4iSYv3tX16qv-2uwl57nWaoUXsggwmOUVkUT1QsY4jkVZ8wifiY",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm149_1c746e7cd4dbe5b626714d411036ecbbed616fa35926ebeea7a319b9102b4dc6.png",
             "level": "3",
-            "boss": "",
+            "boss": "Dragonite",
             "hatchTime": "2022-11-07T07:15:45Z",
             "endTime": "2022-11-07T08:00:45Z"
         }
@@ -2133,13 +2097,7 @@
             "lng": 7.303979
         },
         "image": "https://lh3.googleusercontent.com/W8_a4nipY2X3hlcdNTsgtlEJvRJg80K-B34J7bG-SASCsUEjZAHULtM5VH4xGutHFdihgBq0DVPNgbUudWN-gm6ja-k",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm621_af810454e16cb42587fd663117b2acd071a496a5a165c492d845563f8ede8648.png",
-            "level": "3",
-            "boss": "Druddigon",
-            "hatchTime": "2022-11-07T06:26:06Z",
-            "endTime": "2022-11-07T07:11:06Z"
-        }
+        "raid": null
     },
     {
         "id": "4212698f-4940-5e09-a118-9196647c565d",
@@ -2149,13 +2107,7 @@
             "lng": 7.285668
         },
         "image": "https://lh3.googleusercontent.com/F4ocf4GKHgVHQ97_GhUwgxmZYXCfiUNwPZ8RpDRbKFluXrN88bZ9c0GLaziWl_xaLj7LqWQKOj8NPVqNiPR52S5-HTo",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm487.fORIGIN_0ca1a1305600857e5010dfb57cf3a2f027d4f027bde5f98222849a6b06b5b860.png",
-            "level": "5",
-            "boss": "Giratina",
-            "hatchTime": "2022-11-07T06:26:30Z",
-            "endTime": "2022-11-07T07:11:30Z"
-        }
+        "raid": null
     },
     {
         "id": "672240cd-c0e7-5e4d-abea-e1d3e9ab5b34",
@@ -2268,6 +2220,22 @@
         "raid": null
     },
     {
+        "id": "91ae74e3-f0c9-57c4-9e13-25682d502430",
+        "name": "Das blaue Pferd",
+        "location": {
+            "lat": 52.558568,
+            "lng": 7.359918
+        },
+        "image": "https://lh3.googleusercontent.com/oRqqhD9oSspNIBbeLCDoH-GODW0s2rR5t2SDom1nXpj9tlo9Dj56ICKEupse3poPmraQuHj98u_LNhWMyBKDpErMXw",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_0_icon.png",
+            "level": "1",
+            "boss": "",
+            "hatchTime": "2022-11-07T08:21:52Z",
+            "endTime": "2022-11-07T09:06:52Z"
+        }
+    },
+    {
         "id": "aa7e1a8d-4707-51b7-8f03-03363ecf09af",
         "name": "Betstelle Brögbern",
         "location": {
@@ -2330,16 +2298,6 @@
         "raid": null
     },
     {
-        "id": "91ae74e3-f0c9-57c4-9e13-25682d502430",
-        "name": "Das blaue Pferd",
-        "location": {
-            "lat": 52.558568,
-            "lng": 7.359918
-        },
-        "image": "https://lh3.googleusercontent.com/oRqqhD9oSspNIBbeLCDoH-GODW0s2rR5t2SDom1nXpj9tlo9Dj56ICKEupse3poPmraQuHj98u_LNhWMyBKDpErMXw",
-        "raid": null
-    },
-    {
         "id": "2575ad6e-51cb-5c72-bbfa-87d890d95706",
         "name": "Mein Jesus Barmherziger",
         "location": {
@@ -2350,6 +2308,22 @@
         "raid": null
     },
     {
+        "id": "291f4eae-a42b-54be-b344-4ff7859dcbd4",
+        "name": "Temnis SV DJK Geeste",
+        "location": {
+            "lat": 52.607685,
+            "lng": 7.271917
+        },
+        "image": "https://lh3.googleusercontent.com/GV8JkVMoFTuuAKbtI56Xoo_zHG5anMgJAcuoTRvK-2FpibHlPhhPeGBy613yvffz8pa3MroOiC0Je-0lFTyJtK2LdeLLfbix0f9Izl9T",
+        "raid": {
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_3_icon.png",
+            "level": "6",
+            "boss": "",
+            "hatchTime": "2022-11-07T08:04:46Z",
+            "endTime": "2022-11-07T08:49:46Z"
+        }
+    },
+    {
         "id": "72eea3e2-1bd0-5430-91a2-65a63d0d333c",
         "name": "Fernglas",
         "location": {
@@ -2357,13 +2331,7 @@
             "lng": 7.300909
         },
         "image": "https://lh3.googleusercontent.com/qgg91IHuzFPM83MS-bAlOzQnK8BnK50lK85bBsvitx8t_gj7tK_yykL32qVaGV65pxEuj5Up_E4DlemuQlayvi2G9Bh7vl4GTaw-b-2x",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm487.fORIGIN_0ca1a1305600857e5010dfb57cf3a2f027d4f027bde5f98222849a6b06b5b860.png",
-            "level": "5",
-            "boss": "Giratina",
-            "hatchTime": "2022-11-07T06:27:50Z",
-            "endTime": "2022-11-07T07:12:50Z"
-        }
+        "raid": null
     },
     {
         "id": "6b1e96dd-a9db-535e-9a6e-8aa3f55a86c1",
@@ -2443,16 +2411,6 @@
             "lng": 7.26726
         },
         "image": "https://lh3.googleusercontent.com/7lbsMB-gmuxNfs7FkhKjUyP9yJGEl90zaeoh9ekjE_XxzkokZP3jriso14Fc_O7HrT0qdeFEfITQsmDAjghk73hT0og",
-        "raid": null
-    },
-    {
-        "id": "291f4eae-a42b-54be-b344-4ff7859dcbd4",
-        "name": "Temnis SV DJK Geeste",
-        "location": {
-            "lat": 52.607685,
-            "lng": 7.271917
-        },
-        "image": "https://lh3.googleusercontent.com/GV8JkVMoFTuuAKbtI56Xoo_zHG5anMgJAcuoTRvK-2FpibHlPhhPeGBy613yvffz8pa3MroOiC0Je-0lFTyJtK2LdeLLfbix0f9Izl9T",
         "raid": null
     },
     {
@@ -2602,9 +2560,9 @@
         },
         "image": "https://lh3.googleusercontent.com/K1MpK6YM3abiNQj_uJoIkTkBUPNNTHYIxjqJKTmPoSV2_FRrYz9h4cmoaYPDNVNwv27NA0adAuEe_rHo364Z7VbHUfE",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_1_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm621_af810454e16cb42587fd663117b2acd071a496a5a165c492d845563f8ede8648.png",
             "level": "3",
-            "boss": "",
+            "boss": "Druddigon",
             "hatchTime": "2022-11-07T07:21:58Z",
             "endTime": "2022-11-07T08:06:58Z"
         }
@@ -2618,9 +2576,9 @@
         },
         "image": "https://lh3.googleusercontent.com/vCaIBh-8GAkukPH5pHT4R3yPeQaUVgLv5LItS38iyC7sbsb8HnkBw1SHkrwXk3jzptRcWJld8XUkzSIRAMSzbqULAqY",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm487.fORIGIN_0ca1a1305600857e5010dfb57cf3a2f027d4f027bde5f98222849a6b06b5b860.png",
             "level": "5",
-            "boss": "",
+            "boss": "Giratina",
             "hatchTime": "2022-11-07T07:18:42Z",
             "endTime": "2022-11-07T08:03:42Z"
         }
@@ -2665,13 +2623,7 @@
             "lng": 7.571329
         },
         "image": "https://lh3.googleusercontent.com/4z7bBKn-VKtWD4_ckCHXYUEWFsl8fO3TA9P51NqiOepJWZ8CFawSdoTokE_W2ud741S6_tV29670SO3VzJRlihJQiwI",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm354.fMEGA_7a39422d819f7e8ed57b7b95e4c96deebad37d4b4b76185fe4230abd667a9e89.png",
-            "level": "6",
-            "boss": "Mega Banette",
-            "hatchTime": "2022-11-07T06:32:15Z",
-            "endTime": "2022-11-07T07:17:15Z"
-        }
+        "raid": null
     },
     {
         "id": "b3326c73-aff8-55bd-ae84-8b2728973ae6",
@@ -2874,9 +2826,9 @@
         },
         "image": "https://lh3.googleusercontent.com/7S8_5_6mFqkJKFqIEHyR8j2o4PHW3yM6iNPjNF5BoiiKnjas8T7gTyEtul0W76TkydXeql-_LsRPoxlI4eHs1CSUx08",
         "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/RaidIcons/raid_egg_2_icon.png",
+            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm487.fORIGIN_0ca1a1305600857e5010dfb57cf3a2f027d4f027bde5f98222849a6b06b5b860.png",
             "level": "5",
-            "boss": "",
+            "boss": "Giratina",
             "hatchTime": "2022-11-07T07:07:28Z",
             "endTime": "2022-11-07T07:52:28Z"
         }
@@ -2905,13 +2857,7 @@
             "lng": 7.364517
         },
         "image": "https://lh3.googleusercontent.com/Lv1YHlBVv9zXedMCOtPJqo4Q-cmJw-e0JfztVCU3ULVyNnTjZc_yQ0Ldazvl7KgM4ncW9w5jf6wVdfkaXFMqRnCEDkJfuiaReZ2-yCCo",
-        "raid": {
-            "image": "https://storage.googleapis.com/pgorelease-assets/Campfire/PokemonIcons/pm371_65ab29d32be7f9e87fa72b58004b65aefd90deebac2a46b166e768c1540d7941.png",
-            "level": "1",
-            "boss": "Bagon",
-            "hatchTime": "2022-11-07T06:24:06Z",
-            "endTime": "2022-11-07T07:09:06Z"
-        }
+        "raid": null
     },
     {
         "id": "ba01a3c2-4c38-517e-a060-8279c6e5d76f",
